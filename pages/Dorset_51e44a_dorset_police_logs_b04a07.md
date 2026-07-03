@@ -254,7 +254,7 @@ image: /assets/images/Dorset_51e44a_dorset_police_logs_b04a07-overview-social.jp
 
 ## Introduction
 
-After the Ministry of Defence closed its UFO desk in 2009, [Dorset]({{ 'what-really-happened-in-dorsets-skies/' | relative_url }}) did not stop producing UFO reports. What changed was the record trail. Instead of a central defence file, modern Dorset sightings now surface mainly as short police call-log entries released under Freedom of Information. Dorset Police’s own 2024 disclosure says that keyword searches of its Storm incident database found 21 UFO or UAP-related sightings between April 2014 and April 2024, after excluding incidents clearly involving mental health issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
+After the Ministry of Defence closed its UFO desk in 2009, [Dorset]({{ 'what-really-happened-in-dorsets-skies/' | relative_url }}) did not stop producing UFO reports. What changed was the record trail. Instead of a central defence file, modern Dorset sightings now surface mainly as short police call-log entries released under Freedom of Information. Dorset Police’s own 2024 disclosure says that keyword searches of its Storm incident database found 21 UFO or UAP-related sightings between April 2014 and April 2024, after excluding incidents clearly involving mental health issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
 
 
 <img src="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-overview.webp" | relative_url }}" alt="Overview image for Police Logs" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,9 +262,9 @@ That makes the Dorset Police material useful, but easy to overread. These entrie
 
 ## Why Police Logs Replaced the MoD Trail
 
-The MoD’s public UFO tables cover reports from 1997 to 2009 and give dates, times, locations and brief descriptions of sightings across the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> The National Archives explains the older system more broadly: the Ministry of Defence kept UFO records from the 1960s, most often describing shapes, lights and flashes, many of which could be explained by ordinary causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</span></span></span>
+The MoD’s public UFO tables cover reports from 1997 to 2009 and give dates, times, locations and brief descriptions of sightings across the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span> The National Archives explains the older system more broadly: the Ministry of Defence kept UFO records from the 1960s, most often describing shapes, lights and flashes, many of which could be explained by ordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</span></span></span>
 
-The crucial break came in late 2009. The National Archives’ release material states that the MoD closed its UFO desk and cancelled its UFO hotline in November 2009, ending almost 60 years of routine collection of public UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span> A separate National Archives file release notes that the desk officer’s daily work had included briefings on the MoD position, UFO investigations, FOI handling and press enquiries, before the desk was closed when that officer moved post in November 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The crucial break came in late 2009. The National Archives’ release material states that the MoD closed its UFO desk and cancelled its UFO hotline in November 2009, ending almost 60 years of routine collection of public UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo video transcript</span><span class="citation-popover-snippet">ufo video transcript</span></span></span> A separate National Archives file release notes that the desk officer’s daily work had included briefings on the MoD position, UFO investigations, FOI handling and press enquiries, before the desk was closed when that officer moved post in November 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 For Dorset, that shift matters because sightings did not disappear; they lost their old national filing point. A member of the public who saw something odd over Poole Harbour, Weymouth, West Bay or Bournemouth no longer had a dedicated MoD UFO desk to contact. Some reports instead went to local police, particularly where the witness was worried, where lights were near the coast or over a populated area, or where the caller simply treated the police as the public authority most likely to take a record.
 
@@ -274,11 +274,11 @@ This does not mean Dorset Police became a UFO investigation unit. It means its i
 <img src="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-1-dark.svg" | relative_url }}" alt="Police Logs illustration 1" data-theme-src-dark="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2014 to 2024 UFO and UAP Reports
 
-Dorset Police’s most useful modern disclosure is the 2024 FOI response covering April 2014 to April 2024. It says searches were completed on the Storm incident database using terms including “UAP”, “Unidentified aerial phenomena”, “Extra-terrestrial”, “Alien”, “Light in the Sky”, “Lights in the Sky”, “Unidentified Flying”, “UFO” and “Spaceship”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> The force then gave a total of 21 sightings and listed the date, town or city, comments and keyword. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
+Dorset Police’s most useful modern disclosure is the 2024 FOI response covering April 2014 to April 2024. It says searches were completed on the Storm incident database using terms including “UAP”, “Unidentified aerial phenomena”, “Extra-terrestrial”, “Alien”, “Light in the Sky”, “Lights in the Sky”, “Unidentified Flying”, “UFO” and “Spaceship”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> The force then gave a total of 21 sightings and listed the date, town or city, comments and keyword.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
 
-The entries are strikingly short. The first two, both on 7 June 2014, have no stated town and say simply that “there was a spaceship” and “there was a spaceship on the ground”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> A 2015 entry records “some sort of red light in the sky”, again without a stated town. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> By 2017 and 2018, named locations appear more often: Dorchester has “torch lights in the sky”; Bournemouth has lights said not to be an aeroplane; Poole has a red flashing light in the sky; Beaminster has recurring bright lights and a later report of a light in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
+The entries are strikingly short. The first two, both on 7 June 2014, have no stated town and say simply that “there was a spaceship” and “there was a spaceship on the ground”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> A 2015 entry records “some sort of red light in the sky”, again without a stated town.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> By 2017 and 2018, named locations appear more often: Dorchester has “torch lights in the sky”; Bournemouth has lights said not to be an aeroplane; Poole has a red flashing light in the sky; Beaminster has recurring bright lights and a later report of a light in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
 
-From 2019 onward the records become more recognisably Dorset-specific. Bournemouth appears in March 2019 with a “space ship flying over”; Wareham appears twice in September 2020, once with “UFO’s outside” and once with glowing objects or faint lights; Poole appears in November 2021 and March 2022; West Bay appears in September 2022; Weymouth appears in February 2023 and March 2024. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
+From 2019 onward the records become more recognisably Dorset-specific. Bournemouth appears in March 2019 with a “space ship flying over”; Wareham appears twice in September 2020, once with “UFO’s outside” and once with glowing objects or faint lights; Poole appears in November 2021 and March 2022; West Bay appears in September 2022; Weymouth appears in February 2023 and March 2024.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span>
 
 The list is not a dramatic “flap” in the classic sense. Twenty-one reports over ten years is modest. The better interpretation is that Dorset’s post-MoD UFO record became sparse, uneven and caller-led. It captures moments when someone was concerned or curious enough to contact the police, not the full number of strange-sky experiences across the county.
 
@@ -289,17 +289,17 @@ The list is not a dramatic “flap” in the classic sense. Twenty-one reports o
 
 The most useful Dorset Police examples are the ones where a location and a concrete description survive. They do not prove anything extraordinary, but they show the kind of public observations that reached police systems after 2009.
 
-**Bournemouth, July 2020:** a member of the public reported a possible UFO over the sea south of the pier. A 2022 FOI disclosure adds an important detail missing from some later summaries: officers near the cliff top could not report anything similar, and the incident was logged for no further action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> This is one of the clearest examples of why the police records are valuable but limited. There was a call, there was a location, and there was at least a minimal local check, but the result was not a confirmed identification.
+**Bournemouth, July 2020:** a member of the public reported a possible UFO over the sea south of the pier. A 2022 FOI disclosure adds an important detail missing from some later summaries: officers near the cliff top could not report anything similar, and the incident was logged for no further action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> This is one of the clearest examples of why the police records are valuable but limited. There was a call, there was a location, and there was at least a minimal local check, but the result was not a confirmed identification.
 
-**Poole, November 2021 and March 2022:** one entry says the caller was taking photos of lights in the sky; another says simply “unidentified flying object”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> The first is potentially more useful because it implies a photograph existed, but the FOI log does not provide the image, exposure details, direction of view, weather, aircraft checks or later assessment. The second is almost too thin to interpret.
+**Poole, November 2021 and March 2022:** one entry says the caller was taking photos of lights in the sky; another says simply “unidentified flying object”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> The first is potentially more useful because it implies a photograph existed, but the FOI log does not provide the image, exposure details, direction of view, weather, aircraft checks or later assessment. The second is almost too thin to interpret.
 
-**West Bay, September 2022:** the log records a caller on West Bay beach saying he could see lights in the sky which he believed were UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> West Bay matters because it is a coastal viewing point: lights over sea, along the horizon, or moving near the coast can be difficult for a casual observer to judge. Aircraft, vessels, drones, lanterns, satellites and atmospheric effects can all become ambiguous when distance and scale are unclear.
+**West Bay, September 2022:** the log records a caller on West Bay beach saying he could see lights in the sky which he believed were UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> West Bay matters because it is a coastal viewing point: lights over sea, along the horizon, or moving near the coast can be difficult for a casual observer to judge. Aircraft, vessels, drones, lanterns, satellites and atmospheric effects can all become ambiguous when distance and scale are unclear.
 
-**Weymouth, February 2023:** a caller reported that, while outside for a cigarette, she noticed three orange lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> Orange lights are one of the recurring forms in UK UFO reports generally, often prompting possible explanations such as lanterns, aircraft seen head-on, flares, drones or celestial objects low in the sky. The Dorset log does not contain enough information to choose between those possibilities.
+**Weymouth, February 2023:** a caller reported that, while outside for a cigarette, she noticed three orange lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> Orange lights are one of the recurring forms in UK UFO reports generally, often prompting possible explanations such as lanterns, aircraft seen head-on, flares, drones or celestial objects low in the sky. The Dorset log does not contain enough information to choose between those possibilities.
 
-**Poole, October 2023:** one of the more unusual entries says the informant could see approximately 18 “football size black triangles” in the sky and believed they were UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> This is vivid, but it is still only a call-log summary. It gives no altitude, duration, direction, lighting, weather, independent witnesses or photographs. As a historical record it is interesting; as evidence of an anomalous craft, it remains weak.
+**Poole, October 2023:** one of the more unusual entries says the informant could see approximately 18 “football size black triangles” in the sky and believed they were UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> This is vivid, but it is still only a call-log summary. It gives no altitude, duration, direction, lighting, weather, independent witnesses or photographs. As a historical record it is interesting; as evidence of an anomalous craft, it remains weak.
 
-**Dorchester, July 2024:** a later 2025 disclosure for the 2024 calendar year lists one relevant entry: blue lights in the sky, with the caller saying he could see blue and red things flying in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> That same disclosure notes that many keyword hits in the wider search related instead to anti-social behaviour involving drones, drones in restricted airspace and requests for the Force Drone Unit, which shows how easily modern “UAP” searches become mixed with ordinary drone-related policing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span>
+**Dorchester, July 2024:** a later 2025 disclosure for the 2024 calendar year lists one relevant entry: blue lights in the sky, with the caller saying he could see blue and red things flying in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> That same disclosure notes that many keyword hits in the wider search related instead to anti-social behaviour involving drones, drones in restricted airspace and requests for the Force Drone Unit, which shows how easily modern “UAP” searches become mixed with ordinary drone-related policing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span>
 
 
 <img src="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-2-dark.svg" | relative_url }}" alt="Police Logs illustration 2" data-theme-src-dark="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Dorset_51e44a_dorset_police_logs_b04a07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,11 +307,11 @@ The most useful Dorset Police examples are the ones where a location and a concr
 
 The Dorset Police material points to three broad patterns rather than one major case.
 
-First, most reports are lights, not structured craft. The most common wording is “light in the sky” or “lights in the sky”, with colours including red, orange and blue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> That matters because lights are among the hardest sightings to assess after the fact. Without a direction, elevation, duration, angular size, weather conditions and comparison checks, a light can remain “unidentified” simply because the record is too thin.
+First, most reports are lights, not structured craft. The most common wording is “light in the sky” or “lights in the sky”, with colours including red, orange and blue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> That matters because lights are among the hardest sightings to assess after the fact. Without a direction, elevation, duration, angular size, weather conditions and comparison checks, a light can remain “unidentified” simply because the record is too thin.
 
-Second, the reports cluster around populated and coastal places in the modern Dorset Police area. Bournemouth, Poole, Weymouth and West Bay all appear in the FOI releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> This reflects modern policing geography as much as historic-county geography. Dorset Police treats Bournemouth, Christchurch and Poole as a local policing area covering the BCP unitary authority created in 2019. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span> For a historic-county project, that needs care: Dorset Council’s own historic maps page notes that Bournemouth and Christchurch were part of Hampshire until 1974. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorsetcouncil.gov.uk">[Dorset Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorsetcouncil.gov.uk</span><span class="citation-popover-snippet">Open source on dorsetcouncil.gov.uk.</span></span></span> Modern Dorset Police UFO logs therefore include places that are administratively Dorset today but historically more complicated.
+Second, the reports cluster around populated and coastal places in the modern Dorset Police area. Bournemouth, Poole, Weymouth and West Bay all appear in the FOI releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> This reflects modern policing geography as much as historic-county geography. Dorset Police treats Bournemouth, Christchurch and Poole as a local policing area covering the BCP unitary authority created in 2019.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-snippet">Open source on police.uk.</span></span></span> For a historic-county project, that needs care: Dorset Council’s own historic maps page notes that Bournemouth and Christchurch were part of Hampshire until 1974.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorsetcouncil.gov.uk">[Dorset Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorsetcouncil.gov.uk</span><span class="citation-popover-snippet">Open source on dorsetcouncil.gov.uk.</span></span></span> Modern Dorset Police UFO logs therefore include places that are administratively Dorset today but historically more complicated.
 
-Third, the records show the growth of a post-2009 “keyword problem”. Dorset Police searches depend on terms such as UFO, UAP, lights in the sky, alien, spaceship and, in the 2024 calendar-year request, drones and orbs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> That means the dataset is shaped by language. A caller who says “strange aircraft” may be missed if the keyword is absent; a drone complaint may be captured even when it is not really a UFO report; a vague phrase such as “lights in the sky” may include anything from aircraft to fireworks.
+Third, the records show the growth of a post-2009 “keyword problem”. Dorset Police searches depend on terms such as UFO, UAP, lights in the sky, alien, spaceship and, in the 2024 calendar-year request, drones and orbs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> That means the dataset is shaped by language. A caller who says “strange aircraft” may be missed if the keyword is absent; a drone complaint may be captured even when it is not really a UFO report; a vague phrase such as “lights in the sky” may include anything from aircraft to fireworks.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uRJlcncylE8" title="Nick Pope: Inside the UK&#x27;s UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer">Nick Pope: Inside the UK&#x27;s UFO Files</a></p><p class="youtube-embed-meta">Channel: Planet Tyrus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uRJlcncylE8">Open on YouTube</a></p></div></div></div>
@@ -320,9 +320,9 @@ Third, the records show the growth of a post-2009 “keyword problem”. Dorset 
 
 The central mistake would be to treat a police UFO log as though it were an official finding that a UFO existed in the extraordinary sense. It is not. A log means that somebody contacted the police and that the incident was entered into a system. The short summary is usually the caller’s report, not a tested conclusion.
 
-Dorset Police’s own FOI wording makes this clear indirectly. The disclosures describe database searches, keyword matching and manual filtering. In the 2023 request, the force said it downloaded incidents for the requested period using listed keywords, reviewed the results to remove irrelevant matches such as vehicle registration numbers, and excluded incidents involving mental health issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> In the 2019–2020 disclosure, the force said it searched Crime, Call Handling and Incidents databases for “ufo” and “unidentified flying object”, then removed irrelevant and mental-health-related results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span>
+Dorset Police’s own FOI wording makes this clear indirectly. The disclosures describe database searches, keyword matching and manual filtering. In the 2023 request, the force said it downloaded incidents for the requested period using listed keywords, reviewed the results to remove irrelevant matches such as vehicle registration numbers, and excluded incidents involving mental health issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> In the 2019–2020 disclosure, the force said it searched Crime, Call Handling and Incidents databases for “ufo” and “unidentified flying object”, then removed irrelevant and mental-health-related results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span>
 
-That filtering improves the usefulness of the records, but it does not turn them into investigations. The Bournemouth July 2020 case is unusually informative because the log says officers near the cliff top reported nothing similar and the matter ended with no further action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> Most other entries do not show even that level of follow-up.
+That filtering improves the usefulness of the records, but it does not turn them into investigations. The Bournemouth July 2020 case is unusually informative because the log says officers near the cliff top reported nothing similar and the matter ended with no further action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O sightings &#124; Dorset Police</span></span></span> Most other entries do not show even that level of follow-up.
 
 For readers assessing Dorset’s UFO history, the right test is not “Did the police record it?” but “What exactly was recorded?” A strong case would ideally have multiple independent witnesses, precise time and direction, duration, movement, weather conditions, photographs or video, aircraft and satellite checks, and any police, coastguard, airport or radar corroboration. Most Dorset Police entries have only a location, a date and a short sentence. They are leads, not conclusions.
 
@@ -332,9 +332,9 @@ For readers assessing Dorset’s UFO history, the right test is not “Did the p
 
 Many Dorset entries fit categories that often have ordinary explanations. That does not mean every individual report is solved, but it does mean caution is necessary. A single light, a string of lights or orange lights over the coast can be hard to identify without context.
 
-One local example shows how quickly a Dorset “UFO” story can change with better context. In October 2023, residents across places including Blandford, Sherborne and Upton in Purbeck reported a string of lights in the sky. The Purbeck Gazette later reported that the lights were Starlink satellites from a SpaceX launch, appearing in a regimented line before disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purbeckgazette.co.uk">[Purbeck Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purbeckgazette.co.uk</span><span class="citation-popover-snippet">Open source on purbeckgazette.co.uk.</span></span></span> That case is not the same as the Poole “black triangles” entry from 14 October 2023, but it is a useful warning: Dorset skies can produce genuinely surprising sights that are still traceable to known satellite activity.
+One local example shows how quickly a Dorset “UFO” story can change with better context. In October 2023, residents across places including Blandford, Sherborne and Upton in Purbeck reported a string of lights in the sky. The Purbeck Gazette later reported that the lights were Starlink satellites from a SpaceX launch, appearing in a regimented line before disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purbeckgazette.co.uk">[Purbeck Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purbeckgazette.co.uk</span><span class="citation-popover-snippet">Open source on purbeckgazette.co.uk.</span></span></span> That case is not the same as the Poole “black triangles” entry from 14 October 2023, but it is a useful warning: Dorset skies can produce genuinely surprising sights that are still traceable to known satellite activity.
 
-The MoD’s historical files make the same broader point. The National Archives says many UFO records describe shapes, lights and flashes that can often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</span></span></span> Dorset Police’s modern logs sit in that same evidential world. They preserve what people noticed, but they rarely preserve enough to distinguish between unusual atmospheric effects, aircraft, drones, lanterns, satellites, vessels at sea, emergency lights, fireworks or genuinely unexplained aerial phenomena.
+The MoD’s historical files make the same broader point. The National Archives says many UFO records describe shapes, lights and flashes that can often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</span></span></span> Dorset Police’s modern logs sit in that same evidential world. They preserve what people noticed, but they rarely preserve enough to distinguish between unusual atmospheric effects, aircraft, drones, lanterns, satellites, vessels at sea, emergency lights, fireworks or genuinely unexplained aerial phenomena.
 
 ## What Changed After the Desk Closed
 
@@ -349,199 +349,199 @@ The answer, in most Dorset UFO-log examples, appears to be the last of those. A 
 
 ## How to Read the Dorset Police UFO Logs
 
-The Dorset Police UFO logs are best used as a map of reported experiences, not as a catalogue of confirmed mysteries. They show that between 2014 and 2024, people in the Dorset Police area continued to report strange lights and objects over places including Bournemouth, Poole, Wareham, West Bay, Weymouth, Dorchester, Beaminster, Thorncombe and Dorchester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> They also show that modern records are shaped by database systems, keywords, privacy redactions and the everyday priorities of policing.
+The Dorset Police UFO logs are best used as a map of reported experiences, not as a catalogue of confirmed mysteries. They show that between 2014 and 2024, people in the Dorset Police area continued to report strange lights and objects over places including Bournemouth, Poole, Wareham, West Bay, Weymouth, Dorchester, Beaminster, Thorncombe and Dorchester.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dorset.police.uk">[dorset.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dorset.police.uk</span><span class="citation-popover-title">UF O Sightings &#124; Dorset Police</span><span class="citation-popover-snippet">UF O Sightings &#124; Dorset Police</span></span></span> They also show that modern records are shaped by database systems, keywords, privacy redactions and the everyday priorities of policing.
 
 For Dorset’s UFO history, their value is therefore modest but real. They help fill the gap after the MoD stopped collecting public UFO reports. They preserve local examples that would otherwise disappear. They show the difference between a sighting, a report and an investigation. And they remind readers that an “unidentified” entry in a police disclosure is not the end of the inquiry; it is usually the beginning of a question that the surviving record is too thin to answer.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Dorset Police UFO Calls Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Dorset Police UFO Calls Reveal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on reports, witnesses, official records, and the distinction between reported sightings and proven explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on reports, witnesses, official records, and the distinction between reported sightings and proven explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Provides context for UK sightings, official records, and how reports are documented and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UK sightings, official records, and how reports are documented and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores contemporary UFO reporting and government-related claims, making it highly relevant to post-MoD-era police reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contemporary UFO reporting and government-related claims, making it highly relevant to post-MoD-era police reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Helps readers understand how unusual sighting reports can be studied without assuming extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how unusual sighting reports can be studied without assuming extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="police-logs-b60b33-what-dorset-police-ufo-calls-reveal-dorset-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,207 +747,207 @@ For Dorset’s UFO history, their value is therefore modest but real. They help 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dorset.police.uk  
    Title: UF O Sightings | Dorset Police  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/ufo-sightings2/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2007 — 4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sigh...</p></details>
    Published: December 4, 2007  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs)... Prior to the 1960s, the Ministry of Defe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dorset.police.uk  
    Title: UF O sightings | Dorset Police  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dorset.police.uk  
    Title: UF O sightings | Dorset Police  
-   Link: <a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/</a>  
+   Link:<a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings2/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dorset.police.uk  
    Title: UF O sightings | Dorset Police  
-   Link: <a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/</a>  
+   Link:<a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/archive/ufo-sightings3/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dorset.police.uk  
    Title: UF O sightings | Dorset Police  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/</a>  
+   Link:<a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dorsetcouncil.gov.uk  
-   Link: <a href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/w/maps</a>  
+   Link:<a href="https://www.dorsetcouncil.gov.uk/w/maps" target="_blank" rel="noopener noreferrer nofollow">https://www.dorsetcouncil.gov.uk/w/maps</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dorset.police.uk  
    Title: Get Paginated Results  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=15&amp;q=Traffic+accident&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=15&amp;q=Traffic+accident&amp;tdte=</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=15&amp;q=Traffic+accident&amp;tdte=" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/af/accessing-information/published-items/GetPaginatedResults/?dir=&amp;fdte=&amp;ic=&amp;icsc=&amp;page=15&amp;q=Traffic+accident&amp;tdte=</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/incidents-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/incidents-of-the-paranormal/</a>  
+   Link:<a href="https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/incidents-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2025-disclosures/incidents-of-the-paranormal/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/unidentified-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/unidentified-bodies/</a>  
+   Link:<a href="https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/unidentified-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://dorset.police.uk/foi-ai/dorset-police/disclosure-logs/2024-disclosures/unidentified-bodies/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dorset.police.uk  
    Title: Dorset Police: Home Your local police force  
-   Link: <a href="https://www.dorset.police.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/</a>  
+   Link:<a href="https://www.dorset.police.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dorset.police.uk  
    Title: understanding policing in dorset  
-   Link: <a href="https://www.dorset.police.uk/police-forces/dorset-police/areas/about-us/about-us/dorset-police-2024/understanding-policing-in-dorset/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/police-forces/dorset-police/areas/about-us/about-us/dorset-police-2024/understanding-policing-in-dorset/</a>  
+   Link:<a href="https://www.dorset.police.uk/police-forces/dorset-police/areas/about-us/about-us/dorset-police-2024/understanding-policing-in-dorset/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/police-forces/dorset-police/areas/about-us/about-us/dorset-police-2024/understanding-policing-in-dorset/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.dorset.police.uk  
-   Link: <a href="https://news.dorset.police.uk/news-article/d21116ed-9175-ef11-9d6d-6045bdd24049" target="_blank" rel="noopener noreferrer nofollow">https://news.dorset.police.uk/news-article/d21116ed-9175-ef11-9d6d-6045bdd24049</a>  
+   Link:<a href="https://news.dorset.police.uk/news-article/d21116ed-9175-ef11-9d6d-6045bdd24049" target="_blank" rel="noopener noreferrer nofollow">https://news.dorset.police.uk/news-article/d21116ed-9175-ef11-9d6d-6045bdd24049</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/christchurch-west/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/christchurch-west/</a>  
+   Link:<a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/christchurch-west/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/christchurch-west/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dorset.police.uk  
    Title: contact us  
-   Link: <a href="https://www.dorset.police.uk/contact/cubp/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/contact/cubp/contact-us/</a>  
+   Link:<a href="https://www.dorset.police.uk/contact/cubp/contact-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/contact/cubp/contact-us/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.dorset.police.uk  
-   Link: <a href="https://news.dorset.police.uk/news-article/4590b29d-701f-ef11-9d65-6045bdd24049" target="_blank" rel="noopener noreferrer nofollow">https://news.dorset.police.uk/news-article/4590b29d-701f-ef11-9d65-6045bdd24049</a>  
+   Link:<a href="https://news.dorset.police.uk/news-article/4590b29d-701f-ef11-9d65-6045bdd24049" target="_blank" rel="noopener noreferrer nofollow">https://news.dorset.police.uk/news-article/4590b29d-701f-ef11-9d65-6045bdd24049</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dorset.police.uk  
-   Link: <a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/poole-south/stations-contact-points-and-offices/top-reported-crimes-in-this-area" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/poole-south/stations-contact-points-and-offices/top-reported-crimes-in-this-area</a>  
+   Link:<a href="https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/poole-south/stations-contact-points-and-offices/top-reported-crimes-in-this-area" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.police.uk/area/your-area/dorset/bournemouth-poole-and-christchurch/poole-south/stations-contact-points-and-offices/top-reported-crimes-in-this-area</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20140624 FOI 01746 Rendlesham UFO Incident1980  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e4e1de5274a2e8ab47283/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.dorsetcouncil.gov.uk  
    Title: mapping history recent additions to dhcs collection  
-   Link: <a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/</a>  
+   Link:<a href="https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/" target="_blank" rel="noopener noreferrer nofollow">https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2023/09/22/mapping-history-recent-additions-to-dhcs-collection/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: christchurch-tc.gov.uk  
-   Link: <a href="https://www.christchurch-tc.gov.uk/our-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurch-tc.gov.uk/our-town/</a>  
+   Link:<a href="https://www.christchurch-tc.gov.uk/our-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurch-tc.gov.uk/our-town/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dorset.pcc.police.uk  
    Title: agencies make a continued commitment  
-   Link: <a href="https://www.dorset.pcc.police.uk/news-and-newsletters/dorset-pcc-news-blog/2024/06/agencies-make-a-continued-commitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.pcc.police.uk/news-and-newsletters/dorset-pcc-news-blog/2024/06/agencies-make-a-continued-commitment/</a>  
+   Link:<a href="https://www.dorset.pcc.police.uk/news-and-newsletters/dorset-pcc-news-blog/2024/06/agencies-make-a-continued-commitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.dorset.pcc.police.uk/news-and-newsletters/dorset-pcc-news-blog/2024/06/agencies-make-a-continued-commitment/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: police.uk  
-   Link: <a href="https://www.police.uk/pu/your-area/dorset-police/bournemouth-south/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.uk/pu/your-area/dorset-police/bournemouth-south/</a>  
+   Link:<a href="https://www.police.uk/pu/your-area/dorset-police/bournemouth-south/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.uk/pu/your-area/dorset-police/bournemouth-south/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: purbeckgazette.co.uk  
-   Link: <a href="https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/" target="_blank" rel="noopener noreferrer nofollow">https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/</a>  
+   Link:<a href="https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/" target="_blank" rel="noopener noreferrer nofollow">https://purbeckgazette.co.uk/news/mysterious-ufo-lights-in-night-skies-over-dorset-explained/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Dorset Police  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorset_Police" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorset_Police</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorset_Police" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorset_Police</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: christchurchresidents.org.uk  
-   Link: <a href="https://www.christchurchresidents.org.uk/references/organisations/dorset-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchresidents.org.uk/references/organisations/dorset-police/</a>  
+   Link:<a href="https://www.christchurchresidents.org.uk/references/organisations/dorset-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.christchurchresidents.org.uk/references/organisations/dorset-police/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gHCNufc-RO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHCNufc-RO8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gHCNufc-RO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHCNufc-RO8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Nick Pope: Inside the UK's UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uRJlcncylE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uRJlcncylE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uRJlcncylE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UK Government UFO Investigator Reveals All About His Career &amp; Strangest Sightings | Nick Pope...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Mysterious object in the sky over Dorset  
-   Link: <a href="https://www.youtube.com/watch?v=_WD5SH7uyAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WD5SH7uyAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_WD5SH7uyAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WD5SH7uyAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/dorset_echo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/dorset_echo/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/dorset_echo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/dorset_echo/?hl=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dorsetpolice/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dorsetpolice/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/dorsetpolice/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dorsetpolice/?locale=en_GB</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CqqJXVqMxGH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqqJXVqMxGH/</a>  
+   Link:<a href="https://www.instagram.com/p/CqqJXVqMxGH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CqqJXVqMxGH/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: x.com  
-   Link: <a href="https://x.com/Dorsetecho/status/1984188761966522600" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Dorsetecho/status/1984188761966522600</a>  
+   Link:<a href="https://x.com/Dorsetecho/status/1984188761966522600" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Dorsetecho/status/1984188761966522600</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dorsetpolice/videos/thats-a-wrap-on-our-dorsetpolicelive-summer-seriescheck-out-these-highlights-fro/1840885373440799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dorsetpolice/videos/thats-a-wrap-on-our-dorsetpolicelive-summer-seriescheck-out-these-highlights-fro/1840885373440799/</a>  
+   Link:<a href="https://www.facebook.com/dorsetpolice/videos/thats-a-wrap-on-our-dorsetpolicelive-summer-seriescheck-out-these-highlights-fro/1840885373440799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dorsetpolice/videos/thats-a-wrap-on-our-dorsetpolicelive-summer-seriescheck-out-these-highlights-fro/1840885373440799/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bournemouthdailyecho/videos/ufos-spotted-in-night-sky/284689810706766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bournemouthdailyecho/videos/ufos-spotted-in-night-sky/284689810706766/</a>  
+   Link:<a href="https://www.facebook.com/bournemouthdailyecho/videos/ufos-spotted-in-night-sky/284689810706766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bournemouthdailyecho/videos/ufos-spotted-in-night-sky/284689810706766/</a>  

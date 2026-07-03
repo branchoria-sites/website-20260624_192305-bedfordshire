@@ -248,37 +248,37 @@ image: /assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-overview-socia
 
 ## Introduction
 
-Prestwick changes the [Ayrshire]({{ 'what-really-happened-in-ayrshires-skies/' | relative_url }}) UFO question because it makes the sky both better observed and easier to misread. A strange light over Ayr, Troon, Prestwick, Irvine or the Firth of Clyde may be seen by people who know aircraft, live under regular flight paths, or work near one of Scotland’s most aviation-heavy places. That can make a report more interesting. It also means aircraft, approach lights, cargo traffic, drones, runway glare, training flights and radar effects have to be considered before anything more exotic is suggested. Glasgow Prestwick Airport traces its aviation role back to the 1920s and has served civil, military, transatlantic, cargo and aerospace functions over many decades. NATS’ Prestwick Centre also handles air traffic across Scotland, northern England and the North East Atlantic, so Ayrshire’s “UFO” record sits inside a genuinely busy aviation environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport History</span><span class="citation-popover-snippet">Glasgow Prestwick Airport History</span></span></span>
+Prestwick changes the [Ayrshire]({{ 'what-really-happened-in-ayrshires-skies/' | relative_url }}) UFO question because it makes the sky both better observed and easier to misread. A strange light over Ayr, Troon, Prestwick, Irvine or the Firth of Clyde may be seen by people who know aircraft, live under regular flight paths, or work near one of Scotland’s most aviation-heavy places. That can make a report more interesting. It also means aircraft, approach lights, cargo traffic, drones, runway glare, training flights and radar effects have to be considered before anything more exotic is suggested. Glasgow Prestwick Airport traces its aviation role back to the 1920s and has served civil, military, transatlantic, cargo and aerospace functions over many decades. NATS’ Prestwick Centre also handles air traffic across Scotland, northern England and the North East Atlantic, so Ayrshire’s “UFO” record sits inside a genuinely busy aviation environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport History</span><span class="citation-popover-snippet">Glasgow Prestwick Airport History</span></span></span>
 
 
 <img src="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-overview.webp" | relative_url }}" alt="Overview image for Aviation Context" loading="eager" decoding="sync" fetchpriority="high">
 ## Prestwick's role in Ayrshire skies
 
-Prestwick is not just a local passenger airport. Its public history describes an airfield that became a significant Scottish aviation hub, served both civil and military aviation, was used by the RAF in the Second World War, supported transatlantic flights, hosted United States Air Force activity, and later developed a major aerospace and engineering footprint around the airport. The airport’s own history page also notes longer runways, freight facilities, Concorde training links, Ryanair’s arrival, cargo growth and Scottish Government ownership as an infrastructure asset supporting thousands of jobs in the west of Scotland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport History</span><span class="citation-popover-snippet">Glasgow Prestwick Airport History</span></span></span>
+Prestwick is not just a local passenger airport. Its public history describes an airfield that became a significant Scottish aviation hub, served both civil and military aviation, was used by the RAF in the Second World War, supported transatlantic flights, hosted United States Air Force activity, and later developed a major aerospace and engineering footprint around the airport. The airport’s own history page also notes longer runways, freight facilities, Concorde training links, Ryanair’s arrival, cargo growth and Scottish Government ownership as an infrastructure asset supporting thousands of jobs in the west of Scotland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport History</span><span class="citation-popover-snippet">Glasgow Prestwick Airport History</span></span></span>
 
-That matters for UFO interpretation because it gives Ayrshire a sky culture unlike many quieter rural counties. A witness in the Prestwick area may be seeing commercial aircraft, cargo aircraft, military-related movements, ferry flights, training sorties, business aviation, general aviation, helicopters, drones or aerodrome lighting, sometimes in the same evening. Prestwick’s current technical information lists two major runways, 24-hour approach radar with secondary surveillance radar, instrument approaches, centreline lighting, ample aircraft parking, fuelling, minimal noise restrictions and unobstructed approaches over sea and countryside. Those details do not explain any single sighting by themselves, but they set the baseline: the ordinary sky near Prestwick is technically complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
+That matters for UFO interpretation because it gives Ayrshire a sky culture unlike many quieter rural counties. A witness in the Prestwick area may be seeing commercial aircraft, cargo aircraft, military-related movements, ferry flights, training sorties, business aviation, general aviation, helicopters, drones or aerodrome lighting, sometimes in the same evening. Prestwick’s current technical information lists two major runways, 24-hour approach radar with secondary surveillance radar, instrument approaches, centreline lighting, ample aircraft parking, fuelling, minimal noise restrictions and unobstructed approaches over sea and countryside. Those details do not explain any single sighting by themselves, but they set the baseline: the ordinary sky near Prestwick is technically complex.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
 
-The air traffic control setting is even wider than the airport perimeter. NATS says it operates two UK air traffic control centres, at Swanwick and Prestwick, with Prestwick handling traffic across northern England, Scotland and into the North East Atlantic. Its Prestwick Centre material says the centre is continuously operational, controls a very large area of airspace, and handles more than a million aircraft per year, including almost all air traffic travelling between the United States and northern Europe through Prestwick-controlled airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">Prestwick Centre FINAL</span><span class="citation-popover-snippet">Prestwick Centre FINAL</span></span></span>
+The air traffic control setting is even wider than the airport perimeter. NATS says it operates two UK air traffic control centres, at Swanwick and Prestwick, with Prestwick handling traffic across northern England, Scotland and into the North East Atlantic. Its Prestwick Centre material says the centre is continuously operational, controls a very large area of airspace, and handles more than a million aircraft per year, including almost all air traffic travelling between the United States and northern Europe through Prestwick-controlled airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nats.aero">[NATS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nats.aero</span><span class="citation-popover-title">Prestwick Centre FINAL</span><span class="citation-popover-snippet">Prestwick Centre FINAL</span></span></span>
 
-For readers of Ayrshire UFO reports, the practical consequence is simple: “seen near Prestwick” is not a small detail. It can support a witness’s seriousness if the person is aviation-aware, but it also raises the number of normal explanations that must be checked. The airport’s commercial pages describe round-the-clock fixed-base and cargo operations, including cargo services open 24 hours a day with no restrictions, regular long-haul cargo connections, ground handling, fuelling, parking and ATC support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/business/fbo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport+2Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Prestwick Aviation Services (FBO</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Prestwick Aviation Services (FBO</span></span></span>
+For readers of Ayrshire UFO reports, the practical consequence is simple: “seen near Prestwick” is not a small detail. It can support a witness’s seriousness if the person is aviation-aware, but it also raises the number of normal explanations that must be checked. The airport’s commercial pages describe round-the-clock fixed-base and cargo operations, including cargo services open 24 hours a day with no restrictions, regular long-haul cargo connections, ground handling, fuelling, parking and ATC support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/business/fbo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Prestwick Aviation Services (FBO</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Prestwick Aviation Services (FBO</span></span></span>
 
-Prestwick’s military and cargo roles add another layer. Prestwick Aviation Services describes the airport as a US Government DLA fuel contract location and says fuel can be ordered at all hours; it also advertises military cargo handling, daily widebody freight movements and ad-hoc charters. This does not mean military aircraft are behind every unusual report, but it does mean that “I saw something unlike the usual passenger flights” is not automatically mysterious in this area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prestwickaviationservices.com/services/military/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestwickaviationservices.com">[Prestwick Aviation Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestwickaviationservices.com</span><span class="citation-popover-title">Prestwick Aviation Services Military &#124; Prestwick Aviation Services</span><span class="citation-popover-snippet">Prestwick Aviation Services Military &#124; Prestwick Aviation Services</span></span></span>
+Prestwick’s military and cargo roles add another layer. Prestwick Aviation Services describes the airport as a US Government DLA fuel contract location and says fuel can be ordered at all hours; it also advertises military cargo handling, daily widebody freight movements and ad-hoc charters. This does not mean military aircraft are behind every unusual report, but it does mean that “I saw something unlike the usual passenger flights” is not automatically mysterious in this area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prestwickaviationservices.com/services/military/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestwickaviationservices.com">[Prestwick Aviation Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestwickaviationservices.com</span><span class="citation-popover-title">Prestwick Aviation Services Military &#124; Prestwick Aviation Services</span><span class="citation-popover-snippet">Prestwick Aviation Services Military &#124; Prestwick Aviation Services</span></span></span>
 
 
 <img src="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Context illustration 1" data-theme-src-dark="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft lights, glare and flight paths
 
-The most common trap in an aviation-rich sky is not that witnesses are foolish. It is that aircraft lighting is designed to be conspicuous, and conspicuous lighting can look strange from the ground when distance, angle, cloud, haze and expectation are all working against the observer. UK standardised rules of the air require aircraft at night to display anti-collision lights and navigation lights, with navigation lights intended to indicate the aircraft’s relative path to an observer. The same rules allow additional lights such as landing lights and airframe floodlights to improve conspicuity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">Regulatory Library UK Standardised Rules of the Air</span><span class="citation-popover-snippet">Regulatory Library UK Standardised Rules of the Air</span></span></span>
+The most common trap in an aviation-rich sky is not that witnesses are foolish. It is that aircraft lighting is designed to be conspicuous, and conspicuous lighting can look strange from the ground when distance, angle, cloud, haze and expectation are all working against the observer. UK standardised rules of the air require aircraft at night to display anti-collision lights and navigation lights, with navigation lights intended to indicate the aircraft’s relative path to an observer. The same rules allow additional lights such as landing lights and airframe floodlights to improve conspicuity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">Regulatory Library UK Standardised Rules of the Air</span><span class="citation-popover-snippet">Regulatory Library UK Standardised Rules of the Air</span></span></span>
 
 Ayrshire reports that mention coloured flashes, fixed white lights, pulsing lights, lights that appear to hover, or a bright object that suddenly moves can therefore sit squarely within aviation territory. An aircraft flying towards an observer can seem almost stationary for minutes, especially if it is on approach or at long distance. A turn can make one light split into several, change brightness, vanish, or appear to shoot sideways. Landing lights can dominate over the weaker red, green and white navigation lights; haze over the Firth of Clyde or low cloud above the coast can amplify glare and make the shape of the aircraft disappear.
 
-The Civil Aviation Authority’s guidance on lighting near aerodromes is useful here because it shows that confusing lights are not just a UFO problem. The CAA warns that lighting schemes near aerodromes can obscure or distort approach lighting, that pilots need aeronautical ground lighting to stand out, and that red, white and green lighting near an aerodrome should be avoided where possible because it may be confused with aviation lights. It also warns that lasers, searchlights, fireworks, balloons and sky lanterns can affect aviation safety and may distract or confuse pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority BAA Normal.Dot v1.00</span><span class="citation-popover-snippet">Civil Aviation Authority BAA Normal.Dot v1.00</span></span></span>
+The Civil Aviation Authority’s guidance on lighting near aerodromes is useful here because it shows that confusing lights are not just a UFO problem. The CAA warns that lighting schemes near aerodromes can obscure or distort approach lighting, that pilots need aeronautical ground lighting to stand out, and that red, white and green lighting near an aerodrome should be avoided where possible because it may be confused with aviation lights. It also warns that lasers, searchlights, fireworks, balloons and sky lanterns can affect aviation safety and may distract or confuse pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority BAA Normal.Dot v1.00</span><span class="citation-popover-snippet">Civil Aviation Authority BAA Normal.Dot v1.00</span></span></span>
 
-Prestwick’s own airport lighting and runway environment also matters. The airport lists instrument approaches, precision runway facilities, centreline lighting and 24-hour approach radar. For someone on the ground, especially near the coast or on higher ground looking across Ayrshire, those legitimate aviation lights can create lines, rows, clusters or bright points that seem detached from the aircraft or runway that produces them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
+Prestwick’s own airport lighting and runway environment also matters. The airport lists instrument approaches, precision runway facilities, centreline lighting and 24-hour approach radar. For someone on the ground, especially near the coast or on higher ground looking across Ayrshire, those legitimate aviation lights can create lines, rows, clusters or bright points that seem detached from the aircraft or runway that produces them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
 
-Drones have become a newer ordinary explanation, though not every odd light is a drone. The UK Civil Aviation Authority says that from 1 January 2026 drones flown at night in the Open Category must use a green flashing light, intended to improve visibility and help distinguish drones from manned aircraft. That rule will make some future Ayrshire night reports easier to interpret, but it may also add another kind of unfamiliar flashing light to the local sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+Drones have become a newer ordinary explanation, though not every odd light is a drone. The UK Civil Aviation Authority says that from 1 January 2026 drones flown at night in the Open Category must use a green flashing light, intended to improve visibility and help distinguish drones from manned aircraft. That rule will make some future Ayrshire night reports easier to interpret, but it may also add another kind of unfamiliar flashing light to the local sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
-Not every ordinary explanation is aviation, even around Prestwick. The National Archives’ UFO briefing notes that official records include misidentifications such as aircraft seen from unusual angles and space junk burning up in the atmosphere; it also stresses that “unidentified” does not mean “extraterrestrial”. In Ayrshire, a low northern horizon over the sea can also make natural displays relevant. The Met Office explains that the northern lights can sometimes be visible in Scotland, particularly under strong geomagnetic conditions, and that aurora colours may include green, pink, red, blue and violet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+Not every ordinary explanation is aviation, even around Prestwick. The National Archives’ UFO briefing notes that official records include misidentifications such as aircraft seen from unusual angles and space junk burning up in the atmosphere; it also stresses that “unidentified” does not mean “extraterrestrial”. In Ayrshire, a low northern horizon over the sea can also make natural displays relevant. The Met Office explains that the northern lights can sometimes be visible in Scotland, particularly under strong geomagnetic conditions, and that aurora colours may include green, pink, red, blue and violet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 The key test is behaviour. Aircraft usually fit a track, duration, light pattern, sound profile and timing. Aurorae tend to be diffuse, horizon-wide or curtain-like rather than a single structured craft. Stars and planets can shimmer in changing colours near the horizon because the atmosphere bends and distorts their light. A good Ayrshire sighting report should therefore preserve the basics: exact time, viewing direction, elevation, duration, whether the light crossed a known runway direction, whether it appeared on flight-tracking or airport movements, weather, cloud base, and whether other people saw the same thing from different locations.
 
@@ -289,15 +289,15 @@ The key test is behaviour. Aircraft usually fit a track, duration, light pattern
 
 Prestwick’s aviation context cuts both ways. It creates more mundane explanations, but it also means some witnesses may be better placed than average to notice something that does not fit normal traffic. Reports involving air traffic controllers, pilots, police officers, airport staff or radar claims deserve more careful treatment than vague memories of a light in the distance. They do not become proof of anything extraordinary, but they do raise the standard of analysis.
 
-The best-known Ayrshire example is the 15 February 1999 Prestwick radar entry in the Ministry of Defence’s released UFO report list. The official 1999 table records a Prestwick, Ayrshire report at 10:25 described as a “primary radar contact” about ten miles wide, with the object “travelling very quickly”. The same report list also includes a 10 January 1999 West Kilbride entry described simply as a bright multi-coloured light in the sky, which shows the difference between a low-detail visual report and a more technically interesting radar-linked entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+The best-known Ayrshire example is the 15 February 1999 Prestwick radar entry in the Ministry of Defence’s released UFO report list. The official 1999 table records a Prestwick, Ayrshire report at 10:25 described as a “primary radar contact” about ten miles wide, with the object “travelling very quickly”. The same report list also includes a 10 January 1999 West Kilbride entry described simply as a bright multi-coloured light in the sky, which shows the difference between a low-detail visual report and a more technically interesting radar-linked entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
-Press coverage gave the Prestwick radar story a more dramatic form, reporting that an air traffic controller in Scotland saw a radar blip suggesting a very large object moving at extreme speed over the Scottish coastline before disappearing after about two minutes. That article is useful because it shows why the case entered UFO discussion, but the official MoD table is still sparse: it does not, by itself, provide the raw radar data, weather profile, equipment status, track history, calibration details or independent technical analysis needed to decide what the radar return was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Britain&#x27;s UFO secrets revealed &#124; UK news</span><span class="citation-popover-snippet">The Guardian Britain&#x27;s UFO secrets revealed &#124; UK news</span></span></span>
+Press coverage gave the Prestwick radar story a more dramatic form, reporting that an air traffic controller in Scotland saw a radar blip suggesting a very large object moving at extreme speed over the Scottish coastline before disappearing after about two minutes. That article is useful because it shows why the case entered UFO discussion, but the official MoD table is still sparse: it does not, by itself, provide the raw radar data, weather profile, equipment status, track history, calibration details or independent technical analysis needed to decide what the radar return was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Britain&#x27;s UFO secrets revealed &#124; UK news</span><span class="citation-popover-snippet">The Guardian Britain&#x27;s UFO secrets revealed &#124; UK news</span></span></span>
 
 That is the central lesson for Prestwick cases. A trained witness can improve the value of a report by describing bearings, altitudes, headings, aircraft separation and normal traffic patterns. A radar-linked claim can be more important than a casual light sighting. But without the underlying data, the public reader should avoid both extremes: dismissing it instantly as “just a plane” or treating it as evidence of a craft.
 
-The National Archives’ briefing on MoD UFO records gives the right vocabulary. It says some reports remain “unidentified” when no common explanation can be found, but that this does not imply an extraterrestrial object. It also explains that the MoD’s policy interest was whether sightings had defence significance, not whether every witness’s experience could be solved for curiosity’s sake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives’ briefing on MoD UFO records gives the right vocabulary. It says some reports remain “unidentified” when no common explanation can be found, but that this does not imply an extraterrestrial object. It also explains that the MoD’s policy interest was whether sightings had defence significance, not whether every witness’s experience could be solved for curiosity’s sake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The same briefing notes a long official pattern: many reports have historically been explained as ordinary objects, optical effects, psychological misperceptions or hoaxes, while some remained unexplained because the evidence was insufficient. The useful question for Ayrshire is therefore not “did Prestwick prove UFOs are real?” but “does this report contain enough aviation, radar, weather and witness detail to move beyond ordinary explanations?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The same briefing notes a long official pattern: many reports have historically been explained as ordinary objects, optical effects, psychological misperceptions or hoaxes, while some remained unexplained because the evidence was insufficient. The useful question for Ayrshire is therefore not “did Prestwick prove UFOs are real?” but “does this report contain enough aviation, radar, weather and witness detail to move beyond ordinary explanations?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-2-dark.svg" | relative_url }}" alt="Aviation Context illustration 2" data-theme-src-dark="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -308,10 +308,10 @@ Because Prestwick sits inside a dense aviation setting, the strongest sceptical 
 The most useful everyday checks are:
 
 * **Aircraft on approach or departure.** A head-on aircraft can appear fixed, then brighten suddenly when landing lights point towards the observer. A turn can make lights seem to separate, vanish or accelerate.
-* **Cargo and military-related movements.** Prestwick’s 24-hour cargo, fuelling and military support functions mean unusual aircraft types and timings are part of the local environment, not automatically evidence of a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/business/cargo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Prestwick Cargo Services</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Prestwick Cargo Services</span></span></span>
-* **Runway and approach lighting.** Prestwick’s instrument runway and centreline lighting can create powerful visual cues, especially in haze, rain or low cloud. The CAA’s warning about confusing lighting near aerodromes shows how easily red, white and green lights can become ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
-* **Drones and model aircraft.** Night drone lighting, including the CAA’s green flashing light requirement, adds a modern source of low, local, manoeuvrable lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
-* **Natural sky effects.** Aurorae, meteors, planets, stars near the horizon and re-entering debris can all produce bright or coloured reports. The National Archives specifically lists aircraft at unusual angles and space junk among common explanatory categories, while the Met Office explains why aurorae are a real possibility in Scotland under the right conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+* **Cargo and military-related movements.** Prestwick’s 24-hour cargo, fuelling and military support functions mean unusual aircraft types and timings are part of the local environment, not automatically evidence of a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/business/cargo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Prestwick Cargo Services</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Prestwick Cargo Services</span></span></span>
+* **Runway and approach lighting.** Prestwick’s instrument runway and centreline lighting can create powerful visual cues, especially in haze, rain or low cloud. The CAA’s warning about confusing lighting near aerodromes shows how easily red, white and green lights can become ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glasgowprestwick.com">[Glasgow Prestwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glasgowprestwick.com</span><span class="citation-popover-title">Glasgow Prestwick Airport Technical Information</span><span class="citation-popover-snippet">Glasgow Prestwick Airport Technical Information</span></span></span>
+* **Drones and model aircraft.** Night drone lighting, including the CAA’s green flashing light requirement, adds a modern source of low, local, manoeuvrable lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+* **Natural sky effects.** Aurorae, meteors, planets, stars near the horizon and re-entering debris can all produce bright or coloured reports. The National Archives specifically lists aircraft at unusual angles and space junk among common explanatory categories, while the Met Office explains why aurorae are a real possibility in Scotland under the right conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
 These explanations are not a checklist for debunking every report. They are the minimum standard before an Ayrshire case should be called genuinely puzzling. A report that says only “bright light, changed colour, no sound” is weak because several ordinary causes fit. A report with exact time, direction, duration, multiple separated witnesses, photographs with metadata, weather records, radar confirmation and failed aircraft checks is much stronger.
 
@@ -325,7 +325,7 @@ These explanations are not a checklist for debunking every report. They are the 
 
 Prestwick makes weak UFO reports weaker because the area supplies so many ordinary candidates. If a witness saw a white, red or green light near the airport, along the coast, or low over the horizon, the default explanation should be aviation-related until the timing and direction rule that out. The same is true for “silent” aircraft: distance, wind direction, high altitude and coastal background noise can all remove sound before they remove light.
 
-But Prestwick can also make strong reports stronger. An air traffic controller who records an unusual primary radar return is not in the same evidential category as someone glancing up from a back garden. A police officer, pilot or airport worker who gives a precise account can narrow the range of normal explanations. The 1999 Prestwick radar entry remains notable for exactly that reason: it is not just another coloured light report, yet the surviving public summary is still too thin to carry the weight sometimes placed on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
+But Prestwick can also make strong reports stronger. An air traffic controller who records an unusual primary radar return is not in the same evidential category as someone glancing up from a back garden. A police officer, pilot or airport worker who gives a precise account can narrow the range of normal explanations. The 1999 Prestwick radar entry remains notable for exactly that reason: it is not just another coloured light report, yet the surviving public summary is still too thin to carry the weight sometimes placed on it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span>
 
 This is where Ayrshire’s UFO history benefits from being treated as local aviation history as well as folklore. The question is not whether Prestwick is “a UFO hotspot” in a sensational sense. The better question is whether a report survives contact with the known aviation environment: NATS-controlled airspace, Prestwick approaches, cargo movements, military support, runway lighting, drones, aurora conditions and ordinary night-sky misidentifications.
 
@@ -335,194 +335,194 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
 <img src="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-3-dark.svg" | relative_url }}" alt="Aviation Context illustration 3" data-theme-src-dark="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ayrshire_8acdee_prestwick_aviation_c_fa3c62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Prestwick Changes the UFO Question. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Prestwick Changes the UFO Question. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how aviation activity complicates UFO interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how aviation activity complicates UFO interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes pilot and official witness perspectives relevant to aviation-heavy regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes pilot and official witness perspectives relevant to aviation-heavy regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Provides insight into real-world flight operations and aviation environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into real-world flight operations and aviation environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Builds understanding of aircraft behavior that can be misread from the ground.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds understanding of aircraft behavior that can be misread from the ground.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/47979048d41b134464be.jpg' | relative_url }}" alt="Listing image for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/47979048d41b134464be.jpg' | relative_url }}" alt="Listing image for Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Concorde Brochure – Flight Into The Future – Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK"><img src="{{ '/assets/images/marketplace-covers/7838aa4a152b55dea4ec.jpg' | relative_url }}" alt="Listing image for RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK"><img src="{{ '/assets/images/marketplace-covers/7838aa4a152b55dea4ec.jpg' | relative_url }}" alt="Listing image for RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">RAF Pilot Gift – Tornado GR4 ZG750 Pinky Cufflinks Boxed Aviation Memorabilia UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Over London Classic Aviation Photo Memorabilia (146)"><img src="{{ '/assets/images/marketplace-covers/e0042faf3b2d1375863f.jpg' | relative_url }}" alt="Listing image for Spitfire Over London Classic Aviation Photo Memorabilia (146)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spitfire Over London Classic Aviation Photo Memorabilia (146)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-context-why-prestwick-changes-the-ufo-question-ayrshire-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,280 +728,280 @@ For the wider Ayrshire branch, Prestwick is therefore a filter. It helps separat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nats.aero  
    Title: Prestwick Centre FINAL  
-   Link: <a href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf</a>  
+   Link:<a href="https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nats.aero/blog/wp-content/uploads/2016/08/PrestwickCentre-FINAL.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.metoffice.gov.uk  
    Title: Met Office Northern lights  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects/northern-lights</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
+   Link:<a href="https://www.nats.aero/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nats.aero  
-   Link: <a href="https://www.nats.aero/about-us/company/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/about-us/company/</a>  
+   Link:<a href="https://www.nats.aero/about-us/company/" target="_blank" rel="noopener noreferrer nofollow">https://www.nats.aero/about-us/company/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/specialist-forecasts/space-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/space-weather</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/specialist-forecasts/space-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/specialist-forecasts/space-weather</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metoffice.gov.uk  
    Title: how to see the northern lights uk january 2026  
-   Link: <a href="https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2026/january/how-to-see-the-northern-lights-uk-january-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2026/january/how-to-see-the-northern-lights-uk-january-2026</a>  
+   Link:<a href="https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2026/january/how-to-see-the-northern-lights-uk-january-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/syndication/syndicated-articles/msn-news/2026/january/how-to-see-the-northern-lights-uk-january-2026</a>  
    Published: january 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metoffice.gov.uk  
    Title: how to see the northern lights uk september 2025  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-to-see-the-northern-lights-uk-september-2025</a>  
    Published: september 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: docs.east-ayrshire.gov.uk  
    Title: east-ayrshire.gov.uk Garleffan and Grievehill, New Cumnock  
-   Link: <a href="https://docs.east-ayrshire.gov.uk/crpadmmin/2012%20agendas/planning%20committee/21%20october%202016/garleffan%20and%20grievehill%2C%20new%20cumnock%20-%20peel%20windfarms%20garleffan%20ltd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.east-ayrshire.gov.uk/crpadmmin/2012%20agendas/planning%20committee/21%20october%202016/garleffan%20and%20grievehill%2C%20new%20cumnock%20-%20peel%20windfarms%20garleffan%20ltd.pdf</a>  
+   Link:<a href="https://docs.east-ayrshire.gov.uk/crpadmmin/2012%20agendas/planning%20committee/21%20october%202016/garleffan%20and%20grievehill%2C%20new%20cumnock%20-%20peel%20windfarms%20garleffan%20ltd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.east-ayrshire.gov.uk/crpadmmin/2012%20agendas/planning%20committee/21%20october%202016/garleffan%20and%20grievehill%2C%20new%20cumnock%20-%20peel%20windfarms%20garleffan%20ltd.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g14636/Public%20reports%20pack%20Wednesday%2020-Apr-2022%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g14636/Public%20reports%20pack%20Wednesday%2020-Apr-2022%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g14636/Public%20reports%20pack%20Wednesday%2020-Apr-2022%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g14636/Public%20reports%20pack%20Wednesday%2020-Apr-2022%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/s49870/00569</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g7217/Public%20reports%20pack%20Wednesday%2021-Sep-2016%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g7217/Public%20reports%20pack%20Wednesday%2021-Sep-2016%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g7217/Public%20reports%20pack%20Wednesday%2021-Sep-2016%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g7217/Public%20reports%20pack%20Wednesday%2021-Sep-2016%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g7390/Public%20reports%20pack%20Wednesday%2022-Feb-2017%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g7390/Public%20reports%20pack%20Wednesday%2022-Feb-2017%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g7390/Public%20reports%20pack%20Wednesday%2022-Feb-2017%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g7390/Public%20reports%20pack%20Wednesday%2022-Feb-2017%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: argyll-bute.gov.uk  
    Title: Public reports pack Thursday 16 May 2024 14.00 Argyll and Bute Local Review Body  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g15698/Public%20reports%20pack%20Thursday%2016-May-2024%2014.00%20Argyll%20and%20Bute%20Local%20Review%20Body.pdf?T=10</a>  
    Published: May 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g4177/Public%20reports%20pack%20Wednesday%2016-Jun-2010%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g4177/Public%20reports%20pack%20Wednesday%2016-Jun-2010%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g4177/Public%20reports%20pack%20Wednesday%2016-Jun-2010%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g4177/Public%20reports%20pack%20Wednesday%2016-Jun-2010%2010.30%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
    Published: May 2013  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5867/Public%20reports%20pack%20Wednesday%2023-Oct-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5867/Public%20reports%20pack%20Wednesday%2023-Oct-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5867/Public%20reports%20pack%20Wednesday%2023-Oct-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5867/Public%20reports%20pack%20Wednesday%2023-Oct-2013%2011.00%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/1991/2437/schedule/crossheading/lights-and-other-signals-to-be-shown-or-made-by-aircraft/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: raf.mod.uk  
-   Link: <a href="https://www.raf.mod.uk/our-organisation/stations/swanwick-78-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/swanwick-78-squadron/</a>  
+   Link:<a href="https://www.raf.mod.uk/our-organisation/stations/swanwick-78-squadron/" target="_blank" rel="noopener noreferrer nofollow">https://www.raf.mod.uk/our-organisation/stations/swanwick-78-squadron/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: glasgowprestwick.com  
    Title: Glasgow Prestwick Airport History  
-   Link: <a href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/about-us/history/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/corporate/about-us/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/about-us/history/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: glasgowprestwick.com  
    Title: Glasgow Prestwick Airport Technical Information  
-   Link: <a href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/technical-information/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/corporate/technical-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/corporate/technical-information/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: glasgowprestwick.com  
    Title: Glasgow Prestwick Airport Prestwick Aviation Services (FBO)  
-   Link: <a href="https://www.glasgowprestwick.com/business/fbo/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/business/fbo/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/business/fbo/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/business/fbo/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: glasgowprestwick.com  
    Title: Glasgow Prestwick Airport Prestwick Cargo Services  
-   Link: <a href="https://www.glasgowprestwick.com/business/cargo/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/business/cargo/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/business/cargo/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/business/cargo/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prestwickaviationservices.com  
    Title: Prestwick Aviation Services Military | Prestwick Aviation Services  
-   Link: <a href="https://prestwickaviationservices.com/services/military/" target="_blank" rel="noopener noreferrer nofollow">https://prestwickaviationservices.com/services/military/</a>  
+   Link:<a href="https://prestwickaviationservices.com/services/military/" target="_blank" rel="noopener noreferrer nofollow">https://prestwickaviationservices.com/services/military/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: Regulatory Library UK Standardised Rules of the Air  
-   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf</a>  
+   Link:<a href="https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012-pdf/PDF.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority BAA Normal.Dot v1.00  
-   Link: <a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: The Guardian Britain's UFO secrets revealed | UK news  
-   Link: <a href="https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics</a>  
+   Link:<a href="https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2000/jun/04/freedomofinformation.politics</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12192" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12192</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/15773" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15773</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/15773" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15773</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/13965" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13965</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/13965" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/13965</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/18503" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/18503</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/18503" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/18503</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/3ccjonps/cap437-standards-for-offshore-helicopter-landing-areas-edition-9-amendm-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/3ccjonps/cap437-standards-for-offshore-helicopter-landing-areas-edition-9-amendm-1.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/3ccjonps/cap437-standards-for-offshore-helicopter-landing-areas-edition-9-amendm-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/3ccjonps/cap437-standards-for-offshore-helicopter-landing-areas-edition-9-amendm-1.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12271" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12271</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12271" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12271</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/publication-categories/general-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/publication-categories/general-aviation/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/publication-categories/general-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/publication-categories/general-aviation/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/2mudyln3/f0002503reply.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/2mudyln3/f0002503reply.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/2mudyln3/f0002503reply.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/2mudyln3/f0002503reply.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/12242" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12242</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12242" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12242</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
    Title: Glasgow Prestwick Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: glasgowprestwick.com  
-   Link: <a href="https://www.glasgowprestwick.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: glasgowprestwick.com  
    Title: new cargo airline launches service  
-   Link: <a href="https://www.glasgowprestwick.com/news/new-cargo-airline-launches-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/news/new-cargo-airline-launches-service/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/news/new-cargo-airline-launches-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/news/new-cargo-airline-launches-service/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: glasgowprestwick.com  
    Title: arrivals and departures  
-   Link: <a href="https://www.glasgowprestwick.com/arrivals-and-departures/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/arrivals-and-departures/</a>  
+   Link:<a href="https://www.glasgowprestwick.com/arrivals-and-departures/" target="_blank" rel="noopener noreferrer nofollow">https://www.glasgowprestwick.com/arrivals-and-departures/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: hansard.parliament.uk  
    Title: uk Air Traffic Control  
-   Link: <a href="https://hansard.parliament.uk/commons/1999-10-26/debates/b1633deb-4a7a-43d1-b956-34398234a39f/AirTrafficControl" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1999-10-26/debates/b1633deb-4a7a-43d1-b956-34398234a39f/AirTrafficControl</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/1999-10-26/debates/b1633deb-4a7a-43d1-b956-34398234a39f/AirTrafficControl" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1999-10-26/debates/b1633deb-4a7a-43d1-b956-34398234a39f/AirTrafficControl</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: aviation-planet.fandom.com  
    Title: Glasgow Prestwick Airport  
-   Link: <a href="https://aviation-planet.fandom.com/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://aviation-planet.fandom.com/wiki/Glasgow_Prestwick_Airport</a>  
+   Link:<a href="https://aviation-planet.fandom.com/wiki/Glasgow_Prestwick_Airport" target="_blank" rel="noopener noreferrer nofollow">https://aviation-planet.fandom.com/wiki/Glasgow_Prestwick_Airport</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: meantime.global  
    Title: glasgow prestwick airport doubles weekly air china cargo flights  
-   Link: <a href="https://meantime.global/news/glasgow-prestwick-airport-doubles-weekly-air-china-cargo-flights/" target="_blank" rel="noopener noreferrer nofollow">https://meantime.global/news/glasgow-prestwick-airport-doubles-weekly-air-china-cargo-flights/</a>  
+   Link:<a href="https://meantime.global/news/glasgow-prestwick-airport-doubles-weekly-air-china-cargo-flights/" target="_blank" rel="noopener noreferrer nofollow">https://meantime.global/news/glasgow-prestwick-airport-doubles-weekly-air-china-cargo-flights/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: fightercontrol.co.uk  
-   Link: <a href="https://www.fightercontrol.co.uk/forum/viewforum.php?f=77" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewforum.php?f=77</a>  
+   Link:<a href="https://www.fightercontrol.co.uk/forum/viewforum.php?f=77" target="_blank" rel="noopener noreferrer nofollow">https://www.fightercontrol.co.uk/forum/viewforum.php?f=77</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/pik" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/pik</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/pik" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/pik</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nHFeudht3Og" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nHFeudht3Og</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Heavy Operations at Prestwick Airport V2 | 5 C130Hs 3 KC10s &amp; 2 KC135s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nHFeudht3Og" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nHFeudht3Og</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Heavy Operations at Prestwick Airport V2 | 5 C130Hs 3 KC10s &amp; 2 KC135s...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: NATS Altitude  
-   Link: <a href="https://www.youtube.com/watch?v=6xIqyV3KCvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6xIqyV3KCvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4x Spanish Navy EAV-8B Matador II+ Harriers at Glasgow Prestwick Airport (landing, taxi &amp; takeoff)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6xIqyV3KCvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6xIqyV3KCvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4x Spanish Navy EAV-8B Matador II+ Harriers at Glasgow Prestwick Airport (landing, taxi &amp; takeoff)...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qycWjZsH6tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qycWjZsH6tw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATS Altitude - Episode 19 - Memories of 9/11: Shutting Down the Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qycWjZsH6tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qycWjZsH6tw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATS Altitude - Episode 19 - Memories of 9/11: Shutting Down the Sky...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Scottish Aviation & Prestwick Airport History  
-   Link: <a href="https://www.youtube.com/watch?v=zxxpXSpQF2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zxxpXSpQF2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Life of Prestwick Airport: Scotland&#x27;s &#x27;Dead&#x27; Airport Is Actually Booming...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zxxpXSpQF2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zxxpXSpQF2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Life of Prestwick Airport: Scotland&#x27;s &#x27;Dead&#x27; Airport Is Actually Booming...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW1ffMeIHd3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW1ffMeIHd3/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DW1ffMeIHd3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW1ffMeIHd3/?hl=en</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: lxavionics.co.uk  
-   Link: <a href="https://lxavionics.co.uk/index.php?path=162&amp;route=product%2Fcategory" target="_blank" rel="noopener noreferrer nofollow">https://lxavionics.co.uk/index.php?path=162&amp;route=product%2Fcategory</a>  
+   Link:<a href="https://lxavionics.co.uk/index.php?path=162&amp;route=product%2Fcategory" target="_blank" rel="noopener noreferrer nofollow">https://lxavionics.co.uk/index.php?path=162&amp;route=product%2Fcategory</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: albionaero.co.uk  
-   Link: <a href="https://albionaero.co.uk/aviolights/" target="_blank" rel="noopener noreferrer nofollow">https://albionaero.co.uk/aviolights/</a>  
+   Link:<a href="https://albionaero.co.uk/aviolights/" target="_blank" rel="noopener noreferrer nofollow">https://albionaero.co.uk/aviolights/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/25123648210650716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25123648210650716/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  
+   Link:<a href="https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenationalnewspaperscotland/posts/did-this-scot-really-have-a-close-encounter-with-a-ufo-/3241773246112694/</a>  

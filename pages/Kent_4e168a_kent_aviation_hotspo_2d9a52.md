@@ -254,7 +254,7 @@ image: /assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-overview-social.jp
 
 ## Introduction
 
-Kent produces more UFO reports than a casual glance at the map might suggest because its skies are busy, layered and often misleading. The county sits below routes serving London and the Continent, beside the Channel and Thames Estuary, and around places with long aviation histories such as [Manston]({{ 'manston/' | relative_url }}), Biggin Hill and Lydd. That means many Kent sightings begin as genuine puzzles: a silent orange light over the coast, a fast object near an aircraft, a line of lights after sunset, or a shape seen briefly from a moving car. The best explanation is usually not “nothing happened”, but “something ordinary was seen in a difficult viewing context”. Ministry of Defence records themselves describe many UFO reports as lights, shapes and flashes that can often be explained, while a smaller number remain more unusual or unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
+Kent produces more UFO reports than a casual glance at the map might suggest because its skies are busy, layered and often misleading. The county sits below routes serving London and the Continent, beside the Channel and Thames Estuary, and around places with long aviation histories such as [Manston]({{ 'manston/' | relative_url }}), Biggin Hill and Lydd. That means many Kent sightings begin as genuine puzzles: a silent orange light over the coast, a fast object near an aircraft, a line of lights after sunset, or a shape seen briefly from a moving car. The best explanation is usually not “nothing happened”, but “something ordinary was seen in a difficult viewing context”. Ministry of Defence records themselves describe many UFO reports as lights, shapes and flashes that can often be explained, while a smaller number remain more unusual or unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
@@ -262,13 +262,13 @@ This page focuses on mechanism rather than retelling every Kent case. It asks wh
 
 ## Airports, coasts and busy flight paths
 
-Kent’s UFO geography is partly aviation geography. Biggin Hill, Manston and Lydd are not just dots on a local history map; they shape how people interpret lights and objects in the sky. Biggin Hill began as a Royal Flying Corps site in the First World War and later became one of the best-known RAF fighter stations associated with the defence of London and the south-east. Its official airport heritage emphasises the site’s early military role and air-to-air wireless work, while later accounts describe its Battle of Britain significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigginhillairport.com">[London Biggin Hill Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigginhillairport.com</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</span></span></span>
+Kent’s UFO geography is partly aviation geography. Biggin Hill, Manston and Lydd are not just dots on a local history map; they shape how people interpret lights and objects in the sky. Biggin Hill began as a Royal Flying Corps site in the First World War and later became one of the best-known RAF fighter stations associated with the defence of London and the south-east. Its official airport heritage emphasises the site’s early military role and air-to-air wireless work, while later accounts describe its Battle of Britain significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigginhillairport.com">[London Biggin Hill Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigginhillairport.com</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</span></span></span>
 
-Manston gives east Kent a different flavour. The RAF Manston History Museum traces the airfield’s origins to early wartime flying and emergency landings in 1915–1916, and Historic England records it as a former military airfield used through both world wars and the post-war period. That long history matters for UFO interpretation because Manston is exactly the sort of place where unusual aircraft activity, radar stories, military memory and local sky-watching can become entangled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmanston.co.uk/home/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmanston.co.uk">[RAF Manston History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmanston.co.uk</span><span class="citation-popover-snippet">Open source on rafmanston.co.uk.</span></span></span>
+Manston gives east Kent a different flavour. The RAF Manston History Museum traces the airfield’s origins to early wartime flying and emergency landings in 1915–1916, and Historic England records it as a former military airfield used through both world wars and the post-war period. That long history matters for UFO interpretation because Manston is exactly the sort of place where unusual aircraft activity, radar stories, military memory and local sky-watching can become entangled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rafmanston.co.uk/home/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rafmanston.co.uk">[RAF Manston History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rafmanston.co.uk</span><span class="citation-popover-snippet">Open source on rafmanston.co.uk.</span></span></span>
 
-Lydd, on Romney Marsh near the Channel, is especially important because it sits at the meeting point of local aviation, coastal visibility and cross-Channel routes. The airport describes itself as having opened in 1954 as Ferryfield, built for cross-Channel car ferry flights, before later supporting general aviation, business jets, flight training, charter work and specialist activity. A light or object seen near Lydd is therefore not being seen over an empty rural backdrop; it is being seen over an airfield, marshland, sea approaches and routes used by aircraft moving between Britain and Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyddairport.co.uk">[Lydd Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyddairport.co.uk</span><span class="citation-popover-title">Lydd Airport The History of Lydd Airport</span><span class="citation-popover-snippet">Lydd Airport The History of Lydd Airport</span></span></span>
+Lydd, on Romney Marsh near the Channel, is especially important because it sits at the meeting point of local aviation, coastal visibility and cross-Channel routes. The airport describes itself as having opened in 1954 as Ferryfield, built for cross-Channel car ferry flights, before later supporting general aviation, business jets, flight training, charter work and specialist activity. A light or object seen near Lydd is therefore not being seen over an empty rural backdrop; it is being seen over an airfield, marshland, sea approaches and routes used by aircraft moving between Britain and Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyddairport.co.uk">[Lydd Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyddairport.co.uk</span><span class="citation-popover-title">Lydd Airport The History of Lydd Airport</span><span class="citation-popover-snippet">Lydd Airport The History of Lydd Airport</span></span></span>
 
-The county also lies under wider south-east air traffic. Kent County Council’s aviation policy notes the relevance of night flights and the national role of Heathrow, Gatwick and Stansted, while a parliamentary debate on Heathrow flight paths referred to an easterly departure route from Heathrow towards Dover. Even when the aircraft itself is not using a Kent airport, Kent observers may still be looking up into traffic connected with London airports, Channel crossings or south-east departures and arrivals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kent.gov.uk">[Kent County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kent.gov.uk</span><span class="citation-popover-title">Kent County Council Aviation policy statement</span><span class="citation-popover-snippet">Kent County Council Aviation policy statement</span></span></span>
+The county also lies under wider south-east air traffic. Kent County Council’s aviation policy notes the relevance of night flights and the national role of Heathrow, Gatwick and Stansted, while a parliamentary debate on Heathrow flight paths referred to an easterly departure route from Heathrow towards Dover. Even when the aircraft itself is not using a Kent airport, Kent observers may still be looking up into traffic connected with London airports, Channel crossings or south-east departures and arrivals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kent.gov.uk">[Kent County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kent.gov.uk</span><span class="citation-popover-title">Kent County Council Aviation policy statement</span><span class="citation-popover-snippet">Kent County Council Aviation policy statement</span></span></span>
 
 
 <img src="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -282,7 +282,7 @@ Kent’s coastline also encourages clustered reporting. If a bright object is vi
 
 ## The Lydd near-miss shows why aviation cases deserve special care
 
-The strongest reminder that Kent sightings cannot all be brushed aside is the [Alitalia]({{ 'alitalia/' | relative_url }}) near-miss of 21 April 1991 near Lydd. Contemporary reporting of the released Ministry of Defence files says Captain Achille Zaghetti was flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow when he and his co-pilot saw a brown, missile-shaped object pass close to the aircraft at about 22,000 feet. The incident was investigated by the Civil Aviation Authority and the military, and the Ministry of Defence reportedly ruled out several ordinary explanations, including a missile from local ranges, a weather balloon and space-related activity, before closing the file unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Passenger jet&#x27;s near-miss with UFO above Kent</span><span class="citation-popover-snippet">The Independent Passenger jet&#x27;s near-miss with UFO above Kent</span></span></span>
+The strongest reminder that Kent sightings cannot all be brushed aside is the [Alitalia]({{ 'alitalia/' | relative_url }}) near-miss of 21 April 1991 near Lydd. Contemporary reporting of the released Ministry of Defence files says Captain Achille Zaghetti was flying an Alitalia McDonnell Douglas MD-80 from Milan to Heathrow when he and his co-pilot saw a brown, missile-shaped object pass close to the aircraft at about 22,000 feet. The incident was investigated by the Civil Aviation Authority and the military, and the Ministry of Defence reportedly ruled out several ordinary explanations, including a missile from local ranges, a weather balloon and space-related activity, before closing the file unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Passenger jet&#x27;s near-miss with UFO above Kent</span><span class="citation-popover-snippet">The Independent Passenger jet&#x27;s near-miss with UFO above Kent</span></span></span>
 
 This case matters for a page about hotspots and explanations because it sits at the boundary between “common misidentification” and “properly interesting unknown”. It involved trained aircrew, air traffic control, a possible radar return and official follow-up. That does not prove anything exotic. It does show why aviation-context sightings should be separated into types. A vague orange light over a garden, a line of satellites after sunset and a close-proximity pilot report with radar interest are not evidentially equal.
 
@@ -299,11 +299,11 @@ Most Kent UFO reports are likely to fall into a handful of repeat categories. Th
 
 **Helicopters, military aircraft and training flights.** Kent’s aviation past and proximity to busy south-east airspace mean that unusual sound, low altitude, formation flying or sudden turns are not automatically anomalous. A helicopter with a searchlight, an aircraft banking, or a group of aircraft in formation can look structured or triangular from the ground.
 
-**Lanterns and drifting orange lights.** The MoD’s 2009 UFO report list contains many descriptions of orange or red lights, slow movement and silent formations from across the UK, exactly the kind of wording often associated with lantern reports. The final MoD file release also noted a large surge in sighting reports in 2009, the same year the UFO desk closed, which helps explain why modern “flap” years can reflect reporting behaviour as well as sky activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+**Lanterns and drifting orange lights.** The MoD’s 2009 UFO report list contains many descriptions of orange or red lights, slow movement and silent formations from across the UK, exactly the kind of wording often associated with lantern reports. The final MoD file release also noted a large surge in sighting reports in 2009, the same year the UFO desk closed, which helps explain why modern “flap” years can reflect reporting behaviour as well as sky activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-**Satellites and Starlink trains.** Since the rise of large satellite constellations, lines of bright moving lights have become one of the most common sources of UFO confusion. Space.com describes Starlink satellites as especially visible shortly after launch, when they can appear as a tight, bright “train” shortly after sunset or before sunrise. A 2024 aviation-focused study also found that Starlink misidentification by pilots and lay observers can generate unnecessary confusion and aviation risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
+**Satellites and Starlink trains.** Since the rise of large satellite constellations, lines of bright moving lights have become one of the most common sources of UFO confusion. Space.com describes Starlink satellites as especially visible shortly after launch, when they can appear as a tight, bright “train” shortly after sunset or before sunrise. A 2024 aviation-focused study also found that Starlink misidentification by pilots and lay observers can generate unnecessary confusion and aviation risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
 
-**Meteors and fireballs.** A meteor can look like a fast craft, a flare, an explosion or a glowing object dropping through the sky. UK fireball events often produce many social media reports before a scientific or meteor-network explanation catches up. In January 2023, for example, the Met Office confirmed a meteor after numerous reports and camera captures across the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Huge meteor spotted in night sky over UK as residents</span><span class="citation-popover-snippet">The Independent Huge meteor spotted in night sky over UK as residents</span></span></span>
+**Meteors and fireballs.** A meteor can look like a fast craft, a flare, an explosion or a glowing object dropping through the sky. UK fireball events often produce many social media reports before a scientific or meteor-network explanation catches up. In January 2023, for example, the Met Office confirmed a meteor after numerous reports and camera captures across the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Huge meteor spotted in night sky over UK as residents</span><span class="citation-popover-snippet">The Independent Huge meteor spotted in night sky over UK as residents</span></span></span>
 
 **Bright planets and stars.** Venus, Jupiter and bright stars can be surprisingly convincing UFO candidates, especially when seen through thin cloud, haze or from a moving vehicle. They may seem to follow the observer, change colour, pulse or hover over a fixed local landmark. In Kent, where viewers may be looking over dark sea or marsh horizons, a bright astronomical object can feel nearer and lower than it really is.
 
@@ -313,7 +313,7 @@ Most Kent UFO reports are likely to fall into a handful of repeat categories. Th
 <img src="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kent_4e168a_kent_aviation_hotspo_2d9a52-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge a Kent sighting
 
-The quickest way to improve a Kent UFO report is to treat it like an observation rather than a story. The key question is not “was it alien?” but “what would need to be true for this to remain unexplained after ordinary checks?” The National Archives’ guide to UFO records notes that many MoD files concern shapes, lights and flashes, some explainable and some more unusual, and that earlier material was often destroyed before the 1960s under retention practice. That uneven record makes careful witness detail especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
+The quickest way to improve a Kent UFO report is to treat it like an observation rather than a story. The key question is not “was it alien?” but “what would need to be true for this to remain unexplained after ordinary checks?” The National Archives’ guide to UFO records notes that many MoD files concern shapes, lights and flashes, some explainable and some more unusual, and that earlier material was often destroyed before the 1960s under retention practice. That uneven record makes careful witness detail especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
 A useful Kent sighting report should include the exact date and time, the nearest town or coastline, the direction faced, the object’s direction of travel, duration, colour, sound, weather, cloud cover, and whether the witness was stationary or moving. A report from “near Maidstone at night” is much weaker than “seen from Detling facing south-east at 21:14 for two minutes, moving left to right below broken cloud”.
 
@@ -340,9 +340,9 @@ A real hotspot is not just a place with many anecdotes. It is a place where geog
 
 **Lydd and Romney Marsh** stand out because of the 1991 Alitalia case, the airport, the coast and the relative darkness of open marshland. Sightings here can be unusually hard to judge because aircraft, sea lights and sky objects may all share the same visual field.
 
-**Thanet and Manston** matter because the area combines coastal visibility with one of Kent’s deepest aviation histories. Manston’s military past, proposed aviation future and location near Ramsgate and the east Kent coast make it a natural place for aviation-linked interpretations and public attention. Current redevelopment discussions have also kept local awareness of flight paths alive, even though that does not make any specific UFO claim stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/documents/download/1482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[airspacechange.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-title">Manston Airport Airspace Design and Procedures</span><span class="citation-popover-snippet">Manston Airport Airspace Design and Procedures</span></span></span>
+**Thanet and Manston** matter because the area combines coastal visibility with one of Kent’s deepest aviation histories. Manston’s military past, proposed aviation future and location near Ramsgate and the east Kent coast make it a natural place for aviation-linked interpretations and public attention. Current redevelopment discussions have also kept local awareness of flight paths alive, even though that does not make any specific UFO claim stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airspacechange.caa.co.uk/documents/download/1482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airspacechange.caa.co.uk">[airspacechange.caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airspacechange.caa.co.uk</span><span class="citation-popover-title">Manston Airport Airspace Design and Procedures</span><span class="citation-popover-snippet">Manston Airport Airspace Design and Procedures</span></span></span>
 
-**Biggin Hill and the north-west Kent edge** belong in the picture because historic Kent reaches into areas now commonly thought of through London borough geography. Biggin Hill’s aviation history and present airport activity mean reports from Bromley, Orpington, Sevenoaks-side viewpoints and the North Downs need to be read with aircraft routes in mind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigginhillairport.com">[London Biggin Hill Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigginhillairport.com</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</span></span></span>
+**Biggin Hill and the north-west Kent edge** belong in the picture because historic Kent reaches into areas now commonly thought of through London borough geography. Biggin Hill’s aviation history and present airport activity mean reports from Bromley, Orpington, Sevenoaks-side viewpoints and the North Downs need to be read with aircraft routes in mind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigginhillairport.com">[London Biggin Hill Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigginhillairport.com</span><span class="citation-popover-title">our heritage</span><span class="citation-popover-snippet">London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</span></span></span>
 
 **The Dover and Channel corridor** is another recurring mechanism zone. Lights may be aircraft crossing the Channel, ships, coastal installations, satellites low over the horizon, or weather-affected reflections. The more dramatic the claim, the more important it is to establish whether the object was truly in the sky rather than apparently above the sea or horizon.
 
@@ -352,7 +352,7 @@ A real hotspot is not just a place with many anecdotes. It is a place where geog
 
 Kent’s UFO history is strongest when it is cautious. The county has at least one aviation case, the Alitalia near-miss, that deserves attention because it involved professional witnesses and official checks. It also has a broader pattern of reports that are exactly what one would expect from a county with airports, former RAF sites, cross-Channel routes, coastal horizons, satellites, lanterns and bright astronomical objects.
 
-The Ministry of Defence’s closure of its UFO desk in 2009 is relevant here. The final file release said the desk had received more than 600 reports in 2009, treble the previous year, but that officials concluded the work served no defence purpose and had not produced evidence of an extraterrestrial presence or a military threat to the UK. That does not solve every Kent report. It does set the right standard: sightings should be investigated for what they can show about air safety, records, witness perception and unusual aerial activity before anyone reaches for the most dramatic interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The Ministry of Defence’s closure of its UFO desk in 2009 is relevant here. The final file release said the desk had received more than 600 reports in 2009, treble the previous year, but that officials concluded the work served no defence purpose and had not produced evidence of an extraterrestrial presence or a military threat to the UK. That does not solve every Kent report. It does set the right standard: sightings should be investigated for what they can show about air safety, records, witness perception and unusual aerial activity before anyone reaches for the most dramatic interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 For readers trying to understand Kent’s UFO map, the practical takeaway is simple. Kent is a good county for UFO reports because it is a busy sky county, not because every report points in the same extraordinary direction. The most valuable cases are those that remain puzzling after aircraft, satellites, lanterns, meteors, astronomy and local events have been checked. The rest still matter, but mainly because they show how easily ordinary objects can become strange when seen over Kent’s airports, coasts and flight paths.
 
@@ -361,194 +361,194 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Kent Skies Produce So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Kent Skies Produce So Many UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting categories, observational errors, and methods for assessing reports, matching the page&#x27;s emphasis on judging sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting categories, observational errors, and methods for assessing reports, matching the page&#x27;s emphasis on judging sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly connects UFO reports with pilot observations, aviation safety, radar evidence, and witness evaluation relevant to Kent&#x27;s busy sk...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO reports with pilot observations, aviation safety, radar evidence, and witness evaluation relevant to Kent&#x27;s busy sk...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for recurring aerial mysteries and how unusual reports are interpreted across time and culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for recurring aerial mysteries and how unusual reports are interpreted across time and culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigation procedures, witness reports, and official evaluation rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation procedures, witness reports, and official evaluation rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="hotspots-why-kent-skies-produce-so-many-ufo-reports-kent-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kent-skies-produce-so-many-ufo-reports-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,157 +754,157 @@ For readers trying to understand Kent’s UFO map, the practical takeaway is sim
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kent.gov.uk  
    Title: Kent County Council Aviation policy statement  
-   Link: <a href="https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement</a>  
+   Link:<a href="https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/roads-paths-and-transport-policies/aviation-strategies-and-policies/aviation-policy-statement</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airspacechange.caa.co.uk  
    Title: Manston Airport Airspace Design and Procedures  
-   Link: <a href="https://airspacechange.caa.co.uk/documents/download/1482" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/documents/download/1482</a>  
+   Link:<a href="https://airspacechange.caa.co.uk/documents/download/1482" target="_blank" rel="noopener noreferrer nofollow">https://airspacechange.caa.co.uk/documents/download/1482</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: democracy.kent.gov.uk  
    Title: kent.gov.uk APPENDI X B DRAFT  
-   Link: <a href="https://democracy.kent.gov.uk/documents/s34123/Item%20D2%20-%20Appendix%20B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.kent.gov.uk/documents/s34123/Item%20D2%20-%20Appendix%20B.pdf</a>  
+   Link:<a href="https://democracy.kent.gov.uk/documents/s34123/Item%20D2%20-%20Appendix%20B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://democracy.kent.gov.uk/documents/s34123/Item%20D2%20-%20Appendix%20B.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cds.sevenoaks.gov.uk  
    Title: 09 Appendix B Kent County Council Dispersed Hub Proposal  
-   Link: <a href="https://cds.sevenoaks.gov.uk/documents/s13364/09%20-%20Appendix%20B%20-%20Kent%20County%20Council%20-%20Dispersed%20Hub%20Proposal.pdf?J=1" target="_blank" rel="noopener noreferrer nofollow">https://cds.sevenoaks.gov.uk/documents/s13364/09%20-%20Appendix%20B%20-%20Kent%20County%20Council%20-%20Dispersed%20Hub%20Proposal.pdf?J=1</a>  
+   Link:<a href="https://cds.sevenoaks.gov.uk/documents/s13364/09%20-%20Appendix%20B%20-%20Kent%20County%20Council%20-%20Dispersed%20Hub%20Proposal.pdf?J=1" target="_blank" rel="noopener noreferrer nofollow">https://cds.sevenoaks.gov.uk/documents/s13364/09%20-%20Appendix%20B%20-%20Kent%20County%20Council%20-%20Dispersed%20Hub%20Proposal.pdf?J=1</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
-   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020002-003354-Save%20Manston%20Airport%20-%20Transport%20Select%20Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020002-003354-Save%20Manston%20Airport%20-%20Transport%20Select%20Committee.pdf</a>  
+   Link:<a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020002-003354-Save%20Manston%20Airport%20-%20Transport%20Select%20Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/TR020002-003354-Save%20Manston%20Airport%20-%20Transport%20Select%20Committee.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: london.gov.uk  
-   Link: <a href="https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Evidence%20submitted%20for%20Airport%20Capacity%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Evidence%20submitted%20for%20Airport%20Capacity%20Report.pdf</a>  
+   Link:<a href="https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Evidence%20submitted%20for%20Airport%20Capacity%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Evidence%20submitted%20for%20Airport%20Capacity%20Report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d8be540f0b64fe6c245c3/utilisation-existing-capacity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d8be540f0b64fe6c245c3/utilisation-existing-capacity.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d8be540f0b64fe6c245c3/utilisation-existing-capacity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d8be540f0b64fe6c245c3/utilisation-existing-capacity.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bigginhillairport.com  
    Title: our heritage  
-   Link: <a href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow">https://bigginhillairport.com/about/our-heritage/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</p></details>
+   Link:<a href="https://bigginhillairport.com/about/our-heritage/" target="_blank" rel="noopener noreferrer nofollow">https://bigginhillairport.com/about/our-heritage/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Biggin Hill AirportOur HeritageOn an autumn day in 1916, two young officers in the Royal Flying Corps, drove into the Kent country...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rafmanston.co.uk  
-   Link: <a href="https://www.rafmanston.co.uk/home/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmanston.co.uk/home/history/</a>  
+   Link:<a href="https://www.rafmanston.co.uk/home/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafmanston.co.uk/home/history/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lyddairport.co.uk  
    Title: Lydd Airport The History of Lydd Airport  
-   Link: <a href="https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/</a>  
+   Link:<a href="https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/" target="_blank" rel="noopener noreferrer nofollow">https://lyddairport.co.uk/2025/05/22/the-history-of-lydd-airport/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: The Independent Passenger jet's near-miss with UFO above Kent  
-   Link: <a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/passenger-jet-s-nearmiss-with-ufo-above-kent-966925.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: independent.co.uk  
    Title: The Independent Huge meteor spotted in night sky over UK as residents '  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/uk-meteor-sky-met-office-b2259009.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: London Biggin Hill Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: RAF Manston  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Manston</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Manston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Manston</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Biggin Hill Airport  
-   Link: <a href="https://www.youtube.com/watch?v=N5YEtfFr4VY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N5YEtfFr4VY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=N5YEtfFr4VY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N5YEtfFr4VY</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wikishire.co.uk  
    Title: Biggin Hill Airport  
-   Link: <a href="https://wikishire.co.uk/wiki/Biggin_Hill_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Biggin_Hill_Airport</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Biggin_Hill_Airport" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Biggin_Hill_Airport</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spitfiremuseum.org.uk  
-   Link: <a href="https://www.spitfiremuseum.org.uk/visiting-raf-manston" target="_blank" rel="noopener noreferrer nofollow">https://www.spitfiremuseum.org.uk/visiting-raf-manston</a>  
+   Link:<a href="https://www.spitfiremuseum.org.uk/visiting-raf-manston" target="_blank" rel="noopener noreferrer nofollow">https://www.spitfiremuseum.org.uk/visiting-raf-manston</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: historyhit.com  
    Title: History Hit London Biggin Hill Airport  
-   Link: <a href="https://www.historyhit.com/locations/london-biggin-hill-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/locations/london-biggin-hill-airport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History HitLondon Biggin Hill Airport - History and Facts24 Jun 2021 — London Biggin Hill Airport was formerly a Royal Air Force station...</p></details>
+   Link:<a href="https://www.historyhit.com/locations/london-biggin-hill-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/locations/london-biggin-hill-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History HitLondon Biggin Hill Airport - History and Facts24 Jun 2021 — London Biggin Hill Airport was formerly a Royal Air Force station...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday  
-   Link: <a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple UFO Sightings - Over Dungeness Power Station...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wYicfhXdkuA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYicfhXdkuA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple UFO Sightings - Over Dungeness Power Station...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Multiple UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=Jf_jTd8lix4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jf_jTd8lix4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UK Bases Flooded With Sightings: What&#x27;s REALLY Happening?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jf_jTd8lix4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jf_jTd8lix4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UK Bases Flooded With Sightings: What&#x27;s REALLY Happening?...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/184572175211655/posts/2521867164815466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184572175211655/posts/2521867164815466/</a>  
+   Link:<a href="https://www.facebook.com/groups/184572175211655/posts/2521867164815466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/184572175211655/posts/2521867164815466/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
+   Link:<a href="https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornwalllivenews/posts/government-figures-show-reports-of-unidentified-objects-in-uk-skies-have-rockete/1350032277150089/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sf8d59/in_sky_over_kent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sf8d59/in_sky_over_kent/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sf8d59/in_sky_over_kent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sf8d59/in_sky_over_kent/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: irishexaminer.com  
-   Link: <a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
+   Link:<a href="https://www.irishexaminer.com/world/arid-30382660.html" target="_blank" rel="noopener noreferrer nofollow">https://www.irishexaminer.com/world/arid-30382660.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BailiwickExpress/posts/jersey-air-traffic-control-has-confirmed-the-source-of-mystery-lights-seen-soari/679430894038354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BailiwickExpress/posts/jersey-air-traffic-control-has-confirmed-the-source-of-mystery-lights-seen-soari/679430894038354/</a>  
+   Link:<a href="https://www.facebook.com/BailiwickExpress/posts/jersey-air-traffic-control-has-confirmed-the-source-of-mystery-lights-seen-soari/679430894038354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BailiwickExpress/posts/jersey-air-traffic-control-has-confirmed-the-source-of-mystery-lights-seen-soari/679430894038354/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KentOnline/posts/a-hovering-spaceship-1000-lights-in-the-sky-and-unidentified-moving-craft-above-/1108208271339881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentOnline/posts/a-hovering-spaceship-1000-lights-in-the-sky-and-unidentified-moving-craft-above-/1108208271339881/</a>  
+   Link:<a href="https://www.facebook.com/KentOnline/posts/a-hovering-spaceship-1000-lights-in-the-sky-and-unidentified-moving-craft-above-/1108208271339881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentOnline/posts/a-hovering-spaceship-1000-lights-in-the-sky-and-unidentified-moving-craft-above-/1108208271339881/</a>  

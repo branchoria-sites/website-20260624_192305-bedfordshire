@@ -254,7 +254,7 @@ image: /assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-overview-social
 
 ## Introduction
 
-The Chasetown case is [Staffordshire]({{ 'what-really-happened-in-staffordshires/' | relative_url }})’s most memorable close-encounter report because it was not just a rumour retold in UFO books: it entered the public record through Staffordshire Police and later appeared in Ministry of Defence files released by The National Archives. The basic claim is stark. On 4 May 1995, two young witnesses said they had seen a low or landed, saucer-like object near Burntwood and Chasetown, felt intense heat, saw an unusual face or head beneath the object, and heard a voice telling them to come with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Chasetown case is [Staffordshire]({{ 'what-really-happened-in-staffordshires/' | relative_url }})’s most memorable close-encounter report because it was not just a rumour retold in UFO books: it entered the public record through Staffordshire Police and later appeared in Ministry of Defence files released by The National Archives. The basic claim is stark. On 4 May 1995, two young witnesses said they had seen a low or landed, saucer-like object near Burntwood and Chasetown, felt intense heat, saw an unusual face or head beneath the object, and heard a voice telling them to come with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-overview.webp" | relative_url }}" alt="Overview image for Chasetown" loading="eager" decoding="sync" fetchpriority="high">
@@ -265,11 +265,11 @@ The case matters less because it proves a landing, and more because it shows the
 
 ## What the two youths reported
 
-The incident was reported late at night in the Burntwood and Chasetown area of southern Staffordshire. National reporting based on the released file placed the pair on Rugeley Road, Burntwood, at about 11pm on 4 May 1995, while a local report said they were walking near Fulfen School and later visited Chasetown Police Station to give their account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The incident was reported late at night in the Burntwood and Chasetown area of southern Staffordshire. National reporting based on the released file placed the pair on Rugeley Road, Burntwood, at about 11pm on 4 May 1995, while a local report said they were walking near Fulfen School and later visited Chasetown Police Station to give their account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Their description, as preserved in later summaries of the police report, combined several elements that make the case stand out from ordinary “lights in the sky” sightings. They said they felt intense heat, that their skin appeared to glow red, and that they saw a darkish silver, inverted saucer-shaped object in or above a field, with red light underneath. The object was reportedly close — about 40 feet away in the Guardian’s account of the police report — and not a distant point of light on the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Their description, as preserved in later summaries of the police report, combined several elements that make the case stand out from ordinary “lights in the sky” sightings. They said they felt intense heat, that their skin appeared to glow red, and that they saw a darkish silver, inverted saucer-shaped object in or above a field, with red light underneath. The object was reportedly close — about 40 feet away in the Guardian’s account of the police report — and not a distant point of light on the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The most memorable part of the story is also the part that makes many readers hesitate. The witnesses said a “lemon-like” or lemon-shaped head appeared below the object and a voice said, “We want you, come with us.” The National Archives’ own highlights guide summarised the relevant file as a Staffordshire Police report in which two youths claimed a UFO landed in a field at Chasetown, a face appeared, and a voice spoke to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The most memorable part of the story is also the part that makes many readers hesitate. The witnesses said a “lemon-like” or lemon-shaped head appeared below the object and a voice said, “We want you, come with us.” The National Archives’ own highlights guide summarised the relevant file as a Staffordshire Police report in which two youths claimed a UFO landed in a field at Chasetown, a face appeared, and a voice spoke to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That detail makes Chasetown a close-encounter claim rather than a simple aircraft or planet sighting. It is also why the case should be treated carefully. A close encounter with a voice and apparent entity is a much larger claim than an unexplained light. The stronger the claim, the more important it becomes to ask what independent evidence survived alongside the witnesses’ own account.
 
@@ -277,13 +277,13 @@ That detail makes Chasetown a close-encounter claim rather than a simple aircraf
 <img src="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-1-dark.svg" | relative_url }}" alt="Chasetown illustration 1" data-theme-src-dark="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police and MoD documentation
 
-The strongest point in favour of taking the report seriously is its official route into the archive. The National Archives identifies the case in file DEFE 24/1961, pages 191–207, and places it among the August 2009 release of MoD UFO papers. In the same guide, Staffordshire appears in the regional listing with DEFE 24/1961, pages 191–207, and DEFE 24/1970, pages 299–303, showing that the county was represented in the released MoD material rather than only in later folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The strongest point in favour of taking the report seriously is its official route into the archive. The National Archives identifies the case in file DEFE 24/1961, pages 191–207, and places it among the August 2009 release of MoD UFO papers. In the same guide, Staffordshire appears in the regional listing with DEFE 24/1961, pages 191–207, and DEFE 24/1970, pages 299–303, showing that the county was represented in the released MoD material rather than only in later folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-The wider MoD archive context matters. The National Archives research guide explains that UFO report files commonly contain material from members of the public and official sources such as police, coastguard and the Civil Aviation Authority, and that reports often used a standard proforma asking for time, duration, description, observer position, movement, weather, nearby objects, other witnesses and related details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> That does not mean every case was deeply investigated, but it does mean the Chasetown report sat inside a real official reporting system.
+The wider MoD archive context matters. The National Archives research guide explains that UFO report files commonly contain material from members of the public and official sources such as police, coastguard and the Civil Aviation Authority, and that reports often used a standard proforma asking for time, duration, description, observer position, movement, weather, nearby objects, other witnesses and related details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span> That does not mean every case was deeply investigated, but it does mean the Chasetown report sat inside a real official reporting system.
 
-The case also received attention because of the 2009 release itself. The National Archives’ August 2009 podcast script, presented by David Clarke, described the release as 14 files containing just over 4,000 pages, including UFO reports from January 1993 to August 1996. It singled out the Staffordshire case as an “attempted” alien abduction account: two frightened youths ran into a police station, claimed they had seen a UFO land in a field at Chasetown, felt a blast of heat, saw a face and heard the invitation to come with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The case also received attention because of the 2009 release itself. The National Archives’ August 2009 podcast script, presented by David Clarke, described the release as 14 files containing just over 4,000 pages, including UFO reports from January 1993 to August 1996. It singled out the Staffordshire case as an “attempted” alien abduction account: two frightened youths ran into a police station, claimed they had seen a UFO land in a field at Chasetown, felt a blast of heat, saw a face and heard the invitation to come with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-Local reporting adds one important detail that is easy to miss in national summaries. Lichfield Live reported that a sergeant confirmed a red light with white lights around it was visible in the sky, but the police report added that these lights “could quite easily have been a civil airline.” The same local account said further Staffordshire Police checks found no other witnesses and that a farmer in the field said he had seen nothing unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lichfieldlive.co.uk">[Lichfield Live®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lichfieldlive.co.uk</span><span class="citation-popover-title">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span><span class="citation-popover-snippet">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span></span></span>
+Local reporting adds one important detail that is easy to miss in national summaries. Lichfield Live reported that a sergeant confirmed a red light with white lights around it was visible in the sky, but the police report added that these lights “could quite easily have been a civil airline.” The same local account said further Staffordshire Police checks found no other witnesses and that a farmer in the field said he had seen nothing unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lichfieldlive.co.uk">[Lichfield Live®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lichfieldlive.co.uk</span><span class="citation-popover-title">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span><span class="citation-popover-snippet">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span></span></span>
 
 That is the evidential tension in one paragraph: there was enough concern for the youths to go to the police and enough documentation for the case to survive in MoD files, but the one contemporaneous independent sky observation was not treated as extraordinary by police, and the field check did not confirm a landing.
 
@@ -294,13 +294,13 @@ That is the evidential tension in one paragraph: there was enough concern for th
 
 The case’s limits are not minor technicalities. They are central to how the Chasetown report should be read.
 
-First, the evidence appears to be witness testimony plus police paperwork, not a physical or instrumented case. There is no known photograph, video, radar track, landing mark, soil sample, medical record or recovered object attached to the public story. The National Archives highlights guide names the report and summarises the claim, but it does not present the kind of corroborating physical evidence that would be needed to move the case beyond an unexplained report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+First, the evidence appears to be witness testimony plus police paperwork, not a physical or instrumented case. There is no known photograph, video, radar track, landing mark, soil sample, medical record or recovered object attached to the public story. The National Archives highlights guide names the report and summarises the claim, but it does not present the kind of corroborating physical evidence that would be needed to move the case beyond an unexplained report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-Second, the next-day field inquiry weakened rather than strengthened the claim. Police returned to the area with the witnesses, but according to the National Archives podcast script they found only a farmer spraying crops, who said he had not seen anything unusual. National and local reports repeat the same point: the farmer’s account did not support a landed craft or visible disturbance in the field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Second, the next-day field inquiry weakened rather than strengthened the claim. Police returned to the area with the witnesses, but according to the National Archives podcast script they found only a farmer spraying crops, who said he had not seen anything unusual. National and local reports repeat the same point: the farmer’s account did not support a landed craft or visible disturbance in the field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-Third, the independent light sighting was ambiguous. A red light with white lights around it might sound suggestive when read in isolation, but the local report’s own summary of the police note says it could have been a civil airline. That does not explain every feature of the youths’ account, especially the alleged heat and spoken invitation, but it does show that the only reported confirmatory sky observation did not clearly point to a structured, landed object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lichfieldlive.co.uk">[Lichfield Live®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lichfieldlive.co.uk</span><span class="citation-popover-title">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span><span class="citation-popover-snippet">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span></span></span>
+Third, the independent light sighting was ambiguous. A red light with white lights around it might sound suggestive when read in isolation, but the local report’s own summary of the police note says it could have been a civil airline. That does not explain every feature of the youths’ account, especially the alleged heat and spoken invitation, but it does show that the only reported confirmatory sky observation did not clearly point to a structured, landed object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lichfieldlive.co.uk">[Lichfield Live®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lichfieldlive.co.uk</span><span class="citation-popover-title">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span><span class="citation-popover-snippet">Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter</span></span></span>
 
-Fourth, the case sits inside a period when British UFO reporting was unusually sensitive to popular culture and media attention. The National Archives’ August 2009 release recorded 117 MoD UFO sightings in 1995, then a jump to 609 in 1996; David Clarke suggested the increase may have reflected public awareness from The X-Files and Independence Day. Reuters made a similar point, reporting that many cases in the released files had ordinary explanations such as stars, planets, meteors, satellites and balloons, while the Staffordshire “lemon-shaped head” account was one of the more colourful examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Fourth, the case sits inside a period when British UFO reporting was unusually sensitive to popular culture and media attention. The National Archives’ August 2009 release recorded 117 MoD UFO sightings in 1995, then a jump to 609 in 1996; David Clarke suggested the increase may have reflected public awareness from The X-Files and Independence Day. Reuters made a similar point, reporting that many cases in the released files had ordinary explanations such as stars, planets, meteors, satellites and balloons, while the Staffordshire “lemon-shaped head” account was one of the more colourful examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 That cultural setting does not prove the witnesses invented or imagined the Chasetown encounter. It does, however, warn against reading the story as though it existed in a vacuum. By the mid-1990s, alien-abduction imagery was highly recognisable, and official files were collecting many reports of very different quality.
 
@@ -308,9 +308,9 @@ That cultural setting does not prove the witnesses invented or imagined the Chas
 <img src="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-2-dark.svg" | relative_url }}" alt="Chasetown illustration 2" data-theme-src-dark="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot support
 
-Chasetown can support a modest claim: in May 1995, two young witnesses gave Staffordshire Police a dramatic close-encounter account, and that report was later preserved in MoD UFO files released through The National Archives. That is why the case belongs in Staffordshire’s UFO history. It is better documented than a purely oral local legend, and it has a clear place, date and official file reference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Chasetown can support a modest claim: in May 1995, two young witnesses gave Staffordshire Police a dramatic close-encounter account, and that report was later preserved in MoD UFO files released through The National Archives. That is why the case belongs in Staffordshire’s UFO history. It is better documented than a purely oral local legend, and it has a clear place, date and official file reference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-It cannot support the stronger claim that something definitely landed at Chasetown. The report lacks the supporting evidence that would normally be expected for a physical landing case: multiple independent witnesses at the scene, trace evidence, confirmed unusual radar returns, photographs, or a later technical investigation that ruled out ordinary causes. The MoD’s own report-gathering system was designed to log and assess sightings, but the National Archives research guide makes clear that such files were often mixtures of public letters, official reports and proforma-based observations rather than full forensic investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
+It cannot support the stronger claim that something definitely landed at Chasetown. The report lacks the supporting evidence that would normally be expected for a physical landing case: multiple independent witnesses at the scene, trace evidence, confirmed unusual radar returns, photographs, or a later technical investigation that ruled out ordinary causes. The MoD’s own report-gathering system was designed to log and assess sightings, but the National Archives research guide makes clear that such files were often mixtures of public letters, official reports and proforma-based observations rather than full forensic investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Research Notes 6</span><span class="citation-popover-snippet">National Archives Research Notes 6</span></span></span>
 
 The most reasonable classification is therefore “officially recorded but evidentially weak.” That phrase may sound disappointing, but it is useful. It separates Chasetown from both extremes: it was not merely an internet-age ghost story with no paper trail, but it was also not a proven landing, attempted abduction or confirmed non-human encounter.
 
@@ -319,7 +319,7 @@ The most reasonable classification is therefore “officially recorded but evide
 
 ## Why Chasetown still matters in Staffordshire UFO history
 
-Chasetown remains important because it illustrates how a local Staffordshire report can become nationally memorable without becoming evidentially stronger. The vivid details — heat, red glow, saucer shape, field, face, voice — made it highly reportable when the MoD files were released in 2009. The Guardian, Reuters, ABC News, Lichfield Live and other outlets all highlighted it because it was stranger and more human than a routine light-in-the-sky entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[Lichfield Live®+3The Guardian+3Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Chasetown remains important because it illustrates how a local Staffordshire report can become nationally memorable without becoming evidentially stronger. The vivid details — heat, red glow, saucer shape, field, face, voice — made it highly reportable when the MoD files were released in 2009. The Guardian, Reuters, ABC News, Lichfield Live and other outlets all highlighted it because it was stranger and more human than a routine light-in-the-sky entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Its value for readers is therefore not that it settles the UFO question. It shows how to read Staffordshire’s UFO material responsibly. A case may be sincere, frightening and officially logged, yet still fall short of proof. A police file can preserve what witnesses said without confirming that the described event occurred exactly as reported. A later newspaper article can make a thin record feel more dramatic, especially when the most memorable phrase is repeated more often than the evidential caveats.
 
@@ -329,194 +329,194 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
 <img src="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-3-dark.svg" | relative_url }}" alt="Chasetown illustration 3" data-theme-src-dark="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Staffordshire_e11f30_chasetown_1995_fcbd3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Something Land at Chasetown in 1995?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Something Land at Chasetown in 1995?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduced the close-encounter framework most relevant to evaluating a case like Chasetown.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced the close-encounter framework most relevant to evaluating a case like Chasetown.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Helps readers understand how British UFO reports entered official systems such as those involved in the Chasetown case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how British UFO reports entered official systems such as those involved in the Chasetown case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented witness testimony and official records, central issues in assessing Chasetown.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented witness testimony and official records, central issues in assessing Chasetown.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides a UK comparison point for evaluating claims of a landed object and witness encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a UK comparison point for evaluating claims of a landed object and witness encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="{{ '/assets/images/marketplace-covers/0b94c1ecef458b62a06c.jpg' | relative_url }}" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="{{ '/assets/images/marketplace-covers/0b94c1ecef458b62a06c.jpg' | relative_url }}" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="chasetown-did-something-land-at-chasetown-in-1995-staffordshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,136 +722,136 @@ For Staffordshire, the Chasetown encounter is best treated as a landmark case wi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: UFO sightings may have been down to "X Files" | Reuters  
-   Link: <a href="https://www.reuters.com/article/lifestyle/science/ufo-sightings-may-have-been-down-to-x-files-idUSTRE57G2EU/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/science/ufo-sightings-may-have-been-down-to-x-files-idUSTRE57G2EU/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/science/ufo-sightings-may-have-been-down-to-x-files-idUSTRE57G2EU/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/science/ufo-sightings-may-have-been-down-to-x-files-idUSTRE57G2EU/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: staffordshire.police.uk  
    Title: foi 17748 unidentified flying object sightings data  
-   Link: <a href="https://www.staffordshire.police.uk/SysSiteAssets/foi-media/staffordshire/2025-published-foi-requests/january/foi-17748-unidentified-flying-object-sightings-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.staffordshire.police.uk/SysSiteAssets/foi-media/staffordshire/2025-published-foi-requests/january/foi-17748-unidentified-flying-object-sightings-data.pdf</a>  
+   Link:<a href="https://www.staffordshire.police.uk/SysSiteAssets/foi-media/staffordshire/2025-published-foi-requests/january/foi-17748-unidentified-flying-object-sightings-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.staffordshire.police.uk/SysSiteAssets/foi-media/staffordshire/2025-published-foi-requests/january/foi-17748-unidentified-flying-object-sightings-data.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lichfieldlive.co.uk  
    Title: Lichfield Live®Ministry of Defence files reveal Burntwood alien encounter  
-   Link: <a href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/</a>  
+   Link:<a href="https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://lichfieldlive.co.uk/2009/08/17/ministry-of-defence-files-reveal-chasetown-alien-encounter/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Research Notes 6  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/95?_q=find+an+archive</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: books.google.co.uk  
-   Link: <a href="https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r</a>  
+   Link:<a href="https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abcnews.go.com  
-   Link: <a href="https://abcnews.go.com/International/story?id=8346458" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.go.com/International/story?id=8346458</a>  
+   Link:<a href="https://abcnews.go.com/International/story?id=8346458" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.go.com/International/story?id=8346458</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
+   Link:<a href="https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gefmongooseiom/posts/an-foi-request-has-suggested-the-doi-may-have-info-on-ufo-sightings-isleofman/589935623139602/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ufodisclosure.fanpage/posts/reminds-me-of-reports-of-recovered-ufos-from-the-40s/10160364696135383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufodisclosure.fanpage/posts/reminds-me-of-reports-of-recovered-ufos-from-the-40s/10160364696135383/</a>  
+   Link:<a href="https://www.facebook.com/ufodisclosure.fanpage/posts/reminds-me-of-reports-of-recovered-ufos-from-the-40s/10160364696135383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufodisclosure.fanpage/posts/reminds-me-of-reports-of-recovered-ufos-from-the-40s/10160364696135383/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
+   Link:<a href="https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MetroUK/posts/the-british-military-thought-there-was-basis-in-fact-to-ufo-sightings-/1324212449736221/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovered.ed.ac.uk  
-   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
+   Link:<a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/</a>  
+   Link:<a href="https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: the cia ordered pilots to stop filing ufo reports in 1953 not because the sighti  
-   Link: <a href="https://www.facebook.com/IncidentUnknown/posts/the-cia-ordered-pilots-to-stop-filing-ufo-reports-in-1953-not-because-the-sighti/1276584458019815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IncidentUnknown/posts/the-cia-ordered-pilots-to-stop-filing-ufo-reports-in-1953-not-because-the-sighti/1276584458019815/</a>  
+   Link:<a href="https://www.facebook.com/IncidentUnknown/posts/the-cia-ordered-pilots-to-stop-filing-ufo-reports-in-1953-not-because-the-sighti/1276584458019815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IncidentUnknown/posts/the-cia-ordered-pilots-to-stop-filing-ufo-reports-in-1953-not-because-the-sighti/1276584458019815/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: the isle of mans first ufo sightingon this day in 1902 the manx newspapers repor  
-   Link: <a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  
+   Link:<a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: ufo drawings from the national archives publishes eyewitness illustrations of un  
-   Link: <a href="https://www.facebook.com/hyperallergic/posts/ufo-drawings-from-the-national-archives-publishes-eyewitness-illustrations-of-un/10159900478629812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hyperallergic/posts/ufo-drawings-from-the-national-archives-publishes-eyewitness-illustrations-of-un/10159900478629812/</a>  
+   Link:<a href="https://www.facebook.com/hyperallergic/posts/ufo-drawings-from-the-national-archives-publishes-eyewitness-illustrations-of-un/10159900478629812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hyperallergic/posts/ufo-drawings-from-the-national-archives-publishes-eyewitness-illustrations-of-un/10159900478629812/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Mo D Releases Secret UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=oaWnBgh4AVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oaWnBgh4AVQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Controversial UAP Report (Project Condign) - Dr. David Clarke...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oaWnBgh4AVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oaWnBgh4AVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Controversial UAP Report (Project Condign) - Dr. David Clarke...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: Who found the UFO and did not publish?Who found the UFO and did not publish?  
-   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2765284330471912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2765284330471912/</a>  
+   Link:<a href="https://www.facebook.com/groups/149844915349213/posts/2765284330471912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2765284330471912/</a>  

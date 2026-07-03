@@ -248,24 +248,24 @@ image: /assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-overview-social.
 
 ## Introduction
 
-The Bonnyrigg lights are probably the most striking [Midlothian]({{ 'what-really-happened-in-midlothians-ufo/' | relative_url }}) entry in the Ministry of Defence UFO lists: sixty fast-moving lights, some red and some blue, with thirty reportedly changing to orange and the lights forming a triangle. On paper, that sounds stronger than the usual “single light in the sky” report. The problem is that the official entry has **“No Firm Date”**. The MoD recorded a time, 05:15, and said the message was taken from an answerphone on 23 October 2007, but it did not record the actual date of the sighting. That gap is not a small clerical inconvenience. It makes the case hard to test against aircraft, satellites, weather, dawn light, local events, lantern releases or other ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+The Bonnyrigg lights are probably the most striking [Midlothian]({{ 'what-really-happened-in-midlothians-ufo/' | relative_url }}) entry in the Ministry of Defence UFO lists: sixty fast-moving lights, some red and some blue, with thirty reportedly changing to orange and the lights forming a triangle. On paper, that sounds stronger than the usual “single light in the sky” report. The problem is that the official entry has **“No Firm Date”**. The MoD recorded a time, 05:15, and said the message was taken from an answerphone on 23 October 2007, but it did not record the actual date of the sighting. That gap is not a small clerical inconvenience. It makes the case hard to test against aircraft, satellites, weather, dawn light, local events, lantern releases or other ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-overview.webp" | relative_url }}" alt="Overview image for Bonnyrigg Lights" loading="eager" decoding="sync" fetchpriority="high">
-For Midlothian’s UFO history, the Bonnyrigg case matters less as a proven mystery than as a useful warning. It shows how a dramatic witness description can become weak evidence when the basic timing is missing. Bonnyrigg is firmly within the modern Midlothian area, while [historic Midlothian]({{ 'boundaries-c78321/' | relative_url }}), also known as Edinburghshire, is the wider county frame used across this project; Scotland’s counties as local government areas were abolished in 1975, so boundary language needs some care when reading older or official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">midlothian county</span><span class="citation-popover-snippet">midlothian county</span></span></span>
+For Midlothian’s UFO history, the Bonnyrigg case matters less as a proven mystery than as a useful warning. It shows how a dramatic witness description can become weak evidence when the basic timing is missing. Bonnyrigg is firmly within the modern Midlothian area, while [historic Midlothian]({{ 'boundaries-c78321/' | relative_url }}), also known as Edinburghshire, is the wider county frame used across this project; Scotland’s counties as local government areas were abolished in 1975, so boundary language needs some care when reading older or official records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotlandspeople.gov.uk">[Scotland&#x27;s People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotlandspeople.gov.uk</span><span class="citation-popover-title">midlothian county</span><span class="citation-popover-snippet">midlothian county</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ## What the MoD entry actually says
 
-The official source is the MoD’s published 2007 UFO report list, now hosted by GOV.UK as part of the public release of UK UFO reports from 1997 to 2009. GOV.UK describes these lists as showing “dates and times, location and a brief description of the sighting”, but the Bonnyrigg entry is one of the cases where the date field does not do that job. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
+The official source is the MoD’s published 2007 UFO report list, now hosted by GOV.UK as part of the public release of UK UFO reports from 1997 to 2009. GOV.UK describes these lists as showing “dates and times, location and a brief description of the sighting”, but the Bonnyrigg entry is one of the cases where the date field does not do that job.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
-The Bonnyrigg entry appears in the “No Firm Date” part of the 2007 list. It gives the time as **05:15**, the location as **Bonnyrigg**, the county as **Midlothian**, and the description as sixty lights moving fast, some red and some blue, with thirty changing to orange and the lights in a triangle formation. The note says the message was taken off the answerphone on **23 October 2007**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+The Bonnyrigg entry appears in the “No Firm Date” part of the 2007 list. It gives the time as **05:15**, the location as **Bonnyrigg**, the county as **Midlothian**, and the description as sixty lights moving fast, some red and some blue, with thirty changing to orange and the lights in a triangle formation. The note says the message was taken off the answerphone on **23 October 2007**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 That is a vivid description, but it leaves out the details that would normally decide how seriously to rank a sky report. There is no named witness, no exact date, no duration, no direction of travel, no elevation above the horizon, no weather, no photographs, no radar reference, no police report, and no indication that other witnesses independently contacted the MoD. The entry is therefore best treated as an official record of a report made to the MoD, not as an official confirmation that something unexplained was present over Bonnyrigg.
 
-This matters because the same 2007 list contains many reports that sound dramatic in one-line form but are too compressed to evaluate. Nearby in the table are other “No Firm Date” reports: lights in Liverpool changing patterns from diamonds to pyramids, orange lights in Epsom, orange lights crossing Shrewsbury, and the Bonnyrigg case itself. The Bonnyrigg entry stands out locally because of the number of lights and the triangle detail, but its documentary footing is the same thin footing as the surrounding answerphone summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+This matters because the same 2007 list contains many reports that sound dramatic in one-line form but are too compressed to evaluate. Nearby in the table are other “No Firm Date” reports: lights in Liverpool changing patterns from diamonds to pyramids, orange lights in Epsom, orange lights crossing Shrewsbury, and the Bonnyrigg case itself. The Bonnyrigg entry stands out locally because of the number of lights and the triangle detail, but its documentary footing is the same thin footing as the surrounding answerphone summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-1-dark.svg" | relative_url }}" alt="Bonnyrigg Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -273,14 +273,14 @@ This matters because the same 2007 list contains many reports that sound dramati
 
 A UFO report with a time but no date is like a photograph with the location cropped out: it may still be interesting, but many of the most useful checks become impossible. The Bonnyrigg report gives **05:15**, which sounds precise. Yet without the actual date, 05:15 could mean very different sky conditions.
 
-In late October in Midlothian, 05:15 would be before sunrise, but the exact amount of darkness, twilight and moonlight would depend on the date. In summer, the same time would be close to daylight or twilight. In winter, it would be deeper night. Timeanddate’s Bonnyrigg astronomy pages illustrate why this matters: sunrise, sunset, moonrise, moonset and twilight vary through the year, and those changes shape what a witness can see and how bright objects appear against the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/sun/%402655210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Open source on timeanddate.com.</span></span></span>
+In late October in Midlothian, 05:15 would be before sunrise, but the exact amount of darkness, twilight and moonlight would depend on the date. In summer, the same time would be close to daylight or twilight. In winter, it would be deeper night. Timeanddate’s Bonnyrigg astronomy pages illustrate why this matters: sunrise, sunset, moonrise, moonset and twilight vary through the year, and those changes shape what a witness can see and how bright objects appear against the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/sun/%402655210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Open source on timeanddate.com.</span></span></span>
 
 The missing date also blocks the most practical checks. A dated report could be compared with:
 
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
-* aircraft movements into or out of Edinburgh Airport;(#endnote-27 "Endnote 27") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/edi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* aircraft movements into or out of Edinburgh Airport;(#endnote-27 "Endnote 27")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/edi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * weather records, cloud base and wind direction;
 * bright planets, the Moon, meteors or satellite passes;
 * local celebrations, lantern releases or firework activity;
@@ -288,9 +288,9 @@ The missing date also blocks the most practical checks. A dated report could be 
 
 </div>
 
-Without the date, these checks become guesses. Edinburgh Airport’s own flight-path material underlines that aircraft use defined arrival and departure patterns, and that runway direction changes how aircraft approach or leave the airport; but those aviation possibilities can only be tested properly if the date, direction and weather are known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
+Without the date, these checks become guesses. Edinburgh Airport’s own flight-path material underlines that aircraft use defined arrival and departure patterns, and that runway direction changes how aircraft approach or leave the airport; but those aviation possibilities can only be tested properly if the date, direction and weather are known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
 
-The answerphone detail adds another uncertainty. The message was taken on 23 October 2007, but the sighting may have occurred earlier. It could have been the same morning, the previous night, or some other date. The MoD list itself uses “No Firm Date” for the entry, so the safest reading is that the report-taker did not have enough reliable information to assign a sighting date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
+The answerphone detail adds another uncertainty. The message was taken on 23 October 2007, but the sighting may have occurred earlier. It could have been the same morning, the previous night, or some other date. The MoD list itself uses “No Firm Date” for the entry, so the safest reading is that the report-taker did not have enough reliable information to assign a sighting date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2007</span><span class="citation-popover-snippet">ufo report 2007</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7hZs8FX2pI" title="What’s Happening in the UFO Capital of the World? | Bonnybridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7hZs8FX2pI" target="_blank" rel="noopener noreferrer">What’s Happening in the UFO Capital of the World? | Bonnybridge</a></p><p class="youtube-embed-meta">Channel: Red Web</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7hZs8FX2pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7hZs8FX2pI">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ The answerphone detail adds another uncertainty. The message was taken on 23 Oct
 
 The Bonnyrigg description invites several ordinary explanations, but the missing date prevents any of them from being confirmed. The most plausible approach is therefore not to “solve” the case, but to ask which explanations fit parts of the description and where each one runs into trouble.
 
-**Chinese lanterns or similar floating lights** are an obvious comparison because late-2000s UK UFO files contain many reports of orange lights in groups and formations. The National Archives’ 2013 UFO highlights guide says many 2008–09 reports were generated by Chinese lanterns, with people filming formations of orange lights on phones and sometimes describing themselves as amazed or frightened. It also highlights a 2007 South Wales case involving amber, orange and white lights in triangular formation, which is close in style to the Bonnyrigg wording even though it is not the same incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
+**Chinese lanterns or similar floating lights** are an obvious comparison because late-2000s UK UFO files contain many reports of orange lights in groups and formations. The National Archives’ 2013 UFO highlights guide says many 2008–09 reports were generated by Chinese lanterns, with people filming formations of orange lights on phones and sometimes describing themselves as amazed or frightened. It also highlights a 2007 South Wales case involving amber, orange and white lights in triangular formation, which is close in style to the Bonnyrigg wording even though it is not the same incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">ufo highlights guide 2013</span></span></span>
 
-That explanation fits the reported orange colour and the idea of many lights in a loose formation. It fits less well with “moving fast”, and it does not easily explain red and blue lights unless the witness was seeing mixed sources, colour perception effects, or separate lights rather than identical lanterns. The National Archives also cautions that lantern-like reports became a broader social phenomenon, not that every orange-light report was automatically a lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+That explanation fits the reported orange colour and the idea of many lights in a loose formation. It fits less well with “moving fast”, and it does not easily explain red and blue lights unless the witness was seeing mixed sources, colour perception effects, or separate lights rather than identical lanterns. The National Archives also cautions that lantern-like reports became a broader social phenomenon, not that every orange-light report was automatically a lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-**Aircraft are another possibility**, especially in a county close to Edinburgh’s controlled aviation environment. Aircraft can show red, green, white and flashing lights; groups of aircraft can appear to form lines or triangles from a ground observer’s perspective; and moving lights at distance can look faster or slower than they really are. But again, the Bonnyrigg entry lacks the essentials: no direction, no altitude estimate, no sound note, no duration and no date. Edinburgh Airport material explains that its runway use affects arrival and departure direction, but a specific comparison with 2007 traffic is not possible from the MoD entry alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
+**Aircraft are another possibility**, especially in a county close to Edinburgh’s controlled aviation environment. Aircraft can show red, green, white and flashing lights; groups of aircraft can appear to form lines or triangles from a ground observer’s perspective; and moving lights at distance can look faster or slower than they really are. But again, the Bonnyrigg entry lacks the essentials: no direction, no altitude estimate, no sound note, no duration and no date. Edinburgh Airport material explains that its runway use affects arrival and departure direction, but a specific comparison with 2007 traffic is not possible from the MoD entry alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edi.noiselab.casper.aero">[NoiseLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edi.noiselab.casper.aero</span><span class="citation-popover-snippet">Open source on casper.aero.</span></span></span>
 
 **Astronomical explanations** are harder to assess. Satellites, meteors and bright planets can all trigger UFO reports, but sixty lights in a triangle formation is not a natural fit for a single planet or meteor. A satellite train would be a better modern comparison, but the well-known Starlink era came much later than 2007, so it should not be used loosely here. The more cautious point is that astronomy checks require the actual date. With only “05:15” and “No Firm Date”, even a basic sky reconstruction becomes unreliable.
 
@@ -317,7 +317,7 @@ The Bonnyrigg lights may be Midlothian’s most dramatic official UFO-list entry
 
 Bonnyrigg has a memorable description, an official MoD listing, a named town, and a precise reported time. It does not have the date or supporting record needed to move beyond “interesting but weakly testable”. That places it in a different category from cases where investigators can reconstruct the sky, compare local reports, or test radar and flight data.
 
-The wider MoD context supports this cautious reading. The National Archives’ release material says the MoD UFO desk was eventually closed after officials concluded it served no defence purpose, and that more than fifty years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. The same release notes that the late-2000s rise in reports was partly linked to public interest, media coverage and lantern-like sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The wider MoD context supports this cautious reading. The National Archives’ release material says the MoD UFO desk was eventually closed after officials concluded it served no defence purpose, and that more than fifty years of reports had not revealed evidence of an extraterrestrial presence or military threat to the UK. The same release notes that the late-2000s rise in reports was partly linked to public interest, media coverage and lantern-like sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 For Midlothian readers, the useful conclusion is not that Bonnyrigg was “debunked”, because the record is too thin for that. Nor is it fair to present it as a major unresolved mystery, because the missing date removes the checks that might have made it stronger. The most accurate label is **unresolved but weakly evidenced**: a striking report preserved in the official record, weakened by the very gap that matters most.
 
@@ -337,7 +337,7 @@ The key missing facts are simple:
 * the witness’s viewing position in or near Bonnyrigg;
 * the direction the lights travelled;
 * how long the lights were visible;
-* whether they were silent; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midlothian.gov.uk">[midlothian.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midlothian.gov.uk</span><span class="citation-popover-title">introductory guide to midlothian archives</span><span class="citation-popover-snippet">introductory guide to midlothian archives</span></span></span>
+* whether they were silent;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midlothian.gov.uk">[midlothian.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midlothian.gov.uk</span><span class="citation-popover-title">introductory guide to midlothian archives</span><span class="citation-popover-snippet">introductory guide to midlothian archives</span></span></span>
 * whether anyone else reported the same event;
 * whether the “triangle formation” meant a solid craft shape or only separated points of light.
 
@@ -349,194 +349,194 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
 <img src="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-3-dark.svg" | relative_url }}" alt="Bonnyrigg Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Midlothian_ff4e39_bonnyrigg_lights_9f127c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Bonnyrigg Lights Midlothian&#x27;s Strongest Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Bonnyrigg Lights Midlothian&#x27;s Strongest Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how stronger cases rely on better documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how stronger cases rely on better documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal for a case where key information such as the date is missing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for a case where key information such as the date is missing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uninvited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xCfkWogULuQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Uninvited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninvited">The Uninvited</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides context for British reports and missing evidence problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for British reports and missing evidence problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Uninvited+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uninvited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uninvited</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit"><img src="{{ '/assets/images/marketplace-covers/73c287d67ddd37e8f396.jpg' | relative_url }}" alt="Listing image for Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit"><img src="{{ '/assets/images/marketplace-covers/73c287d67ddd37e8f396.jpg' | relative_url }}" alt="Listing image for Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Dragon 11004-1/144 Space Shuttle &quot;Atlantis&quot; w/Cargo Bay &amp; Satellite Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm"><img src="{{ '/assets/images/marketplace-covers/2ade5e6d59045a92474d.jpg' | relative_url }}" alt="Listing image for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm"><img src="{{ '/assets/images/marketplace-covers/2ade5e6d59045a92474d.jpg' | relative_url }}" alt="Listing image for Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Kids STEM Toys DIY Physical Model Science Experiment Educational Toy Handmade Sm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="bonnyrigg-lights-were-the-bonnyrigg-lights-midlothian-s-strongest-case-midlothian-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,181 +742,181 @@ Until those details appear, the Bonnyrigg lights remain a classic example of a U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scotlandspeople.gov.uk  
    Title: midlothian county  
-   Link: <a href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/midlothian-county</a>  
+   Link:<a href="https://www.scotlandspeople.gov.uk/content/midlothian-county" target="_blank" rel="noopener noreferrer nofollow">https://www.scotlandspeople.gov.uk/content/midlothian-county</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: midlothian.gov.uk  
    Title: Midlothian Council Community Councils  
-   Link: <a href="https://www.midlothian.gov.uk/directory_record/16869077/bonnyrigg_and_district" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/directory_record/16869077/bonnyrigg_and_district</a>  
+   Link:<a href="https://www.midlothian.gov.uk/directory_record/16869077/bonnyrigg_and_district" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/directory_record/16869077/bonnyrigg_and_district</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/sun/%402655210" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%402655210</a>  
+   Link:<a href="https://www.timeanddate.com/sun/%402655210" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%402655210</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/astronomy/%402655210" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/%402655210</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/%402655210" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/%402655210</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a79bcace5274a684690bbc2/UFOReport1999.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: FOI UFO DMC publishing  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: argyll-bute.gov.uk  
-   Link: <a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
+   Link:<a href="https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10" target="_blank" rel="noopener noreferrer nofollow">https://www.argyll-bute.gov.uk/moderngov/documents/g5705/Public%20reports%20pack%20Wednesday%2022-May-2013%2011.15%20Planning%20Protective%20Services%20and%20Licensing%20Commi.pdf?T=10</a>  
    Published: May 2013  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: midlothian.gov.uk  
-   Link: <a href="https://www.midlothian.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/</a>  
+   Link:<a href="https://www.midlothian.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: midlothian.gov.uk  
    Title: introductory guide to midlothian archives  
-   Link: <a href="https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf</a>  
+   Link:<a href="https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.midlothian.gov.uk/download/downloads/id/230/introductory_guide_to_midlothian_archives.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timeanddate.com  
-   Link: <a href="https://www.timeanddate.com/sun/%402655210?month=5" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%402655210?month=5</a>  
+   Link:<a href="https://www.timeanddate.com/sun/%402655210?month=5" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%402655210?month=5</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/find-local-council/midlothian" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/find-local-council/midlothian</a>  
+   Link:<a href="https://www.gov.uk/find-local-council/midlothian" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/find-local-council/midlothian</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: edi.noiselab.casper.aero  
-   Link: <a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
+   Link:<a href="https://edi.noiselab.casper.aero/content/2/flight-path-usage/" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/content/2/flight-path-usage/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253680467978014/posts/27116092177976812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253680467978014/posts/27116092177976812/</a>  
+   Link:<a href="https://www.facebook.com/groups/253680467978014/posts/27116092177976812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253680467978014/posts/27116092177976812/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: edi.noiselab.casper.aero  
-   Link: <a href="https://edi.noiselab.casper.aero/page/3" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/page/3</a>  
+   Link:<a href="https://edi.noiselab.casper.aero/page/3" target="_blank" rel="noopener noreferrer nofollow">https://edi.noiselab.casper.aero/page/3</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: yourscottisharchives.com  
-   Link: <a href="https://yourscottisharchives.com/police-list-of-police-forces-in-scotland" target="_blank" rel="noopener noreferrer nofollow">https://yourscottisharchives.com/police-list-of-police-forces-in-scotland</a>  
+   Link:<a href="https://yourscottisharchives.com/police-list-of-police-forces-in-scotland" target="_blank" rel="noopener noreferrer nofollow">https://yourscottisharchives.com/police-list-of-police-forces-in-scotland</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scottishairspacemodernisation.co.uk  
-   Link: <a href="https://scottishairspacemodernisation.co.uk/events/" target="_blank" rel="noopener noreferrer nofollow">https://scottishairspacemodernisation.co.uk/events/</a>  
+   Link:<a href="https://scottishairspacemodernisation.co.uk/events/" target="_blank" rel="noopener noreferrer nofollow">https://scottishairspacemodernisation.co.uk/events/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/midlothian.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/midlothian.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/usfeatures/areas/midlothian.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/usfeatures/areas/midlothian.html</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: edinburghairport.com  
-   Link: <a href="https://www.edinburghairport.com/prepare/airport-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghairport.com/prepare/airport-maps</a>  
+   Link:<a href="https://www.edinburghairport.com/prepare/airport-maps" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghairport.com/prepare/airport-maps</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/</a>  
+   Link:<a href="https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edinburgh/comments/1oiz6qu/edinburgh_airport_flight_path_maps_has_anyone/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/edi" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/edi</a>  
+   Link:<a href="https://www.flightradar24.com/data/airports/edi" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/edi</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: corporate.edinburghairport.com  
-   Link: <a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
+   Link:<a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: airportwatch.org.uk  
-   Link: <a href="https://www.airportwatch.org.uk/2015/06/edinburgh-airports-new-tutur-flight-path-trial-started-25th-june-maybe-for-6-months/" target="_blank" rel="noopener noreferrer nofollow">https://www.airportwatch.org.uk/2015/06/edinburgh-airports-new-tutur-flight-path-trial-started-25th-june-maybe-for-6-months/</a>  
+   Link:<a href="https://www.airportwatch.org.uk/2015/06/edinburgh-airports-new-tutur-flight-path-trial-started-25th-june-maybe-for-6-months/" target="_blank" rel="noopener noreferrer nofollow">https://www.airportwatch.org.uk/2015/06/edinburgh-airports-new-tutur-flight-path-trial-started-25th-june-maybe-for-6-months/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/BonessNatters/posts/2212072209301214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BonessNatters/posts/2212072209301214/</a>  
+   Link:<a href="https://www.facebook.com/groups/BonessNatters/posts/2212072209301214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BonessNatters/posts/2212072209301214/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1amid21/i_saw_a_triangle_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1amid21/i_saw_a_triangle_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1amid21/i_saw_a_triangle_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1amid21/i_saw_a_triangle_ufo/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: edinburghairport.com  
-   Link: <a href="https://www.edinburghairport.com/flights/live-flight-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghairport.com/flights/live-flight-departures</a>  
+   Link:<a href="https://www.edinburghairport.com/flights/live-flight-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.edinburghairport.com/flights/live-flight-departures</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MidlothianCouncil/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MidlothianCouncil/</a>  
+   Link:<a href="https://www.facebook.com/MidlothianCouncil/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MidlothianCouncil/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: acog.aero  
-   Link: <a href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow">https://www.acog.aero/airspace-masterplan/who-is-involved/stma/</a>  
+   Link:<a href="https://www.acog.aero/airspace-masterplan/who-is-involved/stma/" target="_blank" rel="noopener noreferrer nofollow">https://www.acog.aero/airspace-masterplan/who-is-involved/stma/</a>  

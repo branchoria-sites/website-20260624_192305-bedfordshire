@@ -248,7 +248,7 @@ image: /assets/images/Clackmannanshire_a9d2bc_alva_orange_light_631bd3-overview-
 
 ## Introduction
 
-The Alva orange light sighting is the clearest recent UFO report publicly tied to [Clackmannanshire]({{ 'clackmannanshire/' | relative_url }}), but it is also a good example of why a visible report is not the same thing as strong evidence. The account describes a large orange ball of light seen over Alva shortly before Christmas 2024, moving slowly from north to south, making no sound, showing no normal red and green aircraft position lights, and vanishing after one or two minutes. It was later filed with the Mutual UFO Network, or MUFON, and picked up by local press coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The Alva orange light sighting is the clearest recent UFO report publicly tied to [Clackmannanshire]({{ 'clackmannanshire/' | relative_url }}), but it is also a good example of why a visible report is not the same thing as strong evidence. The account describes a large orange ball of light seen over Alva shortly before Christmas 2024, moving slowly from north to south, making no sound, showing no normal red and green aircraft position lights, and vanishing after one or two minutes. It was later filed with the Mutual UFO Network, or MUFON, and picked up by local press coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Clackmannanshire_a9d2bc_alva_orange_light_631bd3-overview.webp" | relative_url }}" alt="Overview image for Alva Light" loading="eager" decoding="sync" fetchpriority="high">
@@ -256,13 +256,13 @@ The case matters because it gives Clackmannanshire a definite modern sighting to
 
 ## What the witness reported
 
-The reported sighting took place shortly before 11.30 pm on Sunday 22 December 2024 over Alva, a Hillfoots town at the foot of the Ochil Hills in Clackmannanshire. Alva’s geography matters because a witness in the town may be looking across a visually complicated landscape: the steep Ochil scarp to the north, the lower carse and settlements to the south, and traffic, buildings, distant aircraft and local lights all within a relatively compressed field of view. Clackmannanshire Council describes Alva Glen as lying above the village at the foot of the Ochil Hills, while Wikishire places Alva among the Hillfoots settlements immediately south of the hills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/visiting/alvaglen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-snippet">Open source on clacks.gov.uk.</span></span></span>
+The reported sighting took place shortly before 11.30 pm on Sunday 22 December 2024 over Alva, a Hillfoots town at the foot of the Ochil Hills in Clackmannanshire. Alva’s geography matters because a witness in the town may be looking across a visually complicated landscape: the steep Ochil scarp to the north, the lower carse and settlements to the south, and traffic, buildings, distant aircraft and local lights all within a relatively compressed field of view. Clackmannanshire Council describes Alva Glen as lying above the village at the foot of the Ochil Hills, while Wikishire places Alva among the Hillfoots settlements immediately south of the hills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clacks.gov.uk/visiting/alvaglen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clacks.gov.uk">[Clacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clacks.gov.uk</span><span class="citation-popover-snippet">Open source on clacks.gov.uk.</span></span></span>
 
-The published account says the witness saw a “huge bright object” that moved slowly from north to south. The object was described in the MUFON report as an orange, regular ball, with no sound and no position lights like those seen on a normal aircraft. The witness estimated it at perhaps 200 to 300 feet above ground level, visible for a minute or two at 11.23 pm, before it “disappeared in a second”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The published account says the witness saw a “huge bright object” that moved slowly from north to south. The object was described in the MUFON report as an orange, regular ball, with no sound and no position lights like those seen on a normal aircraft. The witness estimated it at perhaps 200 to 300 feet above ground level, visible for a minute or two at 11.23 pm, before it “disappeared in a second”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 Those details make the report interesting, but not unusually strong. A single orange light moving across the night sky is one of the most common kinds of UFO report because it offers very few fixed reference points. Without a clear known distance, a light that seems low and close can instead be higher and farther away; without a clear size reference, a small nearby object can look large, and a distant aircraft light can seem stationary or slow. The witness’s estimate of 200 to 300 feet is therefore part of the testimony, not a measured altitude.
 
-The timing also shapes how the report should be read. The sighting was said to have happened on 22 December and to have been reported to MUFON two days later, on Christmas Eve. A two-day delay is not suspicious in itself, but it weakens the chance of reconstructing the event from time-sensitive evidence such as local weather observations, exact sightlines, aircraft tracks, drone activity, nearby celebrations, or other witnesses who might have remembered the same moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The timing also shapes how the report should be read. The sighting was said to have happened on 22 December and to have been reported to MUFON two days later, on Christmas Eve. A two-day delay is not suspicious in itself, but it weakens the chance of reconstructing the event from time-sensitive evidence such as local weather observations, exact sightlines, aircraft tracks, drone activity, nearby celebrations, or other witnesses who might have remembered the same moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/Clackmannanshire_a9d2bc_alva_orange_light_631bd3-Illustration-1-dark.svg" | relative_url }}" alt="Alva Light illustration 1" data-theme-src-dark="{{ "/assets/images/Clackmannanshire_a9d2bc_alva_orange_light_631bd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clackmannanshire_a9d2bc_alva_orange_light_631bd3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -270,15 +270,15 @@ The timing also shapes how the report should be read. The sighting was said to h
 
 Alva’s sighting became prominent not because it is a deeply documented investigation, but because it was specific, recent and local. Clackmannanshire does not have a famous, heavily archived UFO incident comparable to some better-known British cases. The Alva report therefore stands out as a clear modern example within the county: named place, date, time, colour, motion, estimated height and a public database trail.
 
-It also appeared in a region where UFO stories already circulate easily. The same local coverage that mentioned Alva placed it near the wider Forth Valley UFO scene, especially Bonnybridge, which has long been marketed and reported as part of the so-called “Falkirk Triangle”. The article noted claims of hundreds of sightings around Bonnybridge and discussed the release of a book by Ron Halliday and [Malcolm Robinson]({{ 'robinson/' | relative_url }}) on that neighbouring UFO tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+It also appeared in a region where UFO stories already circulate easily. The same local coverage that mentioned Alva placed it near the wider Forth Valley UFO scene, especially Bonnybridge, which has long been marketed and reported as part of the so-called “Falkirk Triangle”. The article noted claims of hundreds of sightings around Bonnybridge and discussed the release of a book by Ron Halliday and [Malcolm Robinson]({{ 'robinson/' | relative_url }}) on that neighbouring UFO tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 That regional context is useful, but it can also distort the case. Alva is in Clackmannanshire, while Bonnybridge is in the Falkirk area. A reader looking at Clackmannanshire’s UFO history should not simply import the larger Bonnybridge legend and treat it as evidence for Alva. The better approach is narrower: the Alva report shows how a single ambiguous light sighting in Clackmannanshire can gain attention because it sits next to a well-known Scottish UFO storytelling zone.
 
-There is also a historic-county wrinkle. Wikishire describes Alva as “a small town in a detached part of Stirlingshire locally situate in Clackmannanshire”, while modern public usage and the press report place the sighting in Alva, Clackmannanshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Alva" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> For this page, the practical UFO-history frame is the Clackmannanshire one, because the sighting was reported and understood publicly as an Alva, Clackmannanshire event.
+There is also a historic-county wrinkle. Wikishire describes Alva as “a small town in a detached part of Stirlingshire locally situate in Clackmannanshire”, while modern public usage and the press report place the sighting in Alva, Clackmannanshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Alva" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span> For this page, the practical UFO-history frame is the Clackmannanshire one, because the sighting was reported and understood publicly as an Alva, Clackmannanshire event.
 
 ## What evidence is missing
 
-The biggest evidential limit is simple: the public has the witness description, but not the object. The Daily Record report says the witness’s son took a photograph, but the camera was on a one-second exposure and the image did not show the ball itself, only a direction of movement. No photo was published with the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
+The biggest evidential limit is simple: the public has the witness description, but not the object. The Daily Record report says the witness’s son took a photograph, but the camera was on a one-second exposure and the image did not show the ball itself, only a direction of movement. No photo was published with the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailyrecord.co.uk">[Daily Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailyrecord.co.uk</span><span class="citation-popover-snippet">Open source on dailyrecord.co.uk.</span></span></span>
 
 That matters because short-exposure and long-exposure night images can be misleading in opposite ways. A very short exposure may miss a faint or moving light; a longer exposure may turn a point of light into a streak. In this case, the published account does not give the image, the original file, metadata, camera model, lens direction, exposure settings beyond the one-second note, or a fixed horizon reference. Without those, the claimed photograph cannot independently confirm the sighting.
 
@@ -301,13 +301,13 @@ This does not mean the witness invented the event. It means the event cannot be 
 
 ## Why MUFON helps, and why it does not settle the case
 
-MUFON gives the sighting a public route into UFO reporting culture. Its website presents tools such as “Last 20 Reports” for real-time sighting tracking and describes its Case Management System as a database of sighting reports, narratives and media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> That makes MUFON useful as a pointer: it helps establish that a witness report was submitted and that the Alva sighting was not merely a vague social-media rumour.
+MUFON gives the sighting a public route into UFO reporting culture. Its website presents tools such as “Last 20 Reports” for real-time sighting tracking and describes its Case Management System as a database of sighting reports, narratives and media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> That makes MUFON useful as a pointer: it helps establish that a witness report was submitted and that the Alva sighting was not merely a vague social-media rumour.
 
-But a MUFON entry is not the same as a verified finding. MUFON is a civilian UFO organisation, not a UK public authority, air-accident body or defence agency. Its own reporting pages warn submitters about the handling of attachments and personal information, and its database access terms refer to witness narratives, photos, videos and documents as submitted material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> In other words, a database entry begins the evidential process; it does not complete it.
+But a MUFON entry is not the same as a verified finding. MUFON is a civilian UFO organisation, not a UK public authority, air-accident body or defence agency. Its own reporting pages warn submitters about the handling of attachments and personal information, and its database access terms refer to witness narratives, photos, videos and documents as submitted material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> In other words, a database entry begins the evidential process; it does not complete it.
 
 The Alva case illustrates this distinction well. The most important claims in the public account still come from the witness narrative: colour, shape, motion, silence, estimated height and disappearance. None of those claims is independently measured in the published material. The report may be honest and still be mistaken about altitude, size, distance or cause.
 
-There is also a UK institutional point. Since 1 December 2009, the Ministry of Defence has no longer recorded or investigated public UFO sighting reports; the 2009 MoD report itself carries a note that reports beyond that date were no longer recorded or investigated by the department. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives says the MoD kept UFO records from the 1960s and now holds many of them, but that most describe shapes, lights and flashes, many of which can often be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+There is also a UK institutional point. Since 1 December 2009, the Ministry of Defence has no longer recorded or investigated public UFO sighting reports; the 2009 MoD report itself carries a note that reports beyond that date were no longer recorded or investigated by the department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The National Archives says the MoD kept UFO records from the 1960s and now holds many of them, but that most describe shapes, lights and flashes, many of which can often be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
 For a 2024 civilian sighting in Alva, that means there is unlikely to be a modern MoD case file waiting to validate or dismiss it. The evidential burden falls instead on witness statements, media reporting, local corroboration, aviation checks and any original imagery.
 
@@ -317,9 +317,9 @@ For a 2024 civilian sighting in Alva, that means there is unlikely to be a moder
 
 The published description does not allow a firm identification. However, several ordinary possibilities remain plausible because they fit at least part of the account: an orange light, silent or apparently silent movement, brief duration, lack of obvious aircraft lights, and disappearance.
 
-**A drone remains possible, but not proven.** The reported estimate of 200 to 300 feet falls within the altitude range where drones can legally operate, though the estimate itself is not measured. UK Civil Aviation Authority guidance says drones and model aircraft must not be flown above 120 metres, or 400 feet, and that night flying in the Open Category requires a green flashing light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> A compliant night drone should therefore show a green flashing light, not just a steady orange ball. Even so, a drone with decorative lighting, a light seen from an angle, or a non-compliant flight could still be misread from the ground. The absence of sound would not rule out a drone, especially if it was some distance away or masked by wind, traffic or buildings.
+**A drone remains possible, but not proven.** The reported estimate of 200 to 300 feet falls within the altitude range where drones can legally operate, though the estimate itself is not measured. UK Civil Aviation Authority guidance says drones and model aircraft must not be flown above 120 metres, or 400 feet, and that night flying in the Open Category requires a green flashing light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> A compliant night drone should therefore show a green flashing light, not just a steady orange ball. Even so, a drone with decorative lighting, a light seen from an angle, or a non-compliant flight could still be misread from the ground. The absence of sound would not rule out a drone, especially if it was some distance away or masked by wind, traffic or buildings.
 
-**A sky lantern is also plausible, especially because of the colour.** Sky lanterns are often reported as orange or flame-like lights drifting silently. Fire services and safety bodies treat them as fire hazards, and the National Fire Chiefs Council has advised against their use because they can start fires, injure livestock and pollute the environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCNFCC warns of sky lantern event fire risk</span><span class="citation-popover-snippet">NFCCNFCC warns of sky lantern event fire risk</span></span></span> An industry code of practice for sky lanterns even warns that red or orange lanterns may be mistaken for distress flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightskylanterns.co.uk">[Night Sky Lanterns®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightskylanterns.co.uk</span><span class="citation-popover-title">Night Sky Lanterns®Industry Code of Practice</span><span class="citation-popover-snippet">Night Sky Lanterns®Industry Code of Practice</span></span></span> The Alva report’s slow movement, orange colour and silence fit this possibility, though the claim that the light disappeared in a second would need explanation, such as the flame going out, the lantern moving behind obstruction, or the witness losing sight of it.
+**A sky lantern is also plausible, especially because of the colour.** Sky lanterns are often reported as orange or flame-like lights drifting silently. Fire services and safety bodies treat them as fire hazards, and the National Fire Chiefs Council has advised against their use because they can start fires, injure livestock and pollute the environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfcc.org.uk">[NFCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfcc.org.uk</span><span class="citation-popover-title">NFCCNFCC warns of sky lantern event fire risk</span><span class="citation-popover-snippet">NFCCNFCC warns of sky lantern event fire risk</span></span></span> An industry code of practice for sky lanterns even warns that red or orange lanterns may be mistaken for distress flares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightskylanterns.co.uk">[Night Sky Lanterns®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightskylanterns.co.uk</span><span class="citation-popover-title">Night Sky Lanterns®Industry Code of Practice</span><span class="citation-popover-snippet">Night Sky Lanterns®Industry Code of Practice</span></span></span> The Alva report’s slow movement, orange colour and silence fit this possibility, though the claim that the light disappeared in a second would need explanation, such as the flame going out, the lantern moving behind obstruction, or the witness losing sight of it.
 
 **An aircraft cannot be excluded from the public details alone.** The witness specifically noted the lack of red and green position lights, which argues against an obvious nearby aircraft. But aircraft lights can look strange when seen head-on, through haze, near terrain, or during a turn. A landing light or bright forward-facing light may dominate the view, while navigation lights are not obvious to a ground observer. Without a precise sightline and flight-track check, aircraft remains a possibility rather than a conclusion.
 
@@ -332,7 +332,7 @@ The published description does not allow a firm identification. However, several
 
 ## Why orange lights are a recurring UFO problem
 
-The Alva description is not unusual in the history of British UFO reporting. The MoD’s 2009 public UFO report includes repeated accounts of orange balls, orange lights, orange glows and silent orange objects. Examples include “a bright oval orange” in Middlesex, a “dullish orange light low in the sky” in Newcastle-under-Lyme, a “large orange ball of flame” in Fife, and several reports of orange lights moving silently or in formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Alva description is not unusual in the history of British UFO reporting. The MoD’s 2009 public UFO report includes repeated accounts of orange balls, orange lights, orange glows and silent orange objects. Examples include “a bright oval orange” in Middlesex, a “dullish orange light low in the sky” in Newcastle-under-Lyme, a “large orange ball of flame” in Fife, and several reports of orange lights moving silently or in formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That pattern does not debunk Alva by itself. It does show that orange night lights form a broad category of reports where many different causes can look similar from the ground. Lanterns, aircraft, drones, flares, fireworks, meteors, distant lights and optical effects can all produce brief, bright, ambiguous observations. The simpler the sighting description, the more those possibilities overlap.
 
@@ -362,194 +362,194 @@ That distinction is important for a small county. Clackmannanshire can easily be
 For readers, the useful conclusion is not “nothing happened” and not “a UFO visited Alva”. Something was reportedly seen; what it was remains unidentified in the everyday sense. But an unidentified light is not automatically an extraordinary craft. Until stronger evidence appears, the Alva orange light is best filed as a weakly evidenced, unresolved night-sky sighting: a notable Clackmannanshire report, a useful case study in evidence limits, and a reminder that the most honest UFO history often begins with what cannot yet be proved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Alva Orange Light a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Alva Orange Light a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to evaluating a single unexplained light report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evaluating a single unexplained light report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for comparing reported aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for comparing reported aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand ordinary night-sky objects and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand ordinary night-sky objects and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Relevant to witness interpretation and limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to witness interpretation and limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="alva-light-was-the-alva-orange-light-a-ufo-clackmannanshire-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,237 +755,237 @@ For readers, the useful conclusion is not “nothing happened” and not “a UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: clacks.gov.uk  
-   Link: <a href="https://www.clacks.gov.uk/visiting/alvaglen/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/visiting/alvaglen/</a>  
+   Link:<a href="https://www.clacks.gov.uk/visiting/alvaglen/" target="_blank" rel="noopener noreferrer nofollow">https://www.clacks.gov.uk/visiting/alvaglen/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
+   Link:<a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merseyfire.gov.uk  
-   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
+   Link:<a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: clackmannanshire.scot  
-   Link: <a href="https://clackmannanshire.scot/index.php/locations/alva" target="_blank" rel="noopener noreferrer nofollow">https://clackmannanshire.scot/index.php/locations/alva</a>  
+   Link:<a href="https://clackmannanshire.scot/index.php/locations/alva" target="_blank" rel="noopener noreferrer nofollow">https://clackmannanshire.scot/index.php/locations/alva</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: surreycc.gov.uk  
-   Link: <a href="https://www.surreycc.gov.uk/community/fire-and-rescue/community-safety/seasonal-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.surreycc.gov.uk/community/fire-and-rescue/community-safety/seasonal-advice</a>  
+   Link:<a href="https://www.surreycc.gov.uk/community/fire-and-rescue/community-safety/seasonal-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.surreycc.gov.uk/community/fire-and-rescue/community-safety/seasonal-advice</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/scots-paranormal-experts-join-forces-34884324</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Alva" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Alva</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Alva" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Alva</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nfcc.org.uk  
    Title: NFCCNFCC warns of sky lantern event fire risk  
-   Link: <a href="https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/</a>  
+   Link:<a href="https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/nfcc-warns-of-sky-lantern-event-fire-risk/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nightskylanterns.co.uk  
    Title: Night Sky Lanterns®Industry Code of Practice  
-   Link: <a href="https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf</a>  
+   Link:<a href="https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nightskylanterns.co.uk/files/Sky_lanterns_Industry_Code_of_practice_final_v1_20140108.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/ufo-looked-like-orange-ball-34394048</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dailyrecord.co.uk  
    Title: freaky ufo sightings shared scots 34459370  
-   Link: <a href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/local-news/freaky-ufo-sightings-shared-scots-34459370</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/all-about/alva" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/alva</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/all-about/alva" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/alva</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dailyrecord.co.uk  
    Title: UF Os and aliens  
-   Link: <a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=2" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=2</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=2" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/ufos-and-aliens?pageNumber=2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dailyrecord.co.uk  
-   Link: <a href="https://www.dailyrecord.co.uk/all-about/dunblane?pageNumber=9" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/dunblane?pageNumber=9</a>  
+   Link:<a href="https://www.dailyrecord.co.uk/all-about/dunblane?pageNumber=9" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/all-about/dunblane?pageNumber=9</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/drone-code/where-you-can-fly-points-3-to-9/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/24624123967269812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/24624123967269812/</a>  
+   Link:<a href="https://www.facebook.com/groups/903879063054302/posts/24624123967269812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/24624123967269812/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: Alva, Clackmannanshire  
-   Link: <a href="https://www.facebook.com/Alva-Clackmannanshire-111620358854695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Alva-Clackmannanshire-111620358854695/</a>  
+   Link:<a href="https://www.facebook.com/Alva-Clackmannanshire-111620358854695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Alva-Clackmannanshire-111620358854695/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Alva, Clackmannanshire  
-   Link: <a href="https://en.wikipedia.org/wiki/Alva%2C_Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alva%2C_Clackmannanshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alva%2C_Clackmannanshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alva%2C_Clackmannanshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: legistorm.com  
    Title: MUFO N  
-   Link: <a href="https://www.legistorm.com/organization/summary/180519/MUFON.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/organization/summary/180519/MUFON.html</a>  
+   Link:<a href="https://www.legistorm.com/organization/summary/180519/MUFON.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/organization/summary/180519/MUFON.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wikishire.co.uk  
    Title: Hillfoots Villages  
-   Link: <a href="https://wikishire.co.uk/wiki/Hillfoots_Villages" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hillfoots_Villages</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Hillfoots_Villages" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Hillfoots_Villages</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wikishire.co.uk  
    Title: Ochil Hills  
-   Link: <a href="https://wikishire.co.uk/wiki/Ochil_Hills" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ochil_Hills</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Ochil_Hills" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Ochil_Hills</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: corporate.edinburghairport.com  
-   Link: <a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
+   Link:<a href="https://corporate.edinburghairport.com/airspacechange/about" target="_blank" rel="noopener noreferrer nofollow">https://corporate.edinburghairport.com/airspacechange/about</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
    Title: mufon sighting report for december 2024 surprised  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hvst18/mufon_sighting_report_for_december_2024_surprised/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hvst18/mufon_sighting_report_for_december_2024_surprised/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1hvst18/mufon_sighting_report_for_december_2024_surprised/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hvst18/mufon_sighting_report_for_december_2024_surprised/</a>  
    Published: december 2024  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: mufongeorgia.org  
-   Link: <a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
+   Link:<a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pc0v6lLaFPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pc0v6lLaFPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photograph BBC News The story of the Calvine UFO photograph | In Case You Missed It BBC News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pc0v6lLaFPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pc0v6lLaFPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photograph BBC News The story of the Calvine UFO photograph | In Case You Missed It BBC News...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: The UFO Capital Of The World | The Falkirk Triangle | UFO Conspiracies  
-   Link: <a href="https://www.youtube.com/watch?v=9JXGZyL8fQ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9JXGZyL8fQ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scottish Village That Became UK&#x27;s Main UFO Hotspot | Paranormal Files | Absolute Documentaries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9JXGZyL8fQ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9JXGZyL8fQ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scottish Village That Became UK&#x27;s Main UFO Hotspot | Paranormal Files | Absolute Documentaries...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Scotland's Falkirk Triangle The Bonnybridge UFO Hotspot Explained  
-   Link: <a href="https://www.youtube.com/watch?v=OUXeWngdXmw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OUXeWngdXmw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Capital Of The World | The Falkirk Triangle | UFO Conspiracies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OUXeWngdXmw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OUXeWngdXmw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Capital Of The World | The Falkirk Triangle | UFO Conspiracies...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real Life UFO Sightings In Scotland | Our Life...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Real Life UFO Sightings In Scotland | Our Life  
-   Link: <a href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BncA7etPeY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Falkirk Triangle The Bonnybridge UFO Hotspot Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_BncA7etPeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BncA7etPeY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scotland&#x27;s Falkirk Triangle The Bonnybridge UFO Hotspot Explained...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRRf5nmjdoO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRRf5nmjdoO/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: visitscotland.com  
-   Link: <a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
+   Link:<a href="https://www.visitscotland.com/travel-planning/plane" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/travel-planning/plane</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: scotlandfarandnear.co.uk  
-   Link: <a href="https://scotlandfarandnear.co.uk/en/AlvaGlen" target="_blank" rel="noopener noreferrer nofollow">https://scotlandfarandnear.co.uk/en/AlvaGlen</a>  
+   Link:<a href="https://scotlandfarandnear.co.uk/en/AlvaGlen" target="_blank" rel="noopener noreferrer nofollow">https://scotlandfarandnear.co.uk/en/AlvaGlen</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instirling.com  
-   Link: <a href="https://www.instirling.com/walks/alvmap.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.instirling.com/walks/alvmap.htm</a>  
+   Link:<a href="https://www.instirling.com/walks/alvmap.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.instirling.com/walks/alvmap.htm</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Alva%2C_Clackmannanshire_802" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Alva%2C_Clackmannanshire_802</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Alva%2C_Clackmannanshire_802" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Alva%2C_Clackmannanshire_802</a>  

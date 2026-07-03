@@ -118,9 +118,9 @@ heading_title: What Did Cheshire Really See?
 page_heading_title: What Did Cheshire Really See?
 source_count: 113
 infographic_count: 3
-page_website_name: Cheshire UFOs
+page_website_name: Cheshire
 page_banner_line: Evidence-led Cheshire UFO history, from official logs to local misidentifications.
-site_website_name: Cheshire UFOs
+site_website_name: Cheshire
 site_banner_line: Evidence-led Cheshire UFO history, from official logs to local misidentifications.
 site_image_description: A night sky over rural Cheshire with a road sign, distant town lights, and several small orange lights above dark fields.
 output_language: English
@@ -689,25 +689,25 @@ image: /assets/images/Cheshire_f5f9e8-overview-social.jpg
 
 ## Introduction
 
-For this page, “Cheshire” is treated primarily as the historic county used by the project’s map index, while noting that modern policing, media and local-government [boundaries]({{ 'boundaries-8d9b19/' | relative_url }}) complicate the picture. Historic Cheshire includes places that modern readers may associate with Greater Manchester or Merseyside, while contemporary reports often use today’s administrative shorthand. The county therefore needs careful handling: a Runcorn, Chester, Knutsford, Macclesfield or Warrington report may sit naturally in Cheshire UFO history, but the source’s own geographic label still matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
+For this page, “Cheshire” is treated primarily as the historic county used by the project’s map index, while noting that modern policing, media and local-government [boundaries]({{ 'boundaries-8d9b19/' | relative_url }}) complicate the picture. Historic Cheshire includes places that modern readers may associate with Greater Manchester or Merseyside, while contemporary reports often use today’s administrative shorthand. The county therefore needs careful handling: a Runcorn, Chester, Knutsford, Macclesfield or Warrington report may sit naturally in Cheshire UFO history, but the source’s own geographic label still matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Open source on wikimedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Cheshire_f5f9e8-overview.webp" | relative_url }}" alt="Overview image for What Did Cheshire Really See?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as “Cheshire” in the UFO record?
 
-Cheshire is a historic county in north-west England, bounded in broad terms by the Dee and Mersey estuaries, Wales to the west, the Pennine edge to the east, and neighbouring counties including Lancashire, Derbyshire, Staffordshire and Shropshire. The project’s geographic reference point is the historic-county map tradition represented by the Wikimedia Commons/Wikishire SVG, which treats Cheshire as one of the historic counties of England rather than simply as a current council area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[Wikishire+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
+Cheshire is a historic county in north-west England, bounded in broad terms by the Dee and Mersey estuaries, Wales to the west, the Pennine edge to the east, and neighbouring counties including Lancashire, Derbyshire, Staffordshire and Shropshire. The project’s geographic reference point is the historic-county map tradition represented by the Wikimedia Commons/Wikishire SVG, which treats Cheshire as one of the historic counties of England rather than simply as a current council area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikishire.co.uk">[wikishire.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikishire.co.uk</span><span class="citation-popover-snippet">Open source on wikishire.co.uk.</span></span></span>
 
-This matters because UFO reports rarely respect administrative tidiness. The historic county includes areas such as the Wirral peninsula, while modern administrative Cheshire is split across Cheshire East, Cheshire West and Chester, Warrington and Halton, with other historically Cheshire places now commonly treated as part of Greater Manchester or Merseyside. Britannica, for example, describes Cheshire as both a geographic and historic county and notes its relationship to modern local-government geography; it also describes Wirral as a metropolitan borough in Merseyside but in the historic county of Cheshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Cheshire county England</span><span class="citation-popover-snippet">Cheshire county England</span></span></span>
+This matters because UFO reports rarely respect administrative tidiness. The historic county includes areas such as the Wirral peninsula, while modern administrative Cheshire is split across Cheshire East, Cheshire West and Chester, Warrington and Halton, with other historically Cheshire places now commonly treated as part of Greater Manchester or Merseyside. Britannica, for example, describes Cheshire as both a geographic and historic county and notes its relationship to modern local-government geography; it also describes Wirral as a metropolitan borough in Merseyside but in the historic county of Cheshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Cheshire county England</span><span class="citation-popover-snippet">Cheshire county England</span></span></span>
 
 For readers, the practical rule is simple: when discussing UFO history, Cheshire should be read as a sky-and-records area rather than a neat modern council box. Sightings around Chester, Crewe, Runcorn, Knutsford, Macclesfield, Northwich, Nantwich, Winsford, Warrington and the M56 corridor all belong to the county’s record, but comparisons with Greater Manchester, Merseyside, Derbyshire or Staffordshire can be relevant where flight paths, media markets or historic boundaries overlap.
 
 ## The official record is broad, not decisive
 
-The most useful starting point is the Ministry of Defence’s released UFO report lists. GOV.UK describes them as UFO reports in the UK from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. These are not case files proving that the objects were extraordinary; they are logs of what members of the public and other reporters said they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+The most useful starting point is the Ministry of Defence’s released UFO report lists. GOV.UK describes them as UFO reports in the UK from 1997 to 2009, giving dates, times, locations and brief sighting descriptions. These are not case files proving that the objects were extraordinary; they are logs of what members of the public and other reporters said they saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
-Cheshire Live’s 2020 review of those official listings counted 43 Cheshire reports across the 1997–2009 period. The descriptions range from striking to thin: a 50-metre dark round object near the A537/Chelford/Macclesfield in January 1997; an orange object over Chester in February 1997; orange “tail shaped” objects moving like a kite over Runcorn in May 1997; and a triangular object near Crewe in October 1997 that was first stationary and then moved away quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
+Cheshire Live’s 2020 review of those official listings counted 43 Cheshire reports across the 1997–2009 period. The descriptions range from striking to thin: a 50-metre dark round object near the A537/Chelford/Macclesfield in January 1997; an orange object over Chester in February 1997; orange “tail shaped” objects moving like a kite over Runcorn in May 1997; and a triangular object near Crewe in October 1997 that was first stationary and then moved away quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
 
-The pattern continues into later years. Reports include a bright red, leaf-shaped object over Knutsford in January 1998, an erratically moving colour-changing object over Malpas in March 1998, triangular objects in formation over Crewe in October 1998, and a large bright triangle over Warrington in December 1998. In 1999, the list includes a dark circular object with red and pulsating lights on the M56 towards Chester, and a beam of light over Woolston, Warrington. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
+The pattern continues into later years. Reports include a bright red, leaf-shaped object over Knutsford in January 1998, an erratically moving colour-changing object over Malpas in March 1998, triangular objects in formation over Crewe in October 1998, and a large bright triangle over Warrington in December 1998. In 1999, the list includes a dark circular object with red and pulsating lights on the M56 towards Chester, and a beam of light over Woolston, Warrington.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
 
 The important point is that most entries are brief. They usually lack photographs, radar confirmation, named witnesses, precise bearings, weather details or follow-up investigation notes. That does not mean witnesses were dishonest; it means the record is usually too thin to support a strong conclusion. A sighting can be honestly reported and still remain weak evidence.
 
@@ -717,17 +717,17 @@ The important point is that most entries are brief. They usually lack photograph
 
 The Cheshire entries fit a familiar UK pattern: lights are more common than close-up structured craft, and formations are often more memorable than single points. This is clearest in the 2008–09 period, when several Cheshire reports resemble the national surge in orange-light sightings.
 
-A good example is Waverton/Chester on 15 June 2008. The MoD list describes a formation of eighteen lights at 10.45 pm that looked like a “flock of helicopters” with lights on, gave off no sound, and produced only a slight rattle. Cheshire Live reproduced the same entry in its county list. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
+A good example is Waverton/Chester on 15 June 2008. The MoD list describes a formation of eighteen lights at 10.45 pm that looked like a “flock of helicopters” with lights on, gave off no sound, and produced only a slight rattle. Cheshire Live reproduced the same entry in its county list.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">ufo report 2008</span></span></span>
 
-In 2009, the Cheshire entries include Sandbach on 3–4 January, described only as “a UFO” and an orange/yellow light; Northwich on 9 May, where four big lights were reported in a line formation; Winsford on 23 May, where an orange light was followed by more orange lights on the same path; Chester on 6 August, where an orange orb faded into a black shadow; and Widnes on 10 October, where fourteen silent objects were reported one after another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+In 2009, the Cheshire entries include Sandbach on 3–4 January, described only as “a UFO” and an orange/yellow light; Northwich on 9 May, where four big lights were reported in a line formation; Winsford on 23 May, where an orange light was followed by more orange lights on the same path; Chester on 6 August, where an orange orb faded into a black shadow; and Widnes on 10 October, where fourteen silent objects were reported one after another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
-Those reports are interesting because they are clustered around the same language: orange lights, silent movement, repeated paths and formations. They are also exactly the kind of sightings that sceptical investigators often link to sky lanterns, balloons, fireworks, aircraft seen at unusual angles, or other low-information night-sky stimuli. The National Archives’ final UFO-file release noted that MoD sighting reports trebled in 2009 and that officials considered the craze for releasing Chinese lanterns at weddings and public holidays a likely contributor to the surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+Those reports are interesting because they are clustered around the same language: orange lights, silent movement, repeated paths and formations. They are also exactly the kind of sightings that sceptical investigators often link to sky lanterns, balloons, fireworks, aircraft seen at unusual angles, or other low-information night-sky stimuli. The National Archives’ final UFO-file release noted that MoD sighting reports trebled in 2009 and that officials considered the craze for releasing Chinese lanterns at weddings and public holidays a likely contributor to the surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 ## A Cheshire lesson in misidentification: the Dunham Massey balloons
 
-One of the clearest Cheshire-area examples of a “UFO” becoming identified came from Dunham Massey, near Altrincham. In 2009, Farmers Weekly reported that farmer Johnny Hewitt had released 400 helium-filled balloons containing LEDs above Red House Farm to guide guests to a party. The lights attracted attention, sparked local UFO talk, and were even reported on local radio and television before Hewitt realised his display was being interpreted as something mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwi.co.uk">[Farmers Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwi.co.uk</span><span class="citation-popover-title">Farmers Weekly Farmer sparks UFO frenzy</span><span class="citation-popover-snippet">Farmers Weekly Farmer sparks UFO frenzy</span></span></span>
+One of the clearest Cheshire-area examples of a “UFO” becoming identified came from Dunham Massey, near Altrincham. In 2009, Farmers Weekly reported that farmer Johnny Hewitt had released 400 helium-filled balloons containing LEDs above Red House Farm to guide guests to a party. The lights attracted attention, sparked local UFO talk, and were even reported on local radio and television before Hewitt realised his display was being interpreted as something mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwi.co.uk">[Farmers Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwi.co.uk</span><span class="citation-popover-title">Farmers Weekly Farmer sparks UFO frenzy</span><span class="citation-popover-snippet">Farmers Weekly Farmer sparks UFO frenzy</span></span></span>
 
-The case matters because it shows how a sighting can be genuinely surprising without being exotic. The object was elevated, luminous, unusual, temporary, and then suddenly removed. To a passer-by without the party context, that combination could easily look uncanny. Hewitt himself said people stopped, parked and took mobile-phone photos, and that taking the balloons down after guests arrived may have made the event seem even stranger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwi.co.uk">[Farmers Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwi.co.uk</span><span class="citation-popover-title">Farmers Weekly Farmer sparks UFO frenzy</span><span class="citation-popover-snippet">Farmers Weekly Farmer sparks UFO frenzy</span></span></span>
+The case matters because it shows how a sighting can be genuinely surprising without being exotic. The object was elevated, luminous, unusual, temporary, and then suddenly removed. To a passer-by without the party context, that combination could easily look uncanny. Hewitt himself said people stopped, parked and took mobile-phone photos, and that taking the balloons down after guests arrived may have made the event seem even stranger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwi.co.uk">[Farmers Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwi.co.uk</span><span class="citation-popover-title">Farmers Weekly Farmer sparks UFO frenzy</span><span class="citation-popover-snippet">Farmers Weekly Farmer sparks UFO frenzy</span></span></span>
 
 For Cheshire UFO history, Dunham Massey is more valuable as a cautionary case than as a mystery. It gives a concrete local example of how social setting, lighting, expectation and incomplete information can transform a party marker into a UFO alert. It also helps explain why orange or glowing formations in the 2008–09 records should be treated carefully, especially where no independent tracking data or close-range evidence survives.
 
@@ -738,9 +738,9 @@ For Cheshire UFO history, Dunham Massey is more valuable as a cautionary case th
 
 The Ministry of Defence’s involvement is often misunderstood. The existence of an MoD report does not mean the MoD endorsed the sighting as extraordinary. It means the report was received, logged or handled within a defence bureaucracy that was mainly concerned with whether there was evidence of a threat to UK airspace.
 
-The National Archives explains that surviving UFO records consist mainly of official policy papers, Parliamentary business, correspondence from the public and sighting reports. Its UFO reports page also notes that many records describe shapes, lights and flashes that can often be explained, while some are more unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
+The National Archives explains that surviving UFO records consist mainly of official policy papers, Parliamentary business, correspondence from the public and sighting reports. Its UFO reports page also notes that many records describe shapes, lights and flashes that can often be explained, while some are more unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span>
 
-The MoD closed its UFO desk and hotline in November 2009. The National Archives’ release on the final tranche of files says the last 25 files covered the desk’s final two years, including government policy, official correspondence and a surge in reports. The release states that the desk received more than 600 sightings and reports in 2009, treble the previous year, and that officials concluded the work served no defence purpose and encouraged correspondence. It also says Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report had revealed anything suggesting an extra-terrestrial presence or a military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The MoD closed its UFO desk and hotline in November 2009. The National Archives’ release on the final tranche of files says the last 25 files covered the desk’s final two years, including government policy, official correspondence and a surge in reports. The release states that the desk received more than 600 sightings and reports in 2009, treble the previous year, and that officials concluded the work served no defence purpose and encouraged correspondence. It also says Defence Minister Bob Ainsworth was told that in more than 50 years no UFO report had revealed anything suggesting an extra-terrestrial presence or a military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 This national policy context changes how Cheshire’s cases should be read. A Cheshire entry in an MoD list is evidence of a reported observation, not evidence of a hidden official finding. The question is not “did the government confirm this?” but “what exactly was reported, what independent evidence exists, and what ordinary explanations remain available?”
 
@@ -748,9 +748,9 @@ This national policy context changes how Cheshire’s cases should be read. A Ch
 
 After the MoD desk closed, UFO reporting did not stop, but the record became less centralised. Police forces may receive odd calls, but they are not UFO investigation agencies. Recent Freedom of Information requests to Cheshire Constabulary show the limits of using police data as a modern UFO archive.
 
-For 2023, a WhatDoTheyKnow request asked Cheshire Constabulary for information on reports mentioning UFOs, UAPs, lights in the sky, aliens or extra-terrestrial beings. The response listed three incidents: a January report summarised as a female reporting an alien invasion, an April report involving comments about alien staff in a hospital context, and an October report in which a person said aliens had landed and were communicating through television. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
+For 2023, a WhatDoTheyKnow request asked Cheshire Constabulary for information on reports mentioning UFOs, UAPs, lights in the sky, aliens or extra-terrestrial beings. The response listed three incidents: a January report summarised as a female reporting an alien invasion, an April report involving comments about alien staff in a hospital context, and an October report in which a person said aliens had landed and were communicating through television.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
 
-For 2024, a similar request asked for reports including keywords such as UFO, UAP, UAV, lights in the sky, aliens, extra-terrestrial beings, drones and orbs. Cheshire Constabulary responded “No Information Held.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
+For 2024, a similar request asked for reports including keywords such as UFO, UAP, UAV, lights in the sky, aliens, extra-terrestrial beings, drones and orbs. Cheshire Constabulary responded “No Information Held.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</span></span></span>
 
 Those responses should not be overread. They do not prove that nobody in Cheshire saw anything unusual in the sky during 2024, and the 2023 entries do not provide strong UFO evidence. They show instead that police-held material may capture welfare, public-order or unusual-contact incidents rather than classic sky observations. For modern Cheshire research, local media, aviation data, astronomy checks and witness material may be more useful than police logs alone.
 
@@ -760,7 +760,7 @@ Those responses should not be overread. They do not prove that nobody in Cheshir
 
 On the available public record, Cheshire does not currently have a county-defining UFO case comparable with Rendlesham Forest in Suffolk or Calvine in Scotland. Its strongest entries are “interesting but under-evidenced” rather than robustly unexplained.
 
-The stronger Cheshire candidates are those with a structured-object description, a clear location and time, and a report that is not merely “a light”. Examples include the A537/Chelford/Macclesfield object in January 1997, described as round, dark and about 50 metres across with white and red lights; the Madley near Crewe triangle in October 1997; the Warrington bright triangle in December 1998; the M56 towards Chester dark circular object in February 1999; and the Knutsford triangular aircraft in October 2000. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk+2cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
+The stronger Cheshire candidates are those with a structured-object description, a clear location and time, and a report that is not merely “a light”. Examples include the A537/Chelford/Macclesfield object in January 1997, described as round, dark and about 50 metres across with white and red lights; the Madley near Crewe triangle in October 1997; the Warrington bright triangle in December 1998; the M56 towards Chester dark circular object in February 1999; and the Knutsford triangular aircraft in October 2000.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheshire-live.co.uk">[cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheshire-live.co.uk</span><span class="citation-popover-title">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span><span class="citation-popover-snippet">The 43 mysterious &#x27;UFO&#x27; sightings recorded in Cheshire over 13 years</span></span></span>
 
 Even these entries have major weaknesses. The public summaries do not provide enough information to test distance, size, speed, aircraft identity, weather, astronomical background or witness reliability. A reported 50-metre object may have been much smaller and closer, or much larger and farther away, because night-time distance estimation is notoriously difficult without reference points. A triangle with lights can be a structured craft, a formation of lights, an aircraft seen from an unusual angle, or a misperception created by three unrelated lights being mentally joined into one object.
 
@@ -775,7 +775,7 @@ Cheshire has several features that make UFO reporting unsurprising. It sits betw
 
 The MoD-era reports show that Cheshire’s sightings are not concentrated in a single lonely “hotspot”. They appear across Chester, Crewe, Runcorn, Knutsford, Macclesfield, Nantwich, Northwich, Wilmslow, Winsford, Warrington and motorway corridors. That spread suggests ordinary population and observation patterns may matter as much as geography: places with more people outside, more roads, more flight paths and more local media attention produce more reports.
 
-The 2008–09 orange-light pattern also shows how culture shapes reporting. When lanterns, UFO file releases and tabloid interest all rose together, more people had both the stimulus and the language for reporting strange lights. Dr David Clarke, who worked extensively on the National Archives UFO files, argued that the 2008–09 surge showed UFOs as a social phenomenon as well as a skywatching phenomenon: people reported real observations, but what they noticed and how they interpreted it were shaped by public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">the end of the ufo files</span></span></span>
+The 2008–09 orange-light pattern also shows how culture shapes reporting. When lanterns, UFO file releases and tabloid interest all rose together, more people had both the stimulus and the language for reporting strange lights. Dr David Clarke, who worked extensively on the National Archives UFO files, argued that the 2008–09 surge showed UFOs as a social phenomenon as well as a skywatching phenomenon: people reported real observations, but what they noticed and how they interpreted it were shaped by public attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">the end of the ufo files</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
@@ -804,199 +804,199 @@ These tests do not dismiss witnesses. They protect the useful core of the story 
 <img src="{{ "/assets/images/Cheshire_f5f9e8-Illustration-3-dark.svg" | relative_url }}" alt="What Did Cheshire Really See? illustration 3" data-theme-src-dark="{{ "/assets/images/Cheshire_f5f9e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cheshire_f5f9e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for Cheshire
 
-Cheshire’s UFO history is real in the archival sense: people repeatedly reported unusual things in the county’s skies, and some of those reports entered official MoD lists, local journalism and police disclosure records. The county’s best-documented public pattern is not close encounters with confirmed craft, but night-sky reports of lights, triangles and formations, especially in the late 1990s and during the wider 2008–09 national surge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2cheshire-live.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
+Cheshire’s UFO history is real in the archival sense: people repeatedly reported unusual things in the county’s skies, and some of those reports entered official MoD lists, local journalism and police disclosure records. The county’s best-documented public pattern is not close encounters with confirmed craft, but night-sky reports of lights, triangles and formations, especially in the late 1990s and during the wider 2008–09 national surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UF O reports in the UK</span></span></span>
 
 The evidence does not support a confident extraordinary conclusion. It supports a more careful and more useful one: Cheshire has a varied UFO record with several intriguing unresolved summaries, a clear example of misidentification in the Dunham Massey balloon case, and a modern reporting trail that shows how official records can be both valuable and limited. The county’s UFO history is strongest when treated as local sky history: what people saw, how they described it, how institutions recorded it, and why the surviving evidence usually leaves more room for caution than certainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Cheshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Cheshire Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page’s focus on documented sightings, witness reports, government records, and careful assessment of unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page’s focus on documented sightings, witness reports, government records, and careful assessment of unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasises classification of sightings and the distinction between unexplained reports and ordinary misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises classification of sightings and the distinction between unexplained reports and ordinary misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores patterns across many reports, fitting a county-level history built from repeated sightings rather than a single event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores patterns across many reports, fitting a county-level history built from repeated sightings rather than a single event.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how governments recorded, assessed, and explained sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how governments recorded, assessed, and explained sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art"><img src="{{ '/assets/images/marketplace-covers/32c3306dfdb62ea85b9c.jpg' | relative_url }}" alt="Listing image for Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Alfred Buckham Edinburgh Castle Aerial Print Biplane Scotland Vintage Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/d17516fa652c6f7f0ae9.jpg' | relative_url }}" alt="Listing image for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New"><img src="{{ '/assets/images/marketplace-covers/d17516fa652c6f7f0ae9.jpg' | relative_url }}" alt="Listing image for American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">American Airlines Edinburgh Scotland 28&quot; x 22&quot; Travel Poster Wall Art Print New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/c508e797108ba28595be.jpg' | relative_url }}" alt="Listing image for VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">VINTAGE TRAVEL POSTERS - Classic Prints - A4 A3 A2 - Home Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print"><img src="{{ '/assets/images/marketplace-covers/a8c8d7123fc0c679918a.jpg' | relative_url }}" alt="Listing image for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print"><img src="{{ '/assets/images/marketplace-covers/a8c8d7123fc0c679918a.jpg' | relative_url }}" alt="Listing image for Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">Linlithgow Palace Photo Poster Alfred Buckham Vintage Aerial Scotland Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster Scotland">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster Scotland</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+Scotland&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-cheshire-really-see-cheshire-aviation-poster-scotland&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster Scotland" data-ebay-reference="what-did-cheshire-really-see-cheshire-aviation-poster-scotland" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1012,7 +1012,7 @@ The evidence does not support a confident extraordinary conclusion. It supports 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1032,7 +1032,7 @@ The evidence does not support a confident extraordinary conclusion. It supports 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1064,7 +1064,7 @@ The evidence does not support a confident extraordinary conclusion. It supports 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1116,7 +1116,7 @@ The evidence does not support a confident extraordinary conclusion. It supports 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1161,7 +1161,7 @@ The evidence does not support a confident extraordinary conclusion. It supports 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1202,298 +1202,298 @@ The evidence does not support a confident extraordinary conclusion. It supports 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cheshire-live.co.uk  
    Title: The 43 mysterious 'UFO' sightings recorded in Cheshire over 13 years  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/43-mysterious-ufo-sightings-recorded-19115994</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABritish_Isles_map_showing_UK%2C_Republic_of_Ireland%2C_and_historic_counties.svg</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: File:England Historic Counties Cheshire map.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Cheshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Cheshire_map.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Cheshire_map.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEngland_Historic_Counties_Cheshire_map.svg</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Cheshire county England  
-   Link: <a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
+   Link:<a href="https://www.britannica.com/place/Cheshire-county-England" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cheshire-county-England</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wirral</a>  
+   Link:<a href="https://www.britannica.com/place/Wirral" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wirral</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_10" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_17</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/uapufo_sightings_17" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/uapufo_sightings_17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO sightings - a Freedom of Information request to Cheshire Constabulary - WhatDoTheyKnow...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: drdavidclarke.co.uk  
    Title: the end of the ufo files  
-   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/29/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/29/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/page/2/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/find-a-website/atoz/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/12/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: Website search results: a year in archives UFO Files  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/46?_q=a+year+in+archives" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/46?_q=a+year+in+archives</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/46?_q=a+year+in+archives" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/46?_q=a+year+in+archives</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: cas 318549 h8g1b0  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/cas-318549-h8g1b0/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cheshire-live.co.uk  
    Title: astonishing delamere forest ufo report 27509072  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/astonishing-delamere-forest-ufo-report-27509072" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/astonishing-delamere-forest-ufo-report-27509072</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/astonishing-delamere-forest-ufo-report-27509072" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/astonishing-delamere-forest-ufo-report-27509072</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cheshire-live.co.uk  
    Title: cheshire ufo sighting mod 16996980  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-ufo-sighting-mod-16996980</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cheshire-live.co.uk  
    Title: revealed cheshire ufo sightings reported 11907488  
-   Link: <a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488</a>  
+   Link:<a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-live.co.uk/news/chester-cheshire-news/revealed-cheshire-ufo-sightings-reported-11907488</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: commons.wikimedia.org  
    Title: File:Northern England Historic counties.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANorthern_England-Historic_counties.svg</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: commons.wikimedia.org  
    Title: File:English counties 1851 (numbered).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglish_counties_1851_%28numbered%29.svg</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: commons.wikimedia.org  
    Title: File:England Cheshire.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AEnglandCheshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglandCheshire.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AEnglandCheshire.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AEnglandCheshire.svg</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: commons.wikimedia.org  
    Title: File:Cheshire UK district map 1974 2009 (blank).svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ACheshire_UK_district_map_1974-2009_%28blank%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACheshire_UK_district_map_1974-2009_%28blank%29.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ACheshire_UK_district_map_1974-2009_%28blank%29.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACheshire_UK_district_map_1974-2009_%28blank%29.svg</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: commons.wikimedia.org  
    Title: File:Cheshire UK locator map 2010.svg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ACheshire_UK_locator_map_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACheshire_UK_locator_map_2010.svg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ACheshire_UK_locator_map_2010.svg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ACheshire_UK_locator_map_2010.svg</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5c1b71ee40f0b60bb17f6ec6/12790.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c1b71ee40f0b60bb17f6ec6/12790.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5c1b71ee40f0b60bb17f6ec6/12790.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c1b71ee40f0b60bb17f6ec6/12790.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78d6aded915d0422065bd8/reqapr10.csv</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7905f440f0b679c0a07ec7/reqnov10.csv</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ef37ee5274a2e87db2ecb/ReqJul2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ef37ee5274a2e87db2ecb/ReqJul2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ef37ee5274a2e87db2ecb/ReqJul2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ef37ee5274a2e87db2ecb/ReqJul2012.csv</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e1f2ded915d74e33f031f/reqfeb2012.csv</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk The National Archives  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a803c9f40f0b62305b89fb7/6.657_TNA_RW_Annual_Report_2014-15_PRINT_-_RECEIVED_13_JULY_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a803c9f40f0b62305b89fb7/6.657_TNA_RW_Annual_Report_2014-15_PRINT_-_RECEIVED_13_JULY_2015.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a803c9f40f0b62305b89fb7/6.657_TNA_RW_Annual_Report_2014-15_PRINT_-_RECEIVED_13_JULY_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a803c9f40f0b62305b89fb7/6.657_TNA_RW_Annual_Report_2014-15_PRINT_-_RECEIVED_13_JULY_2015.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Annex A1 clean.xls  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7d782540f0b64fe6c23e72/AnnexA1_clean.xls</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c06c6ed915d41476224e3/0969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c06c6ed915d41476224e3/0969.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c06c6ed915d41476224e3/0969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c06c6ed915d41476224e3/0969.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: maps.cheshireeast.gov.uk  
-   Link: <a href="https://maps.cheshireeast.gov.uk/tithemaps/" target="_blank" rel="noopener noreferrer nofollow">https://maps.cheshireeast.gov.uk/tithemaps/</a>  
+   Link:<a href="https://maps.cheshireeast.gov.uk/tithemaps/" target="_blank" rel="noopener noreferrer nofollow">https://maps.cheshireeast.gov.uk/tithemaps/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cheshire</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: fwi.co.uk  
    Title: Farmers Weekly Farmer sparks UFO frenzy  
-   Link: <a href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow">https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy</a>  
+   Link:<a href="https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy" target="_blank" rel="noopener noreferrer nofollow">https://www.fwi.co.uk/farm-life/farmer-sparks-ufo-frenzy</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheshire</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cheshire</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: wikishire.co.uk  
    Title: Great Britain and Ireland  
-   Link: <a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
+   Link:<a href="https://wikishire.co.uk/map/" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/map/</a>  
 
 ### Additional References
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: New evidence reveals how aliens COULD be behind 'UK's Roswell'  
-   Link: <a href="https://www.youtube.com/watch?v=kuXYdqGH6Zk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kuXYdqGH6Zk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kuXYdqGH6Zk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kuXYdqGH6Zk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK UFO reports rise as &#x27;X Files&#x27; unit shuts...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: Top 30 Alien Close Encounters In Britain  
-   Link: <a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPJ1JDzkXWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPJ1JDzkXWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Declassified: RAF Manston Incident, Kent, England | Yesterday...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ChesterStandard/posts/a-new-report-from-a-ufo-sightings-database-has-revealed-incidents-in-the-chester/998702625590035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChesterStandard/posts/a-new-report-from-a-ufo-sightings-database-has-revealed-incidents-in-the-chester/998702625590035/</a>  
+   Link:<a href="https://www.facebook.com/ChesterStandard/posts/a-new-report-from-a-ufo-sightings-database-has-revealed-incidents-in-the-chester/998702625590035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChesterStandard/posts/a-new-report-from-a-ufo-sightings-database-has-revealed-incidents-in-the-chester/998702625590035/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: hnn.us  
-   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
+   Link:<a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: gbmaps.com  
-   Link: <a href="https://www.gbmaps.com/free-county-maps/Cheshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cheshire.php</a>  
+   Link:<a href="https://www.gbmaps.com/free-county-maps/Cheshire.php" target="_blank" rel="noopener noreferrer nofollow">https://www.gbmaps.com/free-county-maps/Cheshire.php</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: carlscam.com  
-   Link: <a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
+   Link:<a href="https://www.carlscam.com/boundary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.carlscam.com/boundary.htm</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cheshire" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cheshire</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/</a>  
+   Link:<a href="https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CheshireLive/videos/claims-of-ufo-sighting-over-chester-as-woman-videos-strange-lights/1067609390394866/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
+   Link:<a href="https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adafruitindustries/posts/declassified-drawings-from-the-british-governments-ufo-desk/10156001362427578/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: marplelocalhistorysociety.org.uk  
-   Link: <a href="https://www.marplelocalhistorysociety.org.uk/our-local-heritage/derbyshire-or-cheshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.marplelocalhistorysociety.org.uk/our-local-heritage/derbyshire-or-cheshire.html</a>  
+   Link:<a href="https://www.marplelocalhistorysociety.org.uk/our-local-heritage/derbyshire-or-cheshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.marplelocalhistorysociety.org.uk/our-local-heritage/derbyshire-or-cheshire.html</a>  

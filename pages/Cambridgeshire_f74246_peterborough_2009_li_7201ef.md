@@ -253,31 +253,31 @@ Peterborough’s 2009 orange-light reports matter because they show a local vers
 <img src="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-overview.webp" | relative_url }}" alt="Overview image for 2009 Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Peterborough belongs in this Cambridgeshire story
 
-Peterborough needs a short boundary note before the sightings themselves. In modern public and official usage it sits within Cambridgeshire, but historically the city and surrounding Soke of Peterborough were associated with Northamptonshire rather than old Cambridgeshire. The Cambridgeshire Lieutenancy explains that modern Cambridgeshire was formed in 1974 from Cambridgeshire and Isle of Ely together with Huntingdon and Peterborough, bringing in Huntingdonshire and the Soke of Peterborough, the latter historically part of Northamptonshire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span>
+Peterborough needs a short boundary note before the sightings themselves. In modern public and official usage it sits within Cambridgeshire, but historically the city and surrounding Soke of Peterborough were associated with Northamptonshire rather than old Cambridgeshire. The Cambridgeshire Lieutenancy explains that modern Cambridgeshire was formed in 1974 from Cambridgeshire and Isle of Ely together with Huntingdon and Peterborough, bringing in Huntingdonshire and the Soke of Peterborough, the latter historically part of Northamptonshire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeshirelieutenancy.org.uk">[cambridgeshirelieutenancy.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeshirelieutenancy.org.uk</span><span class="citation-popover-title">the county of cambridgeshire</span><span class="citation-popover-snippet">the county of cambridgeshire</span></span></span>
 
 That matters for a county-level UFO history because the Ministry of Defence log uses “Peterborough, Cambridgeshire” for the 2009 entries. For this page, Peterborough is treated in the modern official sense used by the MoD report and by most present-day readers, while recognising that a strict historic-county index would describe the place differently. The result is not a contradiction, but a reminder that UFO records follow reporting systems, police areas, press markets and administrative labels as much as old county lines.
 
 ## What was reported in Peterborough in 2009?
 
-The Peterborough entries are scattered through the MoD’s 2009 list rather than presented as a single official investigation. The earliest Peterborough report in this cluster came on 5 July at 02:00. The witness described two objects: one brighter light, with a dimmer second light behind it, no navigation lights, and the careful caveat that it might perhaps have been a plane rather than a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The Peterborough entries are scattered through the MoD’s 2009 list rather than presented as a single official investigation. The earliest Peterborough report in this cluster came on 5 July at 02:00. The witness described two objects: one brighter light, with a dimmer second light behind it, no navigation lights, and the careful caveat that it might perhaps have been a plane rather than a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That caveat is important. Many UFO reports are written as if the witness is certain; this one preserves uncertainty inside the report itself. It gives the case some human credibility, because the witness was not simply leaping to an exotic conclusion. At the same time, it weakens the case as evidence for anything extraordinary. The description lacks a precise direction of travel, duration, altitude estimate, weather conditions, air-traffic check, radar match or independent corroboration.
 
-A second Peterborough entry came on 31 July. This time the description was closer to the classic 2009 orange-light pattern: three bright orange lights and one dimmer one, fading after being static. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is the kind of observation that often feels striking at the time, especially if the lights are silent and do not flash like normal aircraft. Yet it is also the kind of report that is hardest to analyse afterwards. Static or near-static lights can be aircraft seen head-on, lanterns rising or drifting slowly, distant helicopters, bright planets seen through haze, or lights whose movement is difficult to judge against a dark sky.
+A second Peterborough entry came on 31 July. This time the description was closer to the classic 2009 orange-light pattern: three bright orange lights and one dimmer one, fading after being static.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is the kind of observation that often feels striking at the time, especially if the lights are silent and do not flash like normal aircraft. Yet it is also the kind of report that is hardest to analyse afterwards. Static or near-static lights can be aircraft seen head-on, lanterns rising or drifting slowly, distant helicopters, bright planets seen through haze, or lights whose movement is difficult to judge against a dark sky.
 
-The most notable Peterborough entry came on 7 November at 21:59. The MoD log identifies the witness occupation as “Ex-RN Cdr”, meaning an ex-Royal Navy commander. The reported object was an orange sphere about 30 degrees above the eastern horizon, moving at substantial speed, with no noise, no normal navigation lights and an “eerie orange glow”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The witness background makes this entry stand out from the shorter civilian reports, but it still remains a single visual account. A disciplined observer can misjudge distance, speed and size at night when there is no clear range marker.
+The most notable Peterborough entry came on 7 November at 21:59. The MoD log identifies the witness occupation as “Ex-RN Cdr”, meaning an ex-Royal Navy commander. The reported object was an orange sphere about 30 degrees above the eastern horizon, moving at substantial speed, with no noise, no normal navigation lights and an “eerie orange glow”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> The witness background makes this entry stand out from the shorter civilian reports, but it still remains a single visual account. A disciplined observer can misjudge distance, speed and size at night when there is no clear range marker.
 
-There was also a second Peterborough entry at 22:00 on 7 November, but the log says no details were given and that two separate messages were left asking for contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That entry is useful historically because it hints at more than one local contact around the same time, but it adds little evidential weight. Without a description, it cannot be compared properly with the ex-RN commander’s orange sphere.
+There was also a second Peterborough entry at 22:00 on 7 November, but the log says no details were given and that two separate messages were left asking for contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That entry is useful historically because it hints at more than one local contact around the same time, but it adds little evidential weight. Without a description, it cannot be compared properly with the ex-RN commander’s orange sphere.
 
 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-1-dark.svg" | relative_url }}" alt="2009 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sawtry, Hauxton and Haddenham widen the local pattern
 
-Peterborough was not the only Cambridgeshire-linked place in the 2009 list. The MoD log includes a Sawtry entry in January 2009, but it is extremely thin: the description is simply “A UFO.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Sawtry is useful for mapping local reporting activity, not for drawing conclusions about what was seen. A one-line report with no time, shape, colour, movement or duration cannot be tested in any meaningful way.
+Peterborough was not the only Cambridgeshire-linked place in the 2009 list. The MoD log includes a Sawtry entry in January 2009, but it is extremely thin: the description is simply “A UFO.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Sawtry is useful for mapping local reporting activity, not for drawing conclusions about what was seen. A one-line report with no time, shape, colour, movement or duration cannot be tested in any meaningful way.
 
-Hauxton, south of Cambridge, adds a different type of report. On 2 August at 14:00, a retired merchant seaman reported “glider like objects” flying around in an anti-clockwise direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is not an orange-light night report, and it should not be forced into the Peterborough orange-sphere pattern. Its value is comparative: it shows that the same 2009 Cambridgeshire record contains varied reports, not just lantern-like orange lights. Daytime “glider-like” descriptions invite different checks, such as actual gliders, birds, kites, model aircraft or optical effects.
+Hauxton, south of Cambridge, adds a different type of report. On 2 August at 14:00, a retired merchant seaman reported “glider like objects” flying around in an anti-clockwise direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> This is not an orange-light night report, and it should not be forced into the Peterborough orange-sphere pattern. Its value is comparative: it shows that the same 2009 Cambridgeshire record contains varied reports, not just lantern-like orange lights. Daytime “glider-like” descriptions invite different checks, such as actual gliders, birds, kites, model aircraft or optical effects.
 
-Haddenham, near Ely, appears on 14 November at 06:55. The report described a large bright white light with no trailing light ray towards the ground, no sound or vibration, and the witness’s own rejection of a police helicopter or aircraft heading for RAF Mildenhall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Again, this is not a simple orange-light report, but it belongs in the same county-level time window. It shows how witnesses often tried to rule out familiar explanations as they reported: aircraft, helicopters, fireworks, distress signals or military traffic. That effort is worth noting, even when later readers cannot verify the exclusion.
+Haddenham, near Ely, appears on 14 November at 06:55. The report described a large bright white light with no trailing light ray towards the ground, no sound or vibration, and the witness’s own rejection of a police helicopter or aircraft heading for RAF Mildenhall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Again, this is not a simple orange-light report, but it belongs in the same county-level time window. It shows how witnesses often tried to rule out familiar explanations as they reported: aircraft, helicopters, fireworks, distress signals or military traffic. That effort is worth noting, even when later readers cannot verify the exclusion.
 
 Taken together, the local reports form a loose cluster rather than a single event. Peterborough supplies the clearest orange-light sequence; Sawtry supplies a minimal official entry; Hauxton and Haddenham show that Cambridgeshire’s 2009 reports also included different colours, shapes and times of day. The cluster is therefore best understood as a reporting pattern within a busy national year, not as a coordinated incident.
 
@@ -286,11 +286,11 @@ Taken together, the local reports form a loose cluster rather than a single even
 
 ## How the cluster fits the UK orange-light wave
 
-The Peterborough entries sit inside a year when the MoD’s UFO desk was under unusual pressure. The National Archives later described 2009 as the final year of the MoD UFO desk and stated that the desk received more than 600 sightings and reports that year, roughly treble the previous year’s number. The same release says officials considered the rise partly connected to the craze for releasing Chinese lanterns at weddings and public holidays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The Peterborough entries sit inside a year when the MoD’s UFO desk was under unusual pressure. The National Archives later described 2009 as the final year of the MoD UFO desk and stated that the desk received more than 600 sightings and reports that year, roughly treble the previous year’s number. The same release says officials considered the rise partly connected to the craze for releasing Chinese lanterns at weddings and public holidays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-That national pattern is visible in the MoD list around the Peterborough dates. Early July contains many bright orange or red-orange reports across the country, including formation-like orange lights in Sheffield, bright orange objects in Teignmouth, a mass of orange lights near Birmingham Airport, and the 5 July Peterborough two-light report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Late July is similar: Newmarket, Bury St Edmunds, Henley-on-Thames and other places reported orange or red-orange lights, often in groups, shortly before the 31 July Peterborough entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+That national pattern is visible in the MoD list around the Peterborough dates. Early July contains many bright orange or red-orange reports across the country, including formation-like orange lights in Sheffield, bright orange objects in Teignmouth, a mass of orange lights near Birmingham Airport, and the 5 July Peterborough two-light report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Late July is similar: Newmarket, Bury St Edmunds, Henley-on-Thames and other places reported orange or red-orange lights, often in groups, shortly before the 31 July Peterborough entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
-The November Peterborough reports are even more obviously part of a national run. In the MoD log, 5–9 November includes numerous orange, red-orange or amber lights: Peterlee reported 12 orange lights; Stockport reported an amber glowing ball; Crawley reported orange lights moving slowly and fading; Heckmondwike reported formations of bright orange lights; South Birmingham and Colchester reported silent orange orbs; Peterborough then reported the orange sphere and a second contact message on 7 November. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
+The November Peterborough reports are even more obviously part of a national run. In the MoD log, 5–9 November includes numerous orange, red-orange or amber lights: Peterlee reported 12 orange lights; Stockport reported an amber glowing ball; Crawley reported orange lights moving slowly and fading; Heckmondwike reported formations of bright orange lights; South Birmingham and Colchester reported silent orange orbs; Peterborough then reported the orange sphere and a second contact message on 7 November.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span>
 
 That does not prove that every report had the same cause. It does show why Peterborough should not be isolated from the wider 2009 wave. When a local report matches dozens of similar national descriptions from the same season, the first question is not “why Peterborough alone?” but “what common sky stimulus was being widely reported in this period?”
 
@@ -300,7 +300,7 @@ That does not prove that every report had the same cause. It does show why Peter
 
 Chinese sky lanterns are the most plausible broad explanation for many of the Peterborough-style orange-light reports, especially the 31 July entry and the wider 7 November pattern. They are small hot-air balloons with a naked flame, so they can appear as orange, red or amber balls. They are often silent, may drift in loose groups, can seem to hover or rise, and can fade as the fuel burns out or as they enter cloud or distance.
 
-The National Archives release makes the link explicit for the national 2009 surge. It says many accounts of formations of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even though witnesses did not always recognise them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The Civil Aviation Authority’s CAP 736 guidance also treats sky lanterns as an aviation issue because they may affect flight safety and require notification procedures in some circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
+The National Archives release makes the link explicit for the national 2009 surge. It says many accounts of formations of orange lights moving slowly across the sky described the appearance of Chinese lanterns, even though witnesses did not always recognise them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span> The Civil Aviation Authority’s CAP 736 guidance also treats sky lanterns as an aviation issue because they may affect flight safety and require notification procedures in some circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span>
 
 Lanterns fit several specific details in the Peterborough cluster. The 31 July report of bright orange lights and a dimmer light fading after being static is very compatible with lanterns at different distances or burn stages. The 7 November “eerie orange glow” with no normal navigation lights also fits the visual impression of a lantern, especially around a period when firework and celebration activity would increase the chance of unusual lights being released or noticed.
 
@@ -310,19 +310,19 @@ There are limits to the lantern explanation. The ex-RN commander’s 7 November 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-3-dark.svg" | relative_url }}" alt="2009 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_peterborough_2009_li_7201ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, fireworks and astronomy remain possible in some entries
 
-Sky lanterns are the strongest general explanation, but not every local report should be squeezed into that answer. The 5 July Peterborough witness explicitly allowed that the two lights might have been a plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That matters because aircraft seen from unusual angles can look stranger than aircraft passing overhead. A plane approaching the observer may show bright landing lights with little apparent movement; a second aircraft behind it can create the impression of paired objects; and navigation lights may be missed if the viewing angle, distance or haze is unfavourable.
+Sky lanterns are the strongest general explanation, but not every local report should be squeezed into that answer. The 5 July Peterborough witness explicitly allowed that the two lights might have been a plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That matters because aircraft seen from unusual angles can look stranger than aircraft passing overhead. A plane approaching the observer may show bright landing lights with little apparent movement; a second aircraft behind it can create the impression of paired objects; and navigation lights may be missed if the viewing angle, distance or haze is unfavourable.
 
-Fireworks are also relevant to the November reports. The MoD list around 5–9 November is full of short-lived orange or red-orange lights, glowing balls and witnesses saying objects were “not fireworks” or “not Chinese lanterns”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Such denials are part of the evidence, but they are not conclusive. Fireworks, embers, lanterns and distant aircraft can overlap in colour and timing, and Bonfire-period viewing conditions create a high background level of unusual lights.
+Fireworks are also relevant to the November reports. The MoD list around 5–9 November is full of short-lived orange or red-orange lights, glowing balls and witnesses saying objects were “not fireworks” or “not Chinese lanterns”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> Such denials are part of the evidence, but they are not conclusive. Fireworks, embers, lanterns and distant aircraft can overlap in colour and timing, and Bonfire-period viewing conditions create a high background level of unusual lights.
 
 Astronomy is a weaker fit for the orange-light cluster but remains useful as a control. Bright planets such as Venus or Jupiter can be misread as stationary UFOs, especially near the horizon where atmospheric effects distort colour and brightness. However, several Peterborough-related reports involved multiple orange lights, fading, or apparent movement, which makes a single planet less persuasive for those entries. The Haddenham white-light report at dawn would need a separate reconstruction before any astronomical explanation could be accepted or rejected.
 
 ## What the MoD record can and cannot prove
 
-The MoD list proves that reports were received; it does not prove that anomalous craft were present. The National Archives explains that MoD UFO observation reports can provide details such as location, movement and weather when fuller forms survive, but they generally give no indication of the reason for the sighting, though occasional annotations note local explanations such as concerts or airships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The 2009 public list is even more compressed: for many entries, it gives only a date, time, place, occupation if relevant and a short description.
+The MoD list proves that reports were received; it does not prove that anomalous craft were present. The National Archives explains that MoD UFO observation reports can provide details such as location, movement and weather when fuller forms survive, but they generally give no indication of the reason for the sighting, though occasional annotations note local explanations such as concerts or airships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span> The 2009 public list is even more compressed: for many entries, it gives only a date, time, place, occupation if relevant and a short description.
 
 This makes the Peterborough case family historically useful but evidentially modest. The strongest entry is the 7 November ex-RN commander report because it includes the witness background, angle above the horizon, direction and the absence of navigation lights. But even that entry lacks the checks that would lift it into a stronger category: exact location, duration, weather, wind direction, aircraft movements, radar data, independent witness statements, photographs or a same-time triangulation from another place.
 
-The second 7 November Peterborough contact could have strengthened the case if it had contained details matching the 21:59 report. Instead, the record says only that no details were given and contact messages were left. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is a good example of how clusters can look promising at first glance but remain weak when the supporting data is missing.
+The second 7 November Peterborough contact could have strengthened the case if it had contained details matching the 21:59 report. Instead, the record says only that no details were given and contact messages were left.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">ufo report 2009</span></span></span> That is a good example of how clusters can look promising at first glance but remain weak when the supporting data is missing.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pfJebiJxQ7Y" title="Visiting the spot of a Peterborough UFO sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pfJebiJxQ7Y" target="_blank" rel="noopener noreferrer">Visiting the spot of a Peterborough UFO sighting</a></p><p class="youtube-embed-meta">Channel: MyKawartha</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pfJebiJxQ7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pfJebiJxQ7Y">Open on YouTube</a></p></div></div></div>
@@ -334,194 +334,194 @@ Peterborough’s 2009 orange-light cluster is worth keeping in Cambridgeshire’
 The best assessment is therefore balanced. The reports are real as reports; the orange-light pattern is well documented in the MoD list; and Peterborough had multiple entries in the same national wave. But the available evidence points more strongly towards misidentified lanterns, aircraft and seasonal lights than towards an unexplained structured craft. The cluster’s importance is historical and comparative: it marks the moment when orange lights became one of the most recognisable UFO signatures in Cambridgeshire’s modern record, especially around Peterborough and the wider 2009 reporting surge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Peterborough See Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Peterborough See Orange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating UFO sighting reports and distinguishing patterns from explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating UFO sighting reports and distinguishing patterns from explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores credible sighting reports and how investigators assess unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores credible sighting reports and how investigators assess unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Supports the article&#x27;s cautious approach of testing ordinary explanations before extraordinary ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Supports the article&#x27;s cautious approach of testing ordinary explanations before extraordinary ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veXrRCyr1-EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rough Guide to Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By John Michell, Bob Rickard et al.</p>
         
-        <p class="fr-book-desc">Places local orange-light reports within wider traditions of UFO and mystery reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local orange-light reports within wider traditions of UFO and mystery reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+by+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="{{ '/assets/images/marketplace-covers/11c4fcce147baab28608.jpg' | relative_url }}" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="2009-lights-why-did-peterborough-see-orange-lights-cambridgeshire-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ The best assessment is therefore balanced. The reports are real as reports; the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ The best assessment is therefore balanced. The reports are real as reports; the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ The best assessment is therefore balanced. The reports are real as reports; the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ The best assessment is therefore balanced. The reports are real as reports; the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ The best assessment is therefore balanced. The reports are real as reports; the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,230 +727,230 @@ The best assessment is therefore balanced. The reports are real as reports; the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridgeshirelieutenancy.org.uk  
    Title: the county of cambridgeshire  
-   Link: <a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
+   Link:<a href="https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeshirelieutenancy.org.uk/the-county-of-cambridgeshire/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arun.gov.uk  
-   Link: <a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
+   Link:<a href="https://www.arun.gov.uk/balloon-sky-lantern-releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.arun.gov.uk/balloon-sky-lantern-releases/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a81ebf040f0b62305b9185b/New_Draft_Final_AoS_Report_Appendix_B-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81ebf040f0b62305b9185b/New_Draft_Final_AoS_Report_Appendix_B-compressed.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a81ebf040f0b62305b9185b/New_Draft_Final_AoS_Report_Appendix_B-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a81ebf040f0b62305b9185b/New_Draft_Final_AoS_Report_Appendix_B-compressed.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cc08540f0b6629523b983/27th_Round_Channel_Blocks_AA.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/88202/Onshore_er_App4.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c86c040f0b626628acaef/27th_Round_Outer_Moray_Firth_Blocks_AA.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a809865e5274a2e87dbab5a/2015-07-31_Appendix_B__2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a809865e5274a2e87dbab5a/2015-07-31_Appendix_B__2_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a809865e5274a2e87dbab5a/2015-07-31_Appendix_B__2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a809865e5274a2e87dbab5a/2015-07-31_Appendix_B__2_.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Free Movement Persons Balance Competences Report Evidence Part1  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7eb6e4ed915d74e33f1f66/FreeMovementPersonsBalanceCompetencesReportEvidencePart1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb6e4ed915d74e33f1f66/FreeMovementPersonsBalanceCompetencesReportEvidencePart1.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7eb6e4ed915d74e33f1f66/FreeMovementPersonsBalanceCompetencesReportEvidencePart1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7eb6e4ed915d74e33f1f66/FreeMovementPersonsBalanceCompetencesReportEvidencePart1.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6523fac7244f8e00138e726c/Environment_Agency_natural_capital_condition_indicator_mapping_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6523fac7244f8e00138e726c/Environment_Agency_natural_capital_condition_indicator_mapping_-_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6523fac7244f8e00138e726c/Environment_Agency_natural_capital_condition_indicator_mapping_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6523fac7244f8e00138e726c/Environment_Agency_natural_capital_condition_indicator_mapping_-_report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: FRS17187 What is coastal squeeze report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6038fafde90e07055c14049b/FRS17187_What_is_coastal_squeeze_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6038fafde90e07055c14049b/FRS17187_What_is_coastal_squeeze_-_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6038fafde90e07055c14049b/FRS17187_What_is_coastal_squeeze_-_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6038fafde90e07055c14049b/FRS17187_What_is_coastal_squeeze_-_report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2007  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78a53fed915d04220643b2/ufo_report_2007.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78be15ed915d07d35b2145/UFOReports2006WholeoftheUK.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gov.im  
    Title: Chinese or Sky Lanterns  
-   Link: <a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
+   Link:<a href="https://www.gov.im/lib/news/oft/chineseorskylant1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.im/lib/news/oft/chineseorskylant1.xml</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: accessions 2020 dataset.xlsx  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/accessions-2020-dataset.xlsx</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hwb.gov.wales  
-   Link: <a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
+   Link:<a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nottinghamshire.gov.uk  
-   Link: <a href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf</a>  
+   Link:<a href="https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nottinghamshire.gov.uk/media/127740/sky-lanterns-policy.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: moderngov.southkesteven.gov.uk  
    Title: ENV729 report  
-   Link: <a href="https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf</a>  
+   Link:<a href="https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moderngov.southkesteven.gov.uk/documents/s24101/ENV729%20report.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
+   Link:<a href="https://www.caa.co.uk/cap736" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/cap736</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
+   Link:<a href="https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/media/cjxn2a3r/cast-advice-note-2-lighting-near-aerodromes-apr-24.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caa.co.uk  
    Title: CA P 736  
-   Link: <a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/12600" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/12600</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1026849820769556/posts/1487511284703405/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1026849820769556/posts/1487511284703405/</a>  
+   Link:<a href="https://www.facebook.com/groups/1026849820769556/posts/1487511284703405/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1026849820769556/posts/1487511284703405/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: exeter-airport.co.uk  
    Title: chinese lanterns  
-   Link: <a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
+   Link:<a href="https://exeter-airport.co.uk/chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://exeter-airport.co.uk/chinese-lanterns/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Soke of Peterborough  
-   Link: <a href="https://en.wikipedia.org/wiki/Soke_of_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soke_of_Peterborough</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Soke_of_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soke_of_Peterborough</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peterborough</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peterborough</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Huntingdonshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Huntingdonshire</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cambridgeshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cambridgeshire</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: britannica.com  
    Title: Soke of Peterborough  
-   Link: <a href="https://www.britannica.com/place/Soke-of-Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Soke-of-Peterborough</a>  
+   Link:<a href="https://www.britannica.com/place/Soke-of-Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Soke-of-Peterborough</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   Link:<a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wikishire.co.uk  
-   Link: <a href="https://wikishire.co.uk/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peterborough</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Peterborough</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wikishire.co.uk  
    Title: Soke of Peterborough  
-   Link: <a href="https://wikishire.co.uk/wiki/Soke_of_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Soke_of_Peterborough</a>  
+   Link:<a href="https://wikishire.co.uk/wiki/Soke_of_Peterborough" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Soke_of_Peterborough</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
    Title: ufo report 2009 pdf  
-   Link: <a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/446684700/ufo-report-2009-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446684700/ufo-report-2009-pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: alangodfreymaps.co.uk  
-   Link: <a href="https://www.alangodfreymaps.co.uk/peterborough.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/peterborough.htm</a>  
+   Link:<a href="https://www.alangodfreymaps.co.uk/peterborough.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alangodfreymaps.co.uk/peterborough.htm</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Visiting the spot of a Peterborough UFO sighting  
-   Link: <a href="https://www.youtube.com/watch?v=pfJebiJxQ7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfJebiJxQ7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Sky Lanterns, often mistaken for UFOs- Mobile video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pfJebiJxQ7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfJebiJxQ7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Sky Lanterns, often mistaken for UFOs- Mobile video...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: UFO Caernarfon  
-   Link: <a href="https://www.youtube.com/watch?v=ml_yvaNr-Ew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ml_yvaNr-Ew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO orange lights UK 2009 Why This UFO Sighting Was Different | Monstrum Storied...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ml_yvaNr-Ew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ml_yvaNr-Ew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO orange lights UK 2009 Why This UFO Sighting Was Different | Monstrum Storied...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
+   Link:<a href="https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/caycompass/posts/as-the-holidays-approach-the-civil-aviation-authority-has-released-a-reminder-fo/10161150258645024/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: eaareports.org.uk  
-   Link: <a href="https://eaareports.org.uk/assets/uploads/repository/EAA_Report_79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eaareports.org.uk/assets/uploads/repository/EAA_Report_79.pdf</a>  
+   Link:<a href="https://eaareports.org.uk/assets/uploads/repository/EAA_Report_79.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eaareports.org.uk/assets/uploads/repository/EAA_Report_79.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: gazetteer.org.uk  
-   Link: <a href="https://gazetteer.org.uk/place/Cambridge%2C_Cambridgeshire_7642" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cambridge%2C_Cambridgeshire_7642</a>  
+   Link:<a href="https://gazetteer.org.uk/place/Cambridge%2C_Cambridgeshire_7642" target="_blank" rel="noopener noreferrer nofollow">https://gazetteer.org.uk/place/Cambridge%2C_Cambridgeshire_7642</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: paranormaldatabase.com  
-   Link: <a href="https://www.paranormaldatabase.com/cambridge/campages/cambdata.php/cambridgeshire.htm?pageNum_paradata=5" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/cambridge/campages/cambdata.php/cambridgeshire.htm?pageNum_paradata=5</a>  
+   Link:<a href="https://www.paranormaldatabase.com/cambridge/campages/cambdata.php/cambridgeshire.htm?pageNum_paradata=5" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldatabase.com/cambridge/campages/cambdata.php/cambridgeshire.htm?pageNum_paradata=5</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ptboscannerfeed/posts/did-anyone-see-the-extraterrestrial-lights-in-the-sky-last-night-did-you-get-any/734968035831626/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ptboscannerfeed/posts/did-anyone-see-the-extraterrestrial-lights-in-the-sky-last-night-did-you-get-any/734968035831626/</a>  
+   Link:<a href="https://www.facebook.com/ptboscannerfeed/posts/did-anyone-see-the-extraterrestrial-lights-in-the-sky-last-night-did-you-get-any/734968035831626/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ptboscannerfeed/posts/did-anyone-see-the-extraterrestrial-lights-in-the-sky-last-night-did-you-get-any/734968035831626/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-clarifies-whether-h/1350442020454148/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1hvd38u/happened_this_evening_around_ten_thirty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hvd38u/happened_this_evening_around_ten_thirty/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1hvd38u/happened_this_evening_around_ten_thirty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hvd38u/happened_this_evening_around_ten_thirty/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Peterborough/comments/1qslzp4/i_just_saw_a_orange_ball_of_lights_across_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Peterborough/comments/1qslzp4/i_just_saw_a_orange_ball_of_lights_across_the_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/Peterborough/comments/1qslzp4/i_just_saw_a_orange_ball_of_lights_across_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Peterborough/comments/1qslzp4/i_just_saw_a_orange_ball_of_lights_across_the_sky/</a>  
