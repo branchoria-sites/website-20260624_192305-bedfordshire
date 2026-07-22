@@ -327,89 +327,89 @@ For a public-facing Westmorland UFO history, the fairest conclusion is simple. T
 <img src="{{ "/assets/images/Westmorland_dec0c1_lenticular_clouds_mi_1898ee-Illustration-3-dark.svg" | relative_url }}" alt="UFO Clouds illustration 3" data-theme-src-dark="{{ "/assets/images/Westmorland_dec0c1_lenticular_clouds_mi_1898ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Westmorland_dec0c1_lenticular_clouds_mi_1898ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Westmorland UFOs Are Really Clouds. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Westmorland UFOs Are Really Clouds. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MAiKY4xU6y8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-</h4>
-<p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
-<p class="fr-book-desc">Directly explains cloud types and unusual formations, making it ideal for understanding lenticular clouds often mistaken for UFOs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MAiKY4xU6y8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+        </h4>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloud Collector&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4VvaRDm_FkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cloud Collector&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloud Collector&#x27;s Handbook">The Cloud Collector&#x27;s Handbook</a>
-</h4>
-<p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
-<p class="fr-book-desc">Helps readers identify cloud formations in the field, including the kinds of dramatic shapes that generate UFO reports.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains cloud types and unusual formations, making it ideal for understanding lenticular clouds often mistaken for UFOs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+by+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Identification Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KoZMvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Weather Identification Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+by+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Identification Handbook">The Weather Identification Handbook</a>
-</h4>
-<p class="fr-book-author">By Storm Dunlop</p>
-        
-<p class="fr-book-desc">Teaches recognition of clouds, atmospheric phenomena, and weather conditions that can lead to misidentifications.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+by+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloud Collector&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4VvaRDm_FkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cloud Collector&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloud Collector&#x27;s Handbook">The Cloud Collector&#x27;s Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan</p>
-        
-<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims and avoiding mistaken interpretations of natural phenomena.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers identify cloud formations in the field, including the kinds of dramatic shapes that generate UFO reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+Handbook+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloud Collector&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Identification+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Identification books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Identification Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KoZMvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Weather Identification Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Identification Handbook">The Weather Identification Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Storm Dunlop</p>
+
+        <p class="fr-book-desc">Teaches recognition of clouds, atmospheric phenomena, and weather conditions that can lead to misidentifications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims and avoiding mistaken interpretations of natural phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloud+Collector%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloud Collector&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Identification+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Identification books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

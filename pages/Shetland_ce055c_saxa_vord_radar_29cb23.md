@@ -372,7 +372,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
           <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
         </h4>
         <p class="fr-book-author">By Nick Pope</p>
-        
+
         <p class="fr-book-desc">Covers British defence, airspace monitoring and official UFO files.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explains evidence standards and case classification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">Places UFO claims within broader unexplained phenomena research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,13 +417,13 @@ The cautious conclusion is that Saxa Vord strengthens the setting, not the sight
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
         </h4>
         <p class="fr-book-author">By Nick Cook</p>
-        
+
         <p class="fr-book-desc">Explores secret aerospace claims relevant to radar-era speculation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
