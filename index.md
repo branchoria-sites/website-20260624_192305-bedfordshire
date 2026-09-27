@@ -178,6 +178,7 @@ image: /assets/images/Hampshire_5816c9-overview-social.jpg
 site_image_description: A dark Aberdeenshire coastline with distant lights over the North Sea and a rural road leading toward low hills.
 ---
 
+<h1 class="home-structure-intro-title">UFOs and UAP by UK County</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="UK-HC-SUFFOLK" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
