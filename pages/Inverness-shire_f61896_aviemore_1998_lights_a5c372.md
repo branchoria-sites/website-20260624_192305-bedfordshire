@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:29'
 level: 2
 basename: Inverness-shire_f61896_aviemore_1998_lights_a5c372
 parent_basename: Inverness-shire_f61896
