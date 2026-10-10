@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:29'
 level: 2
 basename: Caithness_d273a3_wick_bright_lights_1e4626
 parent_basename: Caithness_d273a3

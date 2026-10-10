@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:29'
 level: 2
 basename: Warwickshire_17be07_stratford_crowd_sigh_758d06
 parent_basename: Warwickshire_17be07

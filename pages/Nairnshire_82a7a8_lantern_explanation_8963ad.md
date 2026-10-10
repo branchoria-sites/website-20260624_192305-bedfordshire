@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:29'
 level: 2
 basename: Nairnshire_82a7a8_lantern_explanation_8963ad
 parent_basename: Nairnshire_82a7a8

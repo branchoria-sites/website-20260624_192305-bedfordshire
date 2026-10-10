@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:42'
 level: 2
 basename: Westmorland_dec0c1_lenticular_clouds_mi_1898ee
 parent_basename: Westmorland_dec0c1

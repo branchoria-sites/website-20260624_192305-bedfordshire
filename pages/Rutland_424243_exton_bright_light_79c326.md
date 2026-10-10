@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:29'
 level: 2
 basename: Rutland_424243_exton_bright_light_79c326
 parent_basename: Rutland_424243
