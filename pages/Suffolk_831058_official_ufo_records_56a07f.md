@@ -290,7 +290,7 @@ The official records prove three important things about the Rendlesham case.
 
 First, they prove that unusual lights were reported by USAF personnel near RAF Woodbridge and RAF Bentwaters in Suffolk, and that the report reached the Ministry of Defence. The National Archives’ own description of DEFE 24/1948 places the file within MoD records and identifies it as a digital copy of the Rendlesham Forest UFO sighting file from December 1980.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://images.nationalarchives.gov.uk/asset/76305/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: images.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">images.nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National Archives</span></span></span>
 
-Second, they prove that Rendlesham became a matter of public and parliamentary interest long after the incident. National Archives material shows the file includes correspondence connected with later questions about the case, including enquiries from UFO investigation groups. This is part of the reason Rendlesham remained alive as a public issue: the paperwork did not simply record a night in the forest, but also the years of requests, challenges and claims that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948 2</span><span class="citation-popover-snippet">defe 241948 2</span></span></span>
+Second, they prove that Rendlesham became a matter of public and parliamentary interest long after the incident. National Archives material shows the file includes correspondence connected with later questions about the case, including enquiries from UFO investigation groups. This is part of the reason Rendlesham remained alive as a public issue: the paperwork did not simply record a night in the forest, but also the years of requests, challenges and claims that followed.<span class="citation-link-wrap">[The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948 2</span><span class="citation-popover-snippet">defe 241948 2</span></span></span>
 
 Third, the records prove that the MoD did not treat the case as confirmed evidence of a defence threat. This is often misunderstood. “Not fully explained” is not the same as “officially confirmed as extraordinary”. When the final tranche of UFO files was released, The National Archives’ press material stated that the MoD closed its UFO desk after officials concluded that, in more than 50 years, no UFO sighting reported to the department had revealed anything suggesting an extraterrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
@@ -765,7 +765,7 @@ That archival ending does not end public interest in Suffolk. It changes the que
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -775,7 +775,7 @@ That archival ending does not end public interest in Suffolk. It changes the que
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -826,12 +826,12 @@ That archival ending does not end public interest in Suffolk. It changes the que
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -797,7 +797,7 @@ That broader MoD position does not debunk Hamilton specifically. It does, howeve
 15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  

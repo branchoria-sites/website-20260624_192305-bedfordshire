@@ -1299,7 +1299,7 @@ Middlesex’s UFO history is therefore less about proving one spectacular claim 
 26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 27.<a id="endnote-27"></a>
    Source: media.nationalarchives.gov.uk  

@@ -927,7 +927,7 @@ The most honest reading is cautious but not dismissive. Official records confirm
 44.<a id="endnote-44"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 45.<a id="endnote-45"></a>
    Source: cdn.nationalarchives.gov.uk  
