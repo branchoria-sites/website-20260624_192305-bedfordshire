@@ -23,8 +23,8 @@ permalink: /official-records-9f8c6a/
 sidebar_expanded_urls:
 - /what-did-people-see-over-tyrone/
 nav_short_title: Official Records
-title: What Do Official Records Really Prove?
-title_full: What Do Official Records Really Prove?
+title: "What Do Official Records Really Prove? - Tyrone"
+title_full: "What Do Official Records Really Prove? - Tyrone"
 display_title_short: Official Records
 display_title: Official Records
 heading_title: What Do Official Records Really Prove?

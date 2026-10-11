@@ -23,8 +23,8 @@ permalink: /records-48c2a4/
 sidebar_expanded_urls:
 - /what-really-happened-in-radnorshires-ufo/
 nav_short_title: Records
-title: What Do Official Records Really Prove?
-title_full: What Do Official Records Really Prove?
+title: "What Do Official Records Really Prove? - Radnorshire"
+title_full: "What Do Official Records Really Prove? - Radnorshire"
 display_title_short: Records
 display_title: Records
 heading_title: What Do Official Records Really Prove?

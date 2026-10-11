@@ -23,8 +23,8 @@ permalink: /mo-d-files-a84418/
 sidebar_expanded_urls:
 - /what-really-happened-in-midlothians-ufo/
 nav_short_title: Mo D Files
-title: What Do the Mo D Files Really Prove?
-title_full: What Do the Mo D Files Really Prove?
+title: "What Do the Mo D Files Really Prove? - Midlothian"
+title_full: "What Do the Mo D Files Really Prove? - Midlothian"
 display_title_short: Mo D Files
 display_title: Mo D Files
 heading_title: What Do the Mo D Files Really Prove?
