@@ -932,7 +932,7 @@ That is still valuable. The MoD logs show how ordinary north-east witnesses inte
 
 42.<a id="endnote-42"></a>
    Source: moray.gov.uk  
-   Link:<a href="https://www.moray.gov.uk/minutes/archive/XN20031110/Appendix6.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.moray.gov.uk/minutes/archive/XN20031110/Appendix6.PDF</a>  
+   Link:https://www.moray.gov.uk/minutes/archive/XN20031110/Appendix6.PDF  
 
 43.<a id="endnote-43"></a>
    Source: nhv.be  

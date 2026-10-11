@@ -850,7 +850,7 @@ For Suffolk’s UFO history, that is precisely why Rendlesham matters. It is not
 26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 27.<a id="endnote-27"></a>
    Source: images.nationalarchives.gov.uk  
@@ -859,7 +859,7 @@ For Suffolk’s UFO history, that is precisely why Rendlesham matters. It is not
 28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
@@ -868,12 +868,12 @@ For Suffolk’s UFO history, that is precisely why Rendlesham matters. It is not
 30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/4/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/page/3/</a>  
+   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  

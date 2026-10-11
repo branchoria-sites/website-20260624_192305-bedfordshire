@@ -822,7 +822,7 @@ Their greatest weakness is the same feature that makes them easy to browse: comp
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 14.<a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
@@ -848,7 +848,7 @@ Their greatest weakness is the same feature that makes them easy to browse: comp
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 20.<a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  

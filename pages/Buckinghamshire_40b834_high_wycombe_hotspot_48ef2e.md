@@ -815,7 +815,7 @@ The fairest conclusion is that High Wycombe was a reporting node, not a proven m
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 19.<a id="endnote-19"></a>
    Source: discovery.nationalarchives.gov.uk  

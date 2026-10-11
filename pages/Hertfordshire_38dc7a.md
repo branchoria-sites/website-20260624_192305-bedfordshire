@@ -1239,7 +1239,7 @@ The best Hertfordshire UFO history therefore remains balanced: the county has cr
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  

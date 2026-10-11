@@ -767,7 +767,7 @@ For readers, the key distinction is between “unexplained in the log” and “
 11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  

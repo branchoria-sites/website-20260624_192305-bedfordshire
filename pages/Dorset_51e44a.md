@@ -1325,7 +1325,7 @@ The balanced conclusion is that Dorset has a real UFO-reporting history, but not
 29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  

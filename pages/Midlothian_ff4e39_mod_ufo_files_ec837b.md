@@ -788,7 +788,7 @@ The result is a local paper trail with real historical value but limited case st
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
