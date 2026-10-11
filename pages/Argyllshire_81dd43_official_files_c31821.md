@@ -825,7 +825,6 @@ The most balanced reading is therefore neither dismissive nor sensational. Minar
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  

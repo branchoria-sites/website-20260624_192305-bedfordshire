@@ -1286,7 +1286,6 @@ The most worthwhile future work would be case-by-case reconstruction: obtain the
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  

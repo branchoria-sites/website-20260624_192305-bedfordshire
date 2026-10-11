@@ -801,7 +801,6 @@ For now, the best branch-specific reading is that Westmorland is a quiet but ins
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  

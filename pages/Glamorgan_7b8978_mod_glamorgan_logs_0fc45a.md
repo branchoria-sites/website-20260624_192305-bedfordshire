@@ -858,7 +858,6 @@ That makes them a good foundation for the Glamorgan branch of a UK UFO history p
 31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  

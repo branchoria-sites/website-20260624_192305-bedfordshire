@@ -842,7 +842,6 @@ For Wigtownshire, the practical takeaway is simple. The county’s UFO history i
 24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  

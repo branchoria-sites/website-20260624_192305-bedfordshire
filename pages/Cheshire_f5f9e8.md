@@ -1320,7 +1320,6 @@ The evidence does not support a confident extraordinary conclusion. It supports 
 25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  

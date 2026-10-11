@@ -824,7 +824,6 @@ That is why the case remains useful for a county-level UFO history. It is not th
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  

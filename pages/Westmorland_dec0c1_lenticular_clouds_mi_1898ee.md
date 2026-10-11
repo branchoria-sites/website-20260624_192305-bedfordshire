@@ -772,7 +772,6 @@ For a public-facing Westmorland UFO history, the fairest conclusion is simple. T
 11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  

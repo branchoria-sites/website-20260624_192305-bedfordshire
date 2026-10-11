@@ -1272,7 +1272,6 @@ Finally, give mundane explanations their proper weight without pretending they s
 23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
