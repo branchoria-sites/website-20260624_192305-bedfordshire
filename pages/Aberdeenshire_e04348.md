@@ -1324,7 +1324,6 @@ The county’s most credible UFO history is therefore not a hidden grand case, b
 
 33.<a id="endnote-33"></a>
    Source: podcast.show  
-   Link:https://podcast.show/podcast-ufo/episode/96053557/  
 
 34.<a id="endnote-34"></a>
    Source: dorset.police.uk  

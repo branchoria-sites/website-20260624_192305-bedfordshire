@@ -871,7 +871,6 @@ The safest conclusion is that Cambridgeshire’s UFO geography is real but admin
 27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -897,7 +896,6 @@ The safest conclusion is that Cambridgeshire’s UFO geography is real but admin
 33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 34.<a id="endnote-34"></a>
    Source: commons.wikimedia.org  

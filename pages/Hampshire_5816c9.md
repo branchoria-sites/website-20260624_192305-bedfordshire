@@ -1345,7 +1345,6 @@ Those questions do not remove the mystery from every case. They do, however, sto
 29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  

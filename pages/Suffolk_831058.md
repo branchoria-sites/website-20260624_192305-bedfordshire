@@ -1216,7 +1216,6 @@ The balanced conclusion is that Suffolk has produced some of the UK’s most int
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 8.<a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -1264,7 +1263,6 @@ The balanced conclusion is that Suffolk has produced some of the UK’s most int
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 18.<a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -893,7 +893,6 @@ The fairest summary is therefore restrained but not dismissive: Berkshire has se
 35.<a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  

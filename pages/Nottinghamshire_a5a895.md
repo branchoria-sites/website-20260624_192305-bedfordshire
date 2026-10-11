@@ -1442,7 +1442,6 @@ The best-supported Nottinghamshire material is not a hidden crash or proven flyi
 49.<a id="endnote-49"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 50.<a id="endnote-50"></a>
    Source: nationalarchives.gov.uk  

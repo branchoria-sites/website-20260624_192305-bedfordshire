@@ -824,7 +824,6 @@ The best reading is therefore balanced. The MoD lists are valuable because they 
 27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 28.<a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -1274,7 +1274,6 @@ The best way to read Perthshire’s UFO history is therefore as a layered record
 26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 27.<a id="endnote-27"></a>
    Source: webarchive.nationalarchives.gov.uk  

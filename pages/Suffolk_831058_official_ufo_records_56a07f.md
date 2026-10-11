@@ -765,7 +765,6 @@ That archival ending does not end public interest in Suffolk. It changes the que
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -775,7 +774,6 @@ That archival ending does not end public interest in Suffolk. It changes the que
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -826,12 +824,10 @@ That archival ending does not end public interest in Suffolk. It changes the que
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/4/  
 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: State secrets Archives  
-   Link:https://www.nationalarchives.gov.uk/category/state-secrets/page/3/  
 
 19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  

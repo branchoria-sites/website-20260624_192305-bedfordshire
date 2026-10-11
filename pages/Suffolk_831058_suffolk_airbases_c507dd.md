@@ -916,7 +916,6 @@ That is the most useful way to read Suffolk’s cluster. The bases do not prove 
 36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 37.<a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  

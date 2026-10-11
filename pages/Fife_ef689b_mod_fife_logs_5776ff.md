@@ -859,7 +859,6 @@ For county-level UFO history, that is a modest but important foundation. It give
 28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 29.<a id="endnote-29"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -1213,7 +1213,6 @@ The fairest conclusion is a three-part one. First, Lanarkshire has enough record
 10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  

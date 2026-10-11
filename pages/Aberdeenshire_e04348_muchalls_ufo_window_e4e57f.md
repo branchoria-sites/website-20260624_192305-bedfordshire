@@ -816,7 +816,6 @@ Within Aberdeenshire’s UFO history, Muchalls matters less as proof and more as
 
 21.<a id="endnote-21"></a>
    Source: podcast.show  
-   Link:https://podcast.show/podcast-ufo/episode/96053557/  
 
 22.<a id="endnote-22"></a>
    Source: media.nationalarchives.gov.uk  

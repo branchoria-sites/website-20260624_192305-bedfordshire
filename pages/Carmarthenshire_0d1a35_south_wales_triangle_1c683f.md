@@ -846,7 +846,6 @@ The case remains unresolved in the ordinary historical sense: there is enough co
 29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 30.<a id="endnote-30"></a>
    Source: cdn.nationalarchives.gov.uk  

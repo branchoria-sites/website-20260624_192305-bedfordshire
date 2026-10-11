@@ -1273,7 +1273,6 @@ The best reading is balanced: Sutherland is not a debunked non-story, but neithe
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  

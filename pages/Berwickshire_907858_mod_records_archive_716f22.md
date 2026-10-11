@@ -856,7 +856,6 @@ Read this way, the Berwickshire record is neither empty nor sensational. It is a
 30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
