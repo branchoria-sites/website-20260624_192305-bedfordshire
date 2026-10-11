@@ -23,8 +23,8 @@ permalink: /mo-d-records-743118/
 sidebar_expanded_urls:
 - /what-did-worcestershire-really-see/
 nav_short_title: Mo D Records
-title: What Do the Mo D Files Really Prove?
-title_full: What Do the Mo D Files Really Prove?
+title: "What Do the Mo D Files Really Prove? - Worcestershire"
+title_full: "What Do the Mo D Files Really Prove? - Worcestershire"
 display_title_short: Mo D Records
 display_title: Mo D Records
 heading_title: What Do the Mo D Files Really Prove?

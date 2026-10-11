@@ -23,8 +23,8 @@ permalink: /mo-d-logs/
 sidebar_expanded_urls:
 - /what-really-happened-in-derbyshires-ufo/
 nav_short_title: Mo D Logs
-title: What Do the Mo D Files Actually Show?
-title_full: What Do the Mo D Files Actually Show?
+title: "What Do the Mo D Files Actually Show? - Derbyshire"
+title_full: "What Do the Mo D Files Actually Show? - Derbyshire"
 display_title_short: Mo D Logs
 display_title: Mo D Logs
 heading_title: What Do the Mo D Files Actually Show?

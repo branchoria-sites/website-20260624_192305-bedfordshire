@@ -23,8 +23,8 @@ permalink: /mo-d-files-890fb7/
 sidebar_expanded_urls:
 - /what-did-nottinghamshire-really-see/
 nav_short_title: Mo D Files
-title: What Do the Mo D Files Actually Show?
-title_full: What Do the Mo D Files Actually Show?
+title: "What Do the Mo D Files Actually Show? - Nottinghamshire"
+title_full: "What Do the Mo D Files Actually Show? - Nottinghamshire"
 display_title_short: Mo D Files
 display_title: Mo D Files
 heading_title: What Do the Mo D Files Actually Show?

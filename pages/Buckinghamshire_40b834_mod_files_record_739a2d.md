@@ -23,8 +23,8 @@ permalink: /mo-d-files/
 sidebar_expanded_urls:
 - /what-really-happened-in-buckinghamshire/
 nav_short_title: Mo D Files
-title: What Do the Mo D Files Actually Show?
-title_full: What Do the Mo D Files Actually Show?
+title: "What Do the Mo D Files Actually Show? - Buckinghamshire"
+title_full: "What Do the Mo D Files Actually Show? - Buckinghamshire"
 display_title_short: Mo D Files
 display_title: Mo D Files
 heading_title: What Do the Mo D Files Actually Show?
